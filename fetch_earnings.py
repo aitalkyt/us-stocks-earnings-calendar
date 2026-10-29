@@ -177,6 +177,7 @@ FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "").strip()
 LEGACY_YAHOO_FROM = "2026-10-29"  # older saved estimates without a source tag came from Finnhub
 MATCH_TOLERANCE = 0.02            # Finnhub must agree with Yahoo's reported revenue within 2%
 ESTIMATE_TOLERANCE = 0.025        # or Finnhub's estimate must agree with Yahoo's within 2.5%
+PROVISIONAL_MAX_SURPRISE = 0.10   # unconfirmed Finnhub figures are shown only if the surprise looks normal
 
 
 def finnhub_day(date_str):
@@ -225,12 +226,13 @@ def main():
     today = datetime.now(ET).replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
     start, end = today - timedelta(days=DAYS_BACK), today + timedelta(days=DAYS_AHEAD)
 
-    previous, companies = {}, {}
+    previous, companies, mismatch = {}, {}, {}
     if os.path.exists(OUT):
         try:
             with open(OUT) as f:
                 old = json.load(f)
                 companies = old.get("companies", {})
+                mismatch = old.get("revenueMismatch", {})
                 for items in old.get("days", {}).values():
                     for it in items:
                         previous[(it["symbol"], it["date"])] = it
@@ -268,24 +270,32 @@ def main():
             if prev.get("revExpSrc") == "finnhub" and rev_exp is not None:
                 exp_src = "finnhub"
             rep_src = "yahoo" if rev_rep is not None else None
-            fh = backfill.get(it["symbol"], {})
+            sym = it["symbol"]
+            fh = backfill.get(sym, {})
             fh_exp, fh_rep = fh.get("revExpected"), fh.get("revReported")
-            if reported and (rev_exp is None or rev_rep is None) and (fh_exp or fh_rep):
-                # Fill gaps from Finnhub only when it counts revenue the same way as Yahoo
-                # (some companies, like Alphabet, are on a different basis there).
-                if rev_rep and fh_rep:
+            if reported and fh_rep:
+                # Finnhub has the figures within hours. Check it counts revenue the same
+                # way as the official results (some companies, like Alphabet, differ there).
+                if rev_rep:
                     same = abs(fh_rep - rev_rep) / rev_rep <= MATCH_TOLERANCE
-                elif rev_exp and fh_exp:
+                elif rev_exp and exp_src == "yahoo" and fh_exp:
                     same = abs(fh_exp - rev_exp) / rev_exp <= ESTIMATE_TOLERANCE
                 else:
-                    same = None  # nothing to compare yet; wait for the official figure
-                if same:
-                    if rev_exp is None and fh_exp:
-                        rev_exp, exp_src = fh_exp, "finnhub"
-                    if rev_rep is None and fh_rep:
-                        rev_rep, rep_src = fh_rep, "finnhub"
-                elif same is False:
-                    print(f"{it['symbol']} {date_str}: Finnhub revenue basis differs, not used")
+                    same = None  # nothing official to compare with yet
+                if same is False:
+                    mismatch[sym] = True
+                    print(f"{sym} {date_str}: Finnhub revenue basis differs, not used")
+                    if exp_src == "finnhub":
+                        rev_exp, exp_src = None, None
+                elif sym not in mismatch:
+                    provisional_ok = same or (
+                        fh_exp and abs(fh_rep - fh_exp) / fh_exp <= PROVISIONAL_MAX_SURPRISE
+                    )
+                    if provisional_ok:
+                        if rev_exp is None and fh_exp:
+                            rev_exp, exp_src = fh_exp, "finnhub"
+                        if rev_rep is None:
+                            rev_rep, rep_src = fh_rep, "finnhub"
             out.append({
                 "symbol": it["symbol"],
                 "name": it["name"],
@@ -313,7 +323,7 @@ def main():
             for k, v in previous.items()
             if k not in shown and v.get("revExpected") is not None and k[1] >= cutoff
         ]
-        json.dump({"updated": datetime.now(ET).isoformat(), "days": days, "companies": companies, "saved": saved}, f, indent=1)
+        json.dump({"updated": datetime.now(ET).isoformat(), "days": days, "companies": companies, "revenueMismatch": mismatch, "saved": saved}, f, indent=1)
     print(f"Wrote {sum(len(v) for v in days.values())} reports across {len(days)} days")
 
 
