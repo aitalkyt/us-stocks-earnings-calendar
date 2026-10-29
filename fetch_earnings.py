@@ -176,6 +176,7 @@ def revenue(symbol, date_str, reported, previous):
 FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "").strip()
 LEGACY_YAHOO_FROM = "2026-10-29"  # older saved estimates without a source tag came from Finnhub
 MATCH_TOLERANCE = 0.02            # Finnhub must agree with Yahoo's reported revenue within 2%
+ESTIMATE_TOLERANCE = 0.025        # or Finnhub's estimate must agree with Yahoo's within 2.5%
 
 
 def finnhub_day(date_str):
@@ -208,6 +209,51 @@ def finnhub_day(date_str):
     return out
 
 
+def finnhub_basis_ok(symbol, cache):
+    """Check Finnhub's past quarterly revenue against Yahoo's official figures (cached)."""
+    if symbol in cache:
+        return cache[symbol]
+    if not FINNHUB_KEY:
+        return False
+    try:
+        inc = yf.Ticker(symbol).quarterly_income_stmt
+        official = {}
+        if inc is not None and "Total Revenue" in inc.index:
+            for col in inc.columns:
+                v = num(inc.loc["Total Revenue", col])
+                if v:
+                    official[pd.Timestamp(col)] = v
+        today = datetime.now()
+        res = requests.get(
+            "https://finnhub.io/api/v1/calendar/earnings",
+            params={"symbol": symbol.replace("-", "."), "token": FINNHUB_KEY,
+                    "from": (today - timedelta(days=400)).strftime("%Y-%m-%d"),
+                    "to": (today - timedelta(days=20)).strftime("%Y-%m-%d")},
+            timeout=30,
+        )
+        res.raise_for_status()
+        rows = res.json().get("earningsCalendar") or []
+        time.sleep(1.1)
+    except Exception as err:
+        print(f"{symbol} basis check failed: {err}")
+        return False  # unknown this run, try again next run
+    checks = []
+    for r in rows:
+        actual = num(r.get("revenueActual"))
+        if not actual or not r.get("date"):
+            continue
+        day = pd.Timestamp(r["date"])
+        for end, value in official.items():
+            if day - timedelta(days=75) < end <= day:
+                checks.append(abs(actual - value) / value <= MATCH_TOLERANCE)
+                break
+    if not checks:
+        return False
+    ok = sum(checks) >= max(1, len(checks) - 1)  # allow one odd quarter
+    cache[symbol] = ok
+    return ok
+
+
 def find_previous(previous, symbol, date_str):
     """Saved values for this report, even if Yahoo moved the date by a few days."""
     if (symbol, date_str) in previous:
@@ -224,12 +270,13 @@ def main():
     today = datetime.now(ET).replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
     start, end = today - timedelta(days=DAYS_BACK), today + timedelta(days=DAYS_AHEAD)
 
-    previous, companies = {}, {}
+    previous, companies, fh_basis = {}, {}, {}
     if os.path.exists(OUT):
         try:
             with open(OUT) as f:
                 old = json.load(f)
                 companies = old.get("companies", {})
+                fh_basis = old.get("revenueBasis", {})
                 for items in old.get("days", {}).values():
                     for it in items:
                         previous[(it["symbol"], it["date"])] = it
@@ -266,15 +313,25 @@ def main():
             exp_src = "yahoo" if rev_exp is not None else None
             if prev.get("revExpSrc") == "finnhub" and rev_exp is not None:
                 exp_src = "finnhub"
-            if rev_exp is None and rev_rep:
-                # Yahoo already deleted the estimate: use Finnhub's, but only if Finnhub
-                # counts revenue the same way (its reported figure matches Yahoo's).
-                fh = backfill.get(it["symbol"], {})
-                fh_exp, fh_rep = fh.get("revExpected"), fh.get("revReported")
-                if fh_exp and fh_rep and abs(fh_rep - rev_rep) / rev_rep <= MATCH_TOLERANCE:
-                    rev_exp, exp_src = fh_exp, "finnhub"
-                elif fh_exp:
-                    print(f"{it['symbol']} {date_str}: Finnhub revenue basis differs from Yahoo, estimate skipped")
+            rep_src = "yahoo" if rev_rep is not None else None
+            fh = backfill.get(it["symbol"], {})
+            fh_exp, fh_rep = fh.get("revExpected"), fh.get("revReported")
+            if reported and (rev_exp is None or rev_rep is None) and (fh_exp or fh_rep):
+                # Fill gaps from Finnhub only when it counts revenue the same way as Yahoo
+                # (some companies, like Alphabet, are on a different basis there).
+                if rev_rep and fh_rep:
+                    same = abs(fh_rep - rev_rep) / rev_rep <= MATCH_TOLERANCE
+                elif rev_exp and fh_exp:
+                    same = abs(fh_exp - rev_exp) / rev_exp <= ESTIMATE_TOLERANCE
+                else:
+                    same = finnhub_basis_ok(it["symbol"], fh_basis)
+                if same:
+                    if rev_exp is None and fh_exp:
+                        rev_exp, exp_src = fh_exp, "finnhub"
+                    if rev_rep is None and fh_rep:
+                        rev_rep, rep_src = fh_rep, "finnhub"
+                else:
+                    print(f"{it['symbol']} {date_str}: Finnhub revenue basis differs, not used")
             out.append({
                 "symbol": it["symbol"],
                 "name": it["name"],
@@ -287,7 +344,7 @@ def main():
                 "revExpected": rev_exp,
                 "revReported": rev_rep,
                 "revExpSrc": exp_src,
-                "revRepSrc": "yahoo" if rev_rep is not None else None,
+                "revRepSrc": rep_src,
             })
             time.sleep(0.5)
         days[date_str] = out
@@ -302,7 +359,7 @@ def main():
             for k, v in previous.items()
             if k not in shown and v.get("revExpected") is not None and k[1] >= cutoff
         ]
-        json.dump({"updated": datetime.now(ET).isoformat(), "days": days, "companies": companies, "saved": saved}, f, indent=1)
+        json.dump({"updated": datetime.now(ET).isoformat(), "days": days, "companies": companies, "revenueBasis": fh_basis, "saved": saved}, f, indent=1)
     print(f"Wrote {sum(len(v) for v in days.values())} reports across {len(days)} days")
 
 
