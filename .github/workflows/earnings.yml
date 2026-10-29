@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-earnings
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -18,10 +22,25 @@ jobs:
           python-version: "3.12"
       - run: pip install yfinance pandas
       - run: python fetch_earnings.py
-      - name: Commit earnings.json
+      - name: Save earnings.json
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add earnings.json
-          git diff --staged --quiet || git commit -m "Update earnings"
-          git push
+          cp earnings.json /tmp/earnings.json
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/earnings.json earnings.json
+            git add earnings.json
+            if git diff --staged --quiet; then
+              echo "No changes to save"
+              exit 0
+            fi
+            git commit -m "Update earnings"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Save failed, retrying..."
+            sleep 10
+          done
+          exit 1
