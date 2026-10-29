@@ -175,7 +175,9 @@ def revenue(symbol, date_str, reported, previous):
 
 FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "").strip()
 LEGACY_YAHOO_FROM = "2026-10-29"  # older saved estimates without a source tag came from Finnhub
-ESTIMATE_TOLERANCE = 0.025        # or Finnhub's estimate must agree with Yahoo's within 2.5%
+MATCH_TOLERANCE = 0.02            # Finnhub's reported revenue must match the official figure within 2%
+ESTIMATE_TOLERANCE = 0.025        # Finnhub's estimate must agree with the saved consensus within 2.5%
+PROVISIONAL_MAX_SURPRISE = 0.10   # without a saved consensus, only show results that look normal
 
 
 def finnhub_day(date_str):
@@ -224,12 +226,13 @@ def main():
     today = datetime.now(ET).replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
     start, end = today - timedelta(days=DAYS_BACK), today + timedelta(days=DAYS_AHEAD)
 
-    previous, companies = {}, {}
+    previous, companies, mismatch = {}, {}, {}
     if os.path.exists(OUT):
         try:
             with open(OUT) as f:
                 old = json.load(f)
                 companies = old.get("companies", {})
+                mismatch = old.get("revenueMismatch", {})
                 for items in old.get("days", {}).values():
                     for it in items:
                         previous[(it["symbol"], it["date"])] = it
@@ -268,12 +271,21 @@ def main():
             sym = it["symbol"]
             fh = backfill.get(sym, {})
             fh_exp, fh_rep = fh.get("revExpected"), fh.get("revReported")
-            if reported and rev_rep is None and fh_rep and rev_exp and fh_exp:
-                # Expected revenue only ever comes from the consensus saved before the report.
-                # Finnhub is used just to show the reported figure sooner, and only when its
-                # own estimate agrees with that consensus (proving it counts revenue the same way).
-                if abs(fh_exp - rev_exp) / rev_exp <= ESTIMATE_TOLERANCE:
-                    rev_rep, rep_src = fh_rep, "finnhub"
+            sym = it["symbol"]
+            if reported and fh_rep:
+                # Reported revenue usually reaches Finnhub within hours, days before the
+                # official statements. Use it only where Finnhub counts revenue the same way.
+                if rev_rep is not None:
+                    if abs(fh_rep - rev_rep) / rev_rep > MATCH_TOLERANCE:
+                        mismatch[sym] = True  # remember, so this company never uses it again
+                elif sym not in mismatch:
+                    if rev_exp and fh_exp:
+                        ok = abs(fh_exp - rev_exp) / rev_exp <= ESTIMATE_TOLERANCE
+                    else:
+                        # no saved consensus to compare with: only trust a normal-looking result
+                        ok = bool(fh_exp) and abs(fh_rep - fh_exp) / fh_exp <= PROVISIONAL_MAX_SURPRISE
+                    if ok:
+                        rev_rep, rep_src = fh_rep, "finnhub"
             out.append({
                 "symbol": it["symbol"],
                 "name": it["name"],
@@ -301,7 +313,7 @@ def main():
             for k, v in previous.items()
             if k not in shown and v.get("revExpected") is not None and k[1] >= cutoff
         ]
-        json.dump({"updated": datetime.now(ET).isoformat(), "days": days, "companies": companies, "saved": saved}, f, indent=1)
+        json.dump({"updated": datetime.now(ET).isoformat(), "days": days, "companies": companies, "revenueMismatch": mismatch, "saved": saved}, f, indent=1)
     print(f"Wrote {sum(len(v) for v in days.values())} reports across {len(days)} days")
 
 
