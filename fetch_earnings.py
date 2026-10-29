@@ -12,6 +12,7 @@ from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 import pandas as pd
+import requests
 import yfinance as yf
 
 ET = ZoneInfo("America/New_York")
@@ -166,6 +167,39 @@ def revenue(symbol, date_str, reported, previous):
     return exp, rep
 
 
+FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "").strip()
+
+
+def finnhub_day(date_str):
+    """Revenue estimate and actual for every report on one past day (needs FINNHUB_KEY).
+
+    Used only by this script on GitHub, a few calls per run, so website
+    visitors never touch Finnhub or its limits."""
+    if not FINNHUB_KEY:
+        return {}
+    try:
+        res = requests.get(
+            "https://finnhub.io/api/v1/calendar/earnings",
+            params={"from": date_str, "to": date_str, "token": FINNHUB_KEY},
+            timeout=30,
+        )
+        res.raise_for_status()
+        rows = res.json().get("earningsCalendar") or []
+    except Exception as err:
+        print(f"Finnhub {date_str} failed: {err}")
+        return {}
+    out = {}
+    for r in rows:
+        sym = r.get("symbol")
+        if sym:
+            out[sym.replace(".", "-")] = {
+                "revExpected": num(r.get("revenueEstimate")),
+                "revReported": num(r.get("revenueActual")),
+            }
+    time.sleep(1.1)  # stay well under Finnhub's 60 calls per minute
+    return out
+
+
 def find_previous(previous, symbol, date_str):
     """Saved values for this report, even if Yahoo moved the date by a few days."""
     if (symbol, date_str) in previous:
@@ -201,8 +235,10 @@ def main():
     for item in found.values():
         by_day.setdefault(item["date"], []).append(item)
 
+    today_str = today.strftime("%Y-%m-%d")
     days = {}
     for date_str in sorted(by_day):
+        backfill = finnhub_day(date_str) if date_str <= today_str else {}
         ranked, seen_names = [], set()
         for it in sorted(by_day[date_str], key=lambda it: it["cap"] or 0, reverse=True):
             name_key = it["name"].lower()
@@ -219,6 +255,11 @@ def main():
             prev = find_previous(previous, it["symbol"], date_str)
             reported = it["epsReported"] is not None
             rev_exp, rev_rep = revenue(it["symbol"], date_str, reported, prev)
+            fh = backfill.get(it["symbol"], {})
+            if rev_exp is None:
+                rev_exp = fh.get("revExpected")  # estimate Yahoo already deleted
+            if rev_rep is None and reported:
+                rev_rep = fh.get("revReported")  # usually available sooner than Yahoo
             out.append({
                 "symbol": it["symbol"],
                 "name": it["name"],
