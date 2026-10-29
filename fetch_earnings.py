@@ -141,9 +141,15 @@ def period(event):
 
 
 def revenue(symbol, date_str, reported, previous):
-    """Expected revenue (consensus) and reported revenue for one report."""
-    exp = previous.get("revExpected")
-    rep = previous.get("revReported")
+    """Expected revenue (consensus) and reported revenue for one report.
+
+    Only values that came from Yahoo (or a cross-checked Finnhub estimate) are reused,
+    so a mismatched figure from an earlier run is replaced, not kept forever."""
+    exp_src = previous.get("revExpSrc")
+    if exp_src is None and previous.get("revExpected") is not None and date_str >= LEGACY_YAHOO_FROM:
+        exp_src = "yahoo"  # saved by the earliest runs, before sources were recorded
+    exp = previous.get("revExpected") if exp_src in ("yahoo", "finnhub") else None
+    rep = previous.get("revReported") if previous.get("revRepSrc") == "yahoo" else None
     t = yf.Ticker(symbol)
     if exp is None and not reported:
         try:
@@ -168,6 +174,8 @@ def revenue(symbol, date_str, reported, previous):
 
 
 FINNHUB_KEY = os.environ.get("FINNHUB_KEY", "").strip()
+LEGACY_YAHOO_FROM = "2026-10-29"  # older saved estimates without a source tag came from Finnhub
+MATCH_TOLERANCE = 0.02            # Finnhub must agree with Yahoo's reported revenue within 2%
 
 
 def finnhub_day(date_str):
@@ -255,11 +263,18 @@ def main():
             prev = find_previous(previous, it["symbol"], date_str)
             reported = it["epsReported"] is not None
             rev_exp, rev_rep = revenue(it["symbol"], date_str, reported, prev)
-            fh = backfill.get(it["symbol"], {})
-            if rev_exp is None:
-                rev_exp = fh.get("revExpected")  # estimate Yahoo already deleted
-            if rev_rep is None and reported:
-                rev_rep = fh.get("revReported")  # usually available sooner than Yahoo
+            exp_src = "yahoo" if rev_exp is not None else None
+            if prev.get("revExpSrc") == "finnhub" and rev_exp is not None:
+                exp_src = "finnhub"
+            if rev_exp is None and rev_rep:
+                # Yahoo already deleted the estimate: use Finnhub's, but only if Finnhub
+                # counts revenue the same way (its reported figure matches Yahoo's).
+                fh = backfill.get(it["symbol"], {})
+                fh_exp, fh_rep = fh.get("revExpected"), fh.get("revReported")
+                if fh_exp and fh_rep and abs(fh_rep - rev_rep) / rev_rep <= MATCH_TOLERANCE:
+                    rev_exp, exp_src = fh_exp, "finnhub"
+                elif fh_exp:
+                    print(f"{it['symbol']} {date_str}: Finnhub revenue basis differs from Yahoo, estimate skipped")
             out.append({
                 "symbol": it["symbol"],
                 "name": it["name"],
@@ -271,6 +286,8 @@ def main():
                 "epsReported": it["epsReported"],
                 "revExpected": rev_exp,
                 "revReported": rev_rep,
+                "revExpSrc": exp_src,
+                "revRepSrc": "yahoo" if rev_rep is not None else None,
             })
             time.sleep(0.5)
         days[date_str] = out
@@ -280,7 +297,8 @@ def main():
         shown = {(it["symbol"], it["date"]) for items in days.values() for it in items}
         cutoff = (start - timedelta(days=3)).strftime("%Y-%m-%d")
         saved = [
-            {"symbol": k[0], "date": k[1], "revExpected": v.get("revExpected"), "epsExpected": v.get("epsExpected")}
+            {"symbol": k[0], "date": k[1], "revExpected": v.get("revExpected"),
+             "revExpSrc": v.get("revExpSrc"), "epsExpected": v.get("epsExpected")}
             for k, v in previous.items()
             if k not in shown and v.get("revExpected") is not None and k[1] >= cutoff
         ]
