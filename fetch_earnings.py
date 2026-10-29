@@ -166,6 +166,18 @@ def revenue(symbol, date_str, reported, previous):
     return exp, rep
 
 
+def find_previous(previous, symbol, date_str):
+    """Saved values for this report, even if Yahoo moved the date by a few days."""
+    if (symbol, date_str) in previous:
+        return previous[(symbol, date_str)]
+    day = datetime.strptime(date_str, "%Y-%m-%d")
+    for shift in (1, -1, 2, -2, 3, -3):
+        other = (day + timedelta(days=shift)).strftime("%Y-%m-%d")
+        if (symbol, other) in previous:
+            return previous[(symbol, other)]
+    return {}
+
+
 def main():
     today = datetime.now(ET).replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
     start, end = today - timedelta(days=DAYS_BACK), today + timedelta(days=DAYS_AHEAD)
@@ -179,6 +191,8 @@ def main():
                 for items in old.get("days", {}).values():
                     for it in items:
                         previous[(it["symbol"], it["date"])] = it
+                for it in old.get("saved", []):
+                    previous.setdefault((it["symbol"], it["date"]), it)
         except Exception:
             pass
 
@@ -202,7 +216,7 @@ def main():
                 break
         out = []
         for it in ranked:
-            prev = previous.get((it["symbol"], date_str), {})
+            prev = find_previous(previous, it["symbol"], date_str)
             reported = it["epsReported"] is not None
             rev_exp, rev_rep = revenue(it["symbol"], date_str, reported, prev)
             out.append({
@@ -221,7 +235,15 @@ def main():
         days[date_str] = out
 
     with open(OUT, "w") as f:
-        json.dump({"updated": datetime.now(ET).isoformat(), "days": days, "companies": companies}, f, indent=1)
+        # remember expected revenue for reports that fell out of the top list, so it is not lost
+        shown = {(it["symbol"], it["date"]) for items in days.values() for it in items}
+        cutoff = (start - timedelta(days=3)).strftime("%Y-%m-%d")
+        saved = [
+            {"symbol": k[0], "date": k[1], "revExpected": v.get("revExpected"), "epsExpected": v.get("epsExpected")}
+            for k, v in previous.items()
+            if k not in shown and v.get("revExpected") is not None and k[1] >= cutoff
+        ]
+        json.dump({"updated": datetime.now(ET).isoformat(), "days": days, "companies": companies, "saved": saved}, f, indent=1)
     print(f"Wrote {sum(len(v) for v in days.values())} reports across {len(days)} days")
 
 
