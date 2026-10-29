@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:03:10.664985-04:00",
+ "updated": "2026-10-29T05:17:12.213967-04:00",
  "days": {
   "2026-10-22": [
    {
@@ -12,7 +12,9 @@
     "epsExpected": 1.89,
     "epsReported": 2.0,
     "revExpected": 23479235426.0,
-    "revReported": 23276000000.0
+    "revReported": 23276000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "UNP",
@@ -24,7 +26,9 @@
     "epsExpected": 3.48,
     "epsReported": 3.53,
     "revExpected": 7196008509.0,
-    "revReported": 7197000000.0
+    "revReported": 7197000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "WDC",
@@ -36,7 +40,9 @@
     "epsExpected": 4.1,
     "epsReported": 4.64,
     "revExpected": 4176880957.0,
-    "revReported": 4381000000.0
+    "revReported": 4381000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "LMT",
@@ -48,7 +54,9 @@
     "epsExpected": 7.52,
     "epsReported": 7.97,
     "revExpected": 20714300807.0,
-    "revReported": 20711000000.0
+    "revReported": 20711000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "NEM",
@@ -60,7 +68,9 @@
     "epsExpected": 1.95,
     "epsReported": 2.2,
     "revExpected": 6350400027.0,
-    "revReported": 6363000000.0
+    "revReported": 6363000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "VLO",
@@ -72,7 +82,9 @@
     "epsExpected": 21.23,
     "epsReported": 23.9,
     "revExpected": 39242428334.0,
-    "revReported": 46098000000.0
+    "revReported": 46098000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BX",
@@ -83,8 +95,10 @@
     "period": "",
     "epsExpected": 1.26,
     "epsReported": 1.32,
-    "revExpected": 3378885984.0,
-    "revReported": 3216570000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "CMCSA",
@@ -96,7 +110,9 @@
     "epsExpected": 0.99,
     "epsReported": 1.07,
     "revExpected": 30156776102.0,
-    "revReported": 29298000000.0
+    "revReported": 29298000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "NSC",
@@ -108,7 +124,9 @@
     "epsExpected": 3.47,
     "epsReported": 3.62,
     "revExpected": 3512184352.0,
-    "revReported": 3526000000.0
+    "revReported": 3526000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "HON",
@@ -120,7 +138,9 @@
     "epsExpected": 2.16,
     "epsReported": 2.27,
     "revExpected": 5056992502.0,
-    "revReported": 4994000000.0
+    "revReported": 4994000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BE",
@@ -132,7 +152,9 @@
     "epsExpected": 0.68,
     "epsReported": 0.94,
     "revExpected": 1092404661.0,
-    "revReported": 1235837000.0
+    "revReported": 1235837000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "NDAQ",
@@ -143,8 +165,10 @@
     "period": "",
     "epsExpected": 1.02,
     "epsReported": 1.04,
-    "revExpected": 1495055901.0,
-    "revReported": 2393000000.0
+    "revExpected": null,
+    "revReported": 2393000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FIX",
@@ -156,7 +180,9 @@
     "epsExpected": 12.85,
     "epsReported": 13.91,
     "revExpected": 3435126251.0,
-    "revReported": 3766302000.0
+    "revReported": 3766302000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ROP",
@@ -167,8 +193,10 @@
     "period": "",
     "epsExpected": 5.79,
     "epsReported": 5.89,
-    "revExpected": 2194047916.0,
-    "revReported": 2171800000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "PCG",
@@ -180,7 +208,9 @@
     "epsExpected": 0.42,
     "epsReported": 0.41,
     "revExpected": 6902774906.0,
-    "revReported": 6188000000.0
+    "revReported": 6188000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-10-23": [
@@ -193,8 +223,10 @@
     "period": "",
     "epsExpected": 4.5,
     "epsReported": 5.42,
-    "revExpected": 20323276176.0,
-    "revReported": 20062000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "SLB",
@@ -205,8 +237,10 @@
     "period": "",
     "epsExpected": 0.61,
     "epsReported": 0.64,
-    "revExpected": 9373008827.0,
-    "revReported": 9449000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "BAH",
@@ -217,8 +251,10 @@
     "period": "",
     "epsExpected": 1.48,
     "epsReported": 1.76,
-    "revExpected": 2836597352.0,
-    "revReported": 2778000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "MKTX",
@@ -229,8 +265,10 @@
     "period": "",
     "epsExpected": 1.95,
     "epsReported": 1.86,
-    "revExpected": 223899180.0,
-    "revReported": 210407000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "BCPC",
@@ -242,7 +280,9 @@
     "epsExpected": 1.54,
     "epsReported": 1.57,
     "revExpected": 295034663.0,
-    "revReported": 290658000.0
+    "revReported": 290658000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "RITM",
@@ -253,8 +293,10 @@
     "period": "",
     "epsExpected": 0.5,
     "epsReported": 0.55,
-    "revExpected": 469909716.0,
-    "revReported": 479592000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "GNTX",
@@ -265,8 +307,10 @@
     "period": "",
     "epsExpected": 0.51,
     "epsReported": 0.47,
-    "revExpected": 683904757.0,
-    "revReported": 647709650.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "FLG",
@@ -277,8 +321,10 @@
     "period": "",
     "epsExpected": 0.07,
     "epsReported": 0.01,
-    "revExpected": 492645053.0,
-    "revReported": 460000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "FHB",
@@ -289,8 +335,10 @@
     "period": "",
     "epsExpected": 0.59,
     "epsReported": 0.52,
-    "revExpected": 231915523.0,
-    "revReported": 230227000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    }
   ],
   "2026-10-26": [
@@ -303,8 +351,10 @@
     "period": "",
     "epsExpected": 1.27,
     "epsReported": 1.31,
-    "revExpected": 35786346491.0,
-    "revReported": 34313000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "WELL",
@@ -316,7 +366,9 @@
     "epsExpected": 0.71,
     "epsReported": 0.67,
     "revExpected": 3675507331.0,
-    "revReported": 3693033000.0
+    "revReported": 3693033000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "CDNS",
@@ -328,7 +380,9 @@
     "epsExpected": 2.05,
     "epsReported": 2.11,
     "revExpected": 1645201860.0,
-    "revReported": 1633311000.0
+    "revReported": 1633311000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "NUE",
@@ -339,8 +393,10 @@
     "period": "",
     "epsExpected": 5.83,
     "epsReported": 5.8,
-    "revExpected": 10942712286.0,
-    "revReported": 11249000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "PSA",
@@ -352,7 +408,9 @@
     "epsExpected": 2.29,
     "epsReported": 2.11,
     "revExpected": 1336061330.0,
-    "revReported": 1366190000.0
+    "revReported": 1366190000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "HIG",
@@ -363,8 +421,10 @@
     "period": "",
     "epsExpected": 3.17,
     "epsReported": 3.5,
-    "revExpected": 7443559004.0,
-    "revReported": 7064000000.0
+    "revExpected": null,
+    "revReported": 7064000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "CINF",
@@ -376,7 +436,9 @@
     "epsExpected": 2.11,
     "epsReported": 2.86,
     "revExpected": 3089580000.0,
-    "revReported": 3047000000.0
+    "revReported": 3047000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "PFG",
@@ -387,8 +449,10 @@
     "period": "",
     "epsExpected": 2.43,
     "epsReported": 2.22,
-    "revExpected": 4313974872.0,
-    "revReported": 4275000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "BRO",
@@ -400,7 +464,9 @@
     "epsExpected": 1.08,
     "epsReported": 1.07,
     "revExpected": 1774079200.0,
-    "revReported": 1700000000.0
+    "revReported": 1700000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "SUI",
@@ -412,7 +478,9 @@
     "epsExpected": 0.97,
     "epsReported": 1.16,
     "revExpected": 591556242.0,
-    "revReported": 552600000.0
+    "revReported": 552600000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "AMKR",
@@ -424,7 +492,9 @@
     "epsExpected": 0.78,
     "epsReported": 0.76,
     "revExpected": 2053540500.0,
-    "revReported": 1990557000.0
+    "revReported": 1990557000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "RMBS",
@@ -436,7 +506,9 @@
     "epsExpected": 0.79,
     "epsReported": 0.84,
     "revExpected": 217449424.0,
-    "revReported": 218289000.0
+    "revReported": 218289000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BRX",
@@ -448,7 +520,9 @@
     "epsExpected": 0.22,
     "epsReported": 0.26,
     "revExpected": 358423750.0,
-    "revReported": 359598000.0
+    "revReported": 359598000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "SSD",
@@ -459,8 +533,10 @@
     "period": "",
     "epsExpected": 2.4,
     "epsReported": 2.68,
-    "revExpected": 631642890.0,
-    "revReported": 638130000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "NE",
@@ -472,7 +548,9 @@
     "epsExpected": 0.23,
     "epsReported": -0.57,
     "revExpected": 730661739.0,
-    "revReported": 728764000.0
+    "revReported": 728764000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-10-27": [
@@ -485,8 +563,10 @@
     "period": "",
     "epsExpected": 3.44,
     "epsReported": 3.48,
-    "revExpected": 12325777573.0,
-    "revReported": 12139000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "KO",
@@ -497,8 +577,10 @@
     "period": "",
     "epsExpected": 0.88,
     "epsReported": 0.91,
-    "revExpected": 13307860929.0,
-    "revReported": 13354000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "BA",
@@ -510,7 +592,9 @@
     "epsExpected": -0.2,
     "epsReported": -0.34,
     "revExpected": 24555557049.0,
-    "revReported": 24188000000.0
+    "revReported": 24188000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "SPGI",
@@ -522,7 +606,9 @@
     "epsExpected": 4.42,
     "epsReported": 4.58,
     "revExpected": 3715626930.0,
-    "revReported": 3678000000.0
+    "revReported": 3678000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "GLW",
@@ -533,8 +619,10 @@
     "period": "",
     "epsExpected": 0.88,
     "epsReported": 0.91,
-    "revExpected": 5078647236.0,
-    "revReported": 5081000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "HCA",
@@ -545,8 +633,10 @@
     "period": "",
     "epsExpected": 6.63,
     "epsReported": 7.22,
-    "revExpected": 19525238048.0,
-    "revReported": 19849000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "FCX",
@@ -557,8 +647,10 @@
     "period": "",
     "epsExpected": 0.83,
     "epsReported": 0.88,
-    "revExpected": 7498002761.0,
-    "revReported": 7546000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "WM",
@@ -569,8 +661,10 @@
     "period": "",
     "epsExpected": 2.18,
     "epsReported": 2.15,
-    "revExpected": 7010424800.0,
-    "revReported": 6846000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "UPS",
@@ -581,8 +675,10 @@
     "period": "",
     "epsExpected": 1.62,
     "epsReported": 1.69,
-    "revExpected": 22508653152.0,
-    "revReported": 22853000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "AMT",
@@ -594,7 +690,9 @@
     "epsExpected": 1.63,
     "epsReported": 1.64,
     "revExpected": 2788231441.0,
-    "revReported": 2785400000.0
+    "revReported": 2785400000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "HOOD",
@@ -606,7 +704,9 @@
     "epsExpected": 0.55,
     "epsReported": 0.51,
     "revExpected": 1450566571.0,
-    "revReported": 1424000000.0
+    "revReported": 1424000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ECL",
@@ -617,8 +717,10 @@
     "period": "",
     "epsExpected": 2.17,
     "epsReported": 2.18,
-    "revExpected": 4749732342.0,
-    "revReported": 4694800000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "RCL",
@@ -630,7 +732,9 @@
     "epsExpected": 6.38,
     "epsReported": 6.57,
     "revExpected": 5663461587.0,
-    "revReported": 5591000000.0
+    "revReported": 5591000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ITW",
@@ -641,8 +745,10 @@
     "period": "",
     "epsExpected": 2.97,
     "epsReported": 3.0,
-    "revExpected": 4302017230.0,
-    "revReported": 4236000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "HLT",
@@ -654,7 +760,9 @@
     "epsExpected": 2.37,
     "epsReported": 2.45,
     "revExpected": 3402928945.0,
-    "revReported": 3325000000.0
+    "revReported": 3325000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-10-28": [
@@ -667,8 +775,10 @@
     "period": "",
     "epsExpected": 3.01,
     "epsReported": 2.12,
-    "revExpected": 132020419167.0,
-    "revReported": 111211000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "MSFT",
@@ -679,8 +789,10 @@
     "period": "",
     "epsExpected": 4.72,
     "epsReported": 4.89,
-    "revExpected": 92493412748.0,
-    "revReported": 92279000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "GEV",
@@ -692,7 +804,9 @@
     "epsExpected": 4.01,
     "epsReported": 4.81,
     "revExpected": 12111261298.0,
-    "revReported": 12642000000.0
+    "revReported": 12642000000.0,
+    "revExpSrc": "finnhub",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "KLAC",
@@ -703,8 +817,10 @@
     "period": "",
     "epsExpected": 1.18,
     "epsReported": 1.22,
-    "revExpected": 4119385586.0,
-    "revReported": 4136020000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "APH",
@@ -715,8 +831,10 @@
     "period": "",
     "epsExpected": 0.73,
     "epsReported": 0.8,
-    "revExpected": 9559325658.0,
-    "revReported": 10229700000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "TMUS",
@@ -727,8 +845,10 @@
     "period": "",
     "epsExpected": 2.91,
     "epsReported": 3.22,
-    "revExpected": 23600426460.0,
-    "revReported": 23584000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "NOW",
@@ -739,8 +859,10 @@
     "period": "",
     "epsExpected": 1.02,
     "epsReported": 1.0,
-    "revExpected": 4135607751.0,
-    "revReported": 4106000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "FTNT",
@@ -751,8 +873,10 @@
     "period": "",
     "epsExpected": 0.86,
     "epsReported": 0.91,
-    "revExpected": 2104197698.0,
-    "revReported": 2078400000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "ADP",
@@ -763,8 +887,10 @@
     "period": "",
     "epsExpected": 2.77,
     "epsReported": 2.82,
-    "revExpected": 5529860665.0,
-    "revReported": 5490700000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "PSX",
@@ -775,8 +901,10 @@
     "period": "",
     "epsExpected": 11.79,
     "epsReported": 14.08,
-    "revExpected": 44911474201.0,
-    "revReported": 51506000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "EQIX",
@@ -787,8 +915,10 @@
     "period": "",
     "epsExpected": 3.96,
     "epsReported": 5.22,
-    "revExpected": 2613953184.0,
-    "revReported": 2571000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "VRT",
@@ -799,8 +929,10 @@
     "period": "",
     "epsExpected": 1.82,
     "epsReported": 2.21,
-    "revExpected": 3797283779.0,
-    "revReported": 4312800000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "ORLY",
@@ -811,8 +943,10 @@
     "period": "",
     "epsExpected": 0.93,
     "epsReported": 0.97,
-    "revExpected": 5112383922.0,
-    "revReported": 5121290000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "FDX",
@@ -823,8 +957,10 @@
     "period": "",
     "epsExpected": 3.38,
     "epsReported": 3.74,
-    "revExpected": 23012042000.0,
-    "revReported": 22855000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "AEP",
@@ -835,8 +971,10 @@
     "period": "",
     "epsExpected": 2.04,
     "epsReported": 2.23,
-    "revExpected": 6611693421.0,
-    "revReported": 6832000000.0
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    }
   ],
   "2026-10-29": [
@@ -850,7 +988,9 @@
     "epsExpected": 1.96,
     "epsReported": null,
     "revExpected": 202264872830.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "LLY",
@@ -862,7 +1002,9 @@
     "epsExpected": 6.61,
     "epsReported": null,
     "revExpected": 22615615160.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MA",
@@ -874,7 +1016,9 @@
     "epsExpected": 5.17,
     "epsReported": null,
     "revExpected": 9656239400.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "INTC",
@@ -886,7 +1030,9 @@
     "epsExpected": 0.4,
     "epsReported": null,
     "revExpected": 16486699590.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MRK",
@@ -898,7 +1044,9 @@
     "epsExpected": 2.09,
     "epsReported": null,
     "revExpected": 17325009230.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CAT",
@@ -910,7 +1058,9 @@
     "epsExpected": 7.03,
     "epsReported": null,
     "revExpected": 20692015010.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "SNDK",
@@ -922,7 +1072,9 @@
     "epsExpected": 46.41,
     "epsReported": null,
     "revExpected": 10700329480.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "GILD",
@@ -934,7 +1086,9 @@
     "epsExpected": 2.19,
     "epsReported": null,
     "revExpected": 7799964490.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "BMY",
@@ -946,7 +1100,9 @@
     "epsExpected": 1.22,
     "epsReported": null,
     "revExpected": 12729071020.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MO",
@@ -958,7 +1114,9 @@
     "epsExpected": 1.51,
     "epsReported": null,
     "revExpected": 5306111240.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "SBUX",
@@ -970,7 +1128,9 @@
     "epsExpected": 0.71,
     "epsReported": null,
     "revExpected": 9233415600.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "SYK",
@@ -982,7 +1142,9 @@
     "epsExpected": 3.55,
     "epsReported": null,
     "revExpected": 6617096520.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PWR",
@@ -994,7 +1156,9 @@
     "epsExpected": 5.03,
     "epsReported": null,
     "revExpected": 10978936910.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ICE",
@@ -1006,7 +1170,9 @@
     "epsExpected": 1.97,
     "epsReported": null,
     "revExpected": 2744941350.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "EPD",
@@ -1018,7 +1184,9 @@
     "epsExpected": 0.73,
     "epsReported": null,
     "revExpected": 14975088570.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-10-30": [
@@ -1032,7 +1200,9 @@
     "epsExpected": 4.03,
     "epsReported": null,
     "revExpected": 106024365960.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ABBV",
@@ -1044,7 +1214,9 @@
     "epsExpected": 3.77,
     "epsReported": null,
     "revExpected": 17346681870.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CVX",
@@ -1056,7 +1228,9 @@
     "epsExpected": 4.83,
     "epsReported": null,
     "revExpected": 61646139060.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "GD",
@@ -1068,7 +1242,9 @@
     "epsExpected": 4.13,
     "epsReported": null,
     "revExpected": 13726312260.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "REGN",
@@ -1080,7 +1256,9 @@
     "epsExpected": 16.25,
     "epsReported": null,
     "revExpected": 4561941280.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CL",
@@ -1092,7 +1270,9 @@
     "epsExpected": 0.93,
     "epsReported": null,
     "revExpected": 5334192310.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "D",
@@ -1104,7 +1284,9 @@
     "epsExpected": 1.21,
     "epsReported": null,
     "revExpected": 4736410000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "EXC",
@@ -1116,7 +1298,9 @@
     "epsExpected": 0.79,
     "epsReported": null,
     "revExpected": 6862436870.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "KVUE",
@@ -1128,7 +1312,9 @@
     "epsExpected": 0.29,
     "epsReported": null,
     "revExpected": 3862879220.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CBOE",
@@ -1140,7 +1326,9 @@
     "epsExpected": 3.43,
     "epsReported": null,
     "revExpected": 705936150.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CHD",
@@ -1152,7 +1340,9 @@
     "epsExpected": 0.9,
     "epsReported": null,
     "revExpected": 1580286070.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "RBC",
@@ -1164,7 +1354,9 @@
     "epsExpected": 3.53,
     "epsReported": null,
     "revExpected": 514823420.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "BTSG",
@@ -1176,7 +1368,9 @@
     "epsExpected": 0.47,
     "epsReported": null,
     "revExpected": 3874323560.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "FRT",
@@ -1188,7 +1382,9 @@
     "epsExpected": 0.71,
     "epsReported": null,
     "revExpected": 337992430.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MSGS",
@@ -1200,7 +1396,9 @@
     "epsExpected": -1.15,
     "epsReported": null,
     "revExpected": 40357670.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-02": [
@@ -1214,7 +1412,9 @@
     "epsExpected": 1.98,
     "epsReported": null,
     "revExpected": 113322287400.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PLTR",
@@ -1226,7 +1426,9 @@
     "epsExpected": 0.41,
     "epsReported": null,
     "revExpected": 2180834970.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "VRTX",
@@ -1238,7 +1440,9 @@
     "epsExpected": 0.38,
     "epsReported": null,
     "revExpected": 3430593450.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MAR",
@@ -1250,7 +1454,9 @@
     "epsExpected": 2.85,
     "epsReported": null,
     "revExpected": 6921534890.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "WMB",
@@ -1262,7 +1468,9 @@
     "epsExpected": 0.54,
     "epsReported": null,
     "revExpected": 2928536080.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "FANG",
@@ -1274,7 +1482,9 @@
     "epsExpected": 5.6,
     "epsReported": null,
     "revExpected": 4910768430.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "O",
@@ -1286,7 +1496,9 @@
     "epsExpected": 0.43,
     "epsReported": null,
     "revExpected": 1446629000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ETR",
@@ -1298,7 +1510,9 @@
     "epsExpected": 1.7,
     "epsReported": null,
     "revExpected": 4148281240.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "IDXX",
@@ -1310,7 +1524,9 @@
     "epsExpected": 3.72,
     "epsReported": null,
     "revExpected": 1192387000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "EL",
@@ -1322,7 +1538,9 @@
     "epsExpected": 0.5,
     "epsReported": null,
     "revExpected": 3653379830.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PEG",
@@ -1334,7 +1552,9 @@
     "epsExpected": 1.19,
     "epsReported": null,
     "revExpected": 3252595920.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ON",
@@ -1346,7 +1566,9 @@
     "epsExpected": 0.88,
     "epsReported": null,
     "revExpected": 1704593090.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "FOXA",
@@ -1358,7 +1580,9 @@
     "epsExpected": 2.02,
     "epsReported": null,
     "revExpected": 4291563420.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ROKU",
@@ -1370,7 +1594,9 @@
     "epsExpected": 0.55,
     "epsReported": null,
     "revExpected": 1412268430.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "L",
@@ -1382,7 +1608,9 @@
     "epsExpected": null,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-03": [
@@ -1396,7 +1624,9 @@
     "epsExpected": 1.94,
     "epsReported": null,
     "revExpected": 13083021310.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "AMGN",
@@ -1408,7 +1638,9 @@
     "epsExpected": 5.79,
     "epsReported": null,
     "revExpected": 10075419390.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ANET",
@@ -1420,7 +1652,9 @@
     "epsExpected": 1.08,
     "epsReported": null,
     "revExpected": 3334085820.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PFE",
@@ -1432,7 +1666,9 @@
     "epsExpected": 0.73,
     "epsReported": null,
     "revExpected": 15876714220.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MPC",
@@ -1444,7 +1680,9 @@
     "epsExpected": 26.0,
     "epsReported": null,
     "revExpected": 43812588800.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "BKNG",
@@ -1456,7 +1694,9 @@
     "epsExpected": 4.5,
     "epsReported": null,
     "revExpected": 9544690260.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ET",
@@ -1468,7 +1708,9 @@
     "epsExpected": 0.41,
     "epsReported": null,
     "revExpected": 32427041340.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "APO",
@@ -1480,7 +1722,9 @@
     "epsExpected": 2.2,
     "epsReported": null,
     "revExpected": 1357685710.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MPLX",
@@ -1492,7 +1736,9 @@
     "epsExpected": 1.12,
     "epsReported": null,
     "revExpected": 3354197620.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "AME",
@@ -1504,7 +1750,9 @@
     "epsExpected": 2.11,
     "epsReported": null,
     "revExpected": 2126821810.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "EA",
@@ -1516,7 +1764,9 @@
     "epsExpected": 1.15,
     "epsReported": null,
     "revExpected": 2043587380.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ALAB",
@@ -1528,7 +1778,9 @@
     "epsExpected": 1.19,
     "epsReported": null,
     "revExpected": 550803020.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "KDP",
@@ -1540,7 +1792,9 @@
     "epsExpected": 0.62,
     "epsReported": null,
     "revExpected": 7332653690.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "WAT",
@@ -1552,7 +1806,9 @@
     "epsExpected": 4.0,
     "epsReported": null,
     "revExpected": 1753988840.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "XYZ",
@@ -1564,7 +1820,9 @@
     "epsExpected": 1.03,
     "epsReported": null,
     "revExpected": 6600173240.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-04": [
@@ -1578,7 +1836,9 @@
     "epsExpected": 2.16,
     "epsReported": null,
     "revExpected": 10141930290.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MCD",
@@ -1590,7 +1850,9 @@
     "epsExpected": 3.38,
     "epsReported": null,
     "revExpected": 7285066270.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "UBER",
@@ -1602,7 +1864,9 @@
     "epsExpected": 0.9,
     "epsReported": null,
     "revExpected": 14674998290.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CVS",
@@ -1614,7 +1878,9 @@
     "epsExpected": 1.65,
     "epsReported": null,
     "revExpected": 104804240210.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MCK",
@@ -1626,7 +1892,9 @@
     "epsExpected": 10.75,
     "epsReported": null,
     "revExpected": 109954441430.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "DDOG",
@@ -1638,7 +1906,9 @@
     "epsExpected": 0.64,
     "epsReported": null,
     "revExpected": 1145540090.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "EMR",
@@ -1650,7 +1920,9 @@
     "epsExpected": 1.85,
     "epsReported": null,
     "revExpected": 5117957300.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "APP",
@@ -1662,7 +1934,9 @@
     "epsExpected": 4.03,
     "epsReported": null,
     "revExpected": 2074086950.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MSI",
@@ -1674,7 +1948,9 @@
     "epsExpected": 4.44,
     "epsReported": null,
     "revExpected": 3278500000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MET",
@@ -1686,19 +1962,9 @@
     "epsExpected": 2.77,
     "epsReported": null,
     "revExpected": 19970701130.0,
-    "revReported": null
-   },
-   {
-    "symbol": "ALL",
-    "name": "The Allstate Corporation",
-    "date": "2026-11-04",
-    "time": "2026-11-04T15:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 6.96,
-    "epsReported": null,
-    "revExpected": 17458908860.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "GWW",
@@ -1710,7 +1976,23 @@
     "epsExpected": 11.66,
     "epsReported": null,
     "revExpected": 5075421530.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ALL",
+    "name": "The Allstate Corporation",
+    "date": "2026-11-04",
+    "time": "2026-11-04T15:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 6.96,
+    "epsReported": null,
+    "revExpected": 17458908860.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "COR",
@@ -1722,7 +2004,9 @@
     "epsExpected": 4.57,
     "epsReported": null,
     "revExpected": 87911826330.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "AFL",
@@ -1734,7 +2018,9 @@
     "epsExpected": 1.8,
     "epsReported": null,
     "revExpected": 4207000000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "EW",
@@ -1746,7 +2032,9 @@
     "epsExpected": 0.74,
     "epsReported": null,
     "revExpected": 1676789060.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-05": [
@@ -1760,7 +2048,9 @@
     "epsExpected": 3.05,
     "epsReported": null,
     "revExpected": 18939142100.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PH",
@@ -1772,7 +2062,9 @@
     "epsExpected": 8.17,
     "epsReported": null,
     "revExpected": 5770359340.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "NET",
@@ -1784,7 +2076,9 @@
     "epsExpected": 0.34,
     "epsReported": null,
     "revExpected": 738090880.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "SO",
@@ -1796,7 +2090,9 @@
     "epsExpected": 1.71,
     "epsReported": null,
     "revExpected": 8409643389.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ABNB",
@@ -1808,7 +2104,9 @@
     "epsExpected": 2.85,
     "epsReported": null,
     "revExpected": 4749395380.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "DUK",
@@ -1820,7 +2118,9 @@
     "epsExpected": 1.86,
     "epsReported": null,
     "revExpected": 8972658180.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MNST",
@@ -1832,7 +2132,9 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 2494247190.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "EOG",
@@ -1844,7 +2146,9 @@
     "epsExpected": 4.44,
     "epsReported": null,
     "revExpected": 7179346520.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "LITE",
@@ -1856,7 +2160,9 @@
     "epsExpected": 4.22,
     "epsReported": null,
     "revExpected": 1253198040.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CI",
@@ -1868,7 +2174,9 @@
     "epsExpected": 7.51,
     "epsReported": null,
     "revExpected": 72449250090.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "WBD",
@@ -1880,7 +2188,9 @@
     "epsExpected": -0.01,
     "epsReported": null,
     "revExpected": 8708430780.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CMI",
@@ -1892,7 +2202,9 @@
     "epsExpected": 8.28,
     "epsReported": null,
     "revExpected": 9869920860.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "APD",
@@ -1904,7 +2216,9 @@
     "epsExpected": 3.61,
     "epsReported": null,
     "revExpected": 3336777660.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "SPG",
@@ -1916,7 +2230,9 @@
     "epsExpected": 1.62,
     "epsReported": null,
     "revExpected": 1657827540.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "TRGP",
@@ -1928,7 +2244,9 @@
     "epsExpected": 2.86,
     "epsReported": null,
     "revExpected": 4767630270.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-06": [
@@ -1942,7 +2260,9 @@
     "epsExpected": -1.28,
     "epsReported": null,
     "revExpected": 891309430.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "BAM",
@@ -1954,7 +2274,9 @@
     "epsExpected": 0.46,
     "epsReported": null,
     "revExpected": 1592169690.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "HUM",
@@ -1966,7 +2288,9 @@
     "epsExpected": -1.0,
     "epsReported": null,
     "revExpected": 40889933520.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "VST",
@@ -1978,7 +2302,9 @@
     "epsExpected": 2.69,
     "epsReported": null,
     "revExpected": 6388425050.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "UI",
@@ -1990,7 +2316,9 @@
     "epsExpected": 4.25,
     "epsReported": null,
     "revExpected": 977448000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PPL",
@@ -2002,7 +2330,9 @@
     "epsExpected": 0.53,
     "epsReported": null,
     "revExpected": 2419917550.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PAA",
@@ -2014,7 +2344,9 @@
     "epsExpected": 0.46,
     "epsReported": null,
     "revExpected": 15211150110.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "BEN",
@@ -2026,7 +2358,9 @@
     "epsExpected": 0.77,
     "epsReported": null,
     "revExpected": 2139600000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CHTR",
@@ -2038,7 +2372,9 @@
     "epsExpected": 8.94,
     "epsReported": null,
     "revExpected": 14944000000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ELAN",
@@ -2050,7 +2386,9 @@
     "epsExpected": 0.2,
     "epsReported": null,
     "revExpected": 1206839890.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "FRHC",
@@ -2062,7 +2400,9 @@
     "epsExpected": null,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "WULF",
@@ -2074,7 +2414,9 @@
     "epsExpected": -0.37,
     "epsReported": null,
     "revExpected": 63344840.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "FLR",
@@ -2086,7 +2428,9 @@
     "epsExpected": 0.8,
     "epsReported": null,
     "revExpected": 4280014560.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PAGP",
@@ -2098,7 +2442,9 @@
     "epsExpected": 0.48,
     "epsReported": null,
     "revExpected": 13905147570.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "OKLO",
@@ -2110,7 +2456,9 @@
     "epsExpected": -0.26,
     "epsReported": null,
     "revExpected": 1091790.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-07": [
@@ -2124,7 +2472,9 @@
     "epsExpected": 9092.32,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-09": [
@@ -2138,7 +2488,9 @@
     "epsExpected": 3.86,
     "epsReported": null,
     "revExpected": 9382503010.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "KKR",
@@ -2150,7 +2502,9 @@
     "epsExpected": 1.58,
     "epsReported": null,
     "revExpected": 2608104520.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "OXY",
@@ -2162,7 +2516,9 @@
     "epsExpected": 1.47,
     "epsReported": null,
     "revExpected": 6854592450.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "FERG",
@@ -2174,7 +2530,9 @@
     "epsExpected": 3.29,
     "epsReported": null,
     "revExpected": 8688079670.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "SKYD",
@@ -2186,7 +2544,9 @@
     "epsExpected": 0.2,
     "epsReported": null,
     "revExpected": 7016420670.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "RKLB",
@@ -2198,7 +2558,9 @@
     "epsExpected": -0.07,
     "epsReported": null,
     "revExpected": 257177890.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "TTWO",
@@ -2210,7 +2572,9 @@
     "epsExpected": -0.86,
     "epsReported": null,
     "revExpected": 1656173310.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "NRG",
@@ -2222,7 +2586,9 @@
     "epsExpected": 3.04,
     "epsReported": null,
     "revExpected": 9267415960.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "RBA",
@@ -2234,7 +2600,9 @@
     "epsExpected": 1.0,
     "epsReported": null,
     "revExpected": 1172165570.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "SGI",
@@ -2246,7 +2614,9 @@
     "epsExpected": 1.06,
     "epsReported": null,
     "revExpected": 2425706740.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ASTS",
@@ -2258,7 +2628,9 @@
     "epsExpected": -0.45,
     "epsReported": null,
     "revExpected": 46003120.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "TECH",
@@ -2270,7 +2642,9 @@
     "epsExpected": 0.45,
     "epsReported": null,
     "revExpected": 292201690.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PSKY",
@@ -2282,7 +2656,9 @@
     "epsExpected": 0.2,
     "epsReported": null,
     "revExpected": 7029279600.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ONTO",
@@ -2294,7 +2670,9 @@
     "epsExpected": 2.3,
     "epsReported": null,
     "revExpected": 392041370.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "APGE",
@@ -2306,7 +2684,9 @@
     "epsExpected": -1.19,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-10": [
@@ -2320,7 +2700,9 @@
     "epsExpected": 0.53,
     "epsReported": null,
     "revExpected": 4677165670.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CRWV",
@@ -2332,7 +2714,9 @@
     "epsExpected": -1.55,
     "epsReported": null,
     "revExpected": 3540875520.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "SRRK",
@@ -2344,7 +2728,9 @@
     "epsExpected": -0.84,
     "epsReported": null,
     "revExpected": 283670.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MRCY",
@@ -2356,7 +2742,9 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 245002330.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "QBTS",
@@ -2368,7 +2756,9 @@
     "epsExpected": -0.09,
     "epsReported": null,
     "revExpected": 4337120.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "LEGN",
@@ -2380,7 +2770,9 @@
     "epsExpected": 0.01,
     "epsReported": null,
     "revExpected": 359911560.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ALH",
@@ -2392,7 +2784,9 @@
     "epsExpected": 0.32,
     "epsReported": null,
     "revExpected": 460972670.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "RGTI",
@@ -2404,7 +2798,9 @@
     "epsExpected": -0.05,
     "epsReported": null,
     "revExpected": 3675950.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ASST",
@@ -2416,7 +2812,9 @@
     "epsExpected": -0.15,
     "epsReported": null,
     "revExpected": 3000250.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "FLY",
@@ -2428,7 +2826,9 @@
     "epsExpected": -0.5,
     "epsReported": null,
     "revExpected": 103150620.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "REZI",
@@ -2440,7 +2840,9 @@
     "epsExpected": 0.4,
     "epsReported": null,
     "revExpected": 714000000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ATRO",
@@ -2452,7 +2854,9 @@
     "epsExpected": 0.72,
     "epsReported": null,
     "revExpected": 268068400.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "NLST",
@@ -2464,7 +2868,9 @@
     "epsExpected": 0.6,
     "epsReported": null,
     "revExpected": 308600000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "STUB",
@@ -2476,7 +2882,9 @@
     "epsExpected": 0.14,
     "epsReported": null,
     "revExpected": 514555230.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "NN",
@@ -2488,7 +2896,9 @@
     "epsExpected": -0.11,
     "epsReported": null,
     "revExpected": 986500.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-11": [
@@ -2502,7 +2912,9 @@
     "epsExpected": -0.52,
     "epsReported": null,
     "revExpected": 918057450.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "TTEK",
@@ -2514,7 +2926,9 @@
     "epsExpected": 0.47,
     "epsReported": null,
     "revExpected": 1150748330.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CTVA",
@@ -2526,7 +2940,9 @@
     "epsExpected": 0.1,
     "epsReported": null,
     "revExpected": 1767904850.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ORKA",
@@ -2538,7 +2954,9 @@
     "epsExpected": -0.62,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ENS",
@@ -2550,7 +2968,9 @@
     "epsExpected": 3.18,
     "epsReported": null,
     "revExpected": 966605000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ERAS",
@@ -2562,7 +2982,9 @@
     "epsExpected": -0.13,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CELC",
@@ -2574,7 +2996,9 @@
     "epsExpected": -1.51,
     "epsReported": null,
     "revExpected": 1206600.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ELVN",
@@ -2586,7 +3010,9 @@
     "epsExpected": -0.45,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "DGII",
@@ -2598,7 +3024,9 @@
     "epsExpected": 0.76,
     "epsReported": null,
     "revExpected": 140266800.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "RUM",
@@ -2610,7 +3038,9 @@
     "epsExpected": -0.12,
     "epsReported": null,
     "revExpected": 88670000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PVLA",
@@ -2622,7 +3052,9 @@
     "epsExpected": -1.74,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "SLS",
@@ -2634,7 +3066,9 @@
     "epsExpected": -0.05,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-12": [
@@ -2648,7 +3082,9 @@
     "epsExpected": 1.32,
     "epsReported": null,
     "revExpected": 18115769170.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "AMAT",
@@ -2660,7 +3096,9 @@
     "epsExpected": 4.06,
     "epsReported": null,
     "revExpected": 10299491080.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "CBRS",
@@ -2672,7 +3110,9 @@
     "epsExpected": -0.14,
     "epsReported": null,
     "revExpected": 214702940.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "TWST",
@@ -2684,7 +3124,9 @@
     "epsExpected": -0.2,
     "epsReported": null,
     "revExpected": 123581720.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "DDS",
@@ -2696,7 +3138,9 @@
     "epsExpected": 6.2,
     "epsReported": null,
     "revExpected": 1478781620.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "FPS",
@@ -2708,7 +3152,9 @@
     "epsExpected": 0.2,
     "epsReported": null,
     "revExpected": 460786950.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "KOD",
@@ -2720,7 +3166,9 @@
     "epsExpected": -1.01,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MANE",
@@ -2732,7 +3180,9 @@
     "epsExpected": -0.62,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "OCTV",
@@ -2744,7 +3194,9 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 404220200.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MBGL",
@@ -2756,7 +3208,9 @@
     "epsExpected": 0.38,
     "epsReported": null,
     "revExpected": 475062440.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "FIGR",
@@ -2768,7 +3222,9 @@
     "epsExpected": 0.34,
     "epsReported": null,
     "revExpected": 254531330.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "HTFL",
@@ -2780,7 +3236,9 @@
     "epsExpected": -0.1,
     "epsReported": null,
     "revExpected": 65195110.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "MWH",
@@ -2792,7 +3250,9 @@
     "epsExpected": 0.56,
     "epsReported": null,
     "revExpected": 1198276580.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ONDS",
@@ -2804,7 +3264,9 @@
     "epsExpected": -0.09,
     "epsReported": null,
     "revExpected": 148039400.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "PBLS",
@@ -2816,7 +3278,9 @@
     "epsExpected": -0.38,
     "epsReported": null,
     "revExpected": 500000.0,
-    "revReported": null
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ]
  },
@@ -3172,7 +3636,11 @@
   "ONDS": true,
   "SKE": false,
   "AYA": false,
-  "PBLS": true
+  "PBLS": true,
+  "KOF": false,
+  "IMO": false,
+  "ICL": false,
+  "PHI": false
  },
  "saved": []
 }
