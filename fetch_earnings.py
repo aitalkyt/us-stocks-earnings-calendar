@@ -55,7 +55,7 @@ def collect(start, end):
     found = {}
     day = start
     while day <= end:
-        stop = min(day + timedelta(days=1), end)
+        stop = day + timedelta(days=1)
         s, e = day.strftime("%Y-%m-%d"), stop.strftime("%Y-%m-%d")
         for cap, active in ((MIN_CAP, False),):
             try:
@@ -85,8 +85,34 @@ def collect(start, end):
                     }
                     found[key] = item
             time.sleep(1)
-        day = stop + timedelta(days=1)
+        day = stop
     return found
+
+
+def looks_foreign(symbol):
+    # OTC tickers for foreign shares end in F or Y (e.g. SSNLF, TOELY)
+    return len(symbol) == 5 and symbol[-1] in "FY" and "-" not in symbol
+
+
+def is_us_company(symbol, companies):
+    """True if Yahoo lists the company as based in the United States (cached)."""
+    if looks_foreign(symbol):
+        return False
+    if symbol in companies:
+        return companies[symbol]
+    us = None
+    try:
+        info = yf.Ticker(symbol).info or {}
+        country = info.get("country")
+        if country:
+            us = country == "United States"
+    except Exception as err:
+        print(f"{symbol} info failed: {err}")
+    time.sleep(0.5)
+    if us is None:
+        return False  # unknown this run, try again next run
+    companies[symbol] = us
+    return us
 
 
 def session(item):
@@ -144,11 +170,13 @@ def main():
     today = datetime.now(ET).replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
     start, end = today - timedelta(days=DAYS_BACK), today + timedelta(days=DAYS_AHEAD)
 
-    previous = {}
+    previous, companies = {}, {}
     if os.path.exists(OUT):
         try:
             with open(OUT) as f:
-                for items in json.load(f).get("days", {}).values():
+                old = json.load(f)
+                companies = old.get("companies", {})
+                for items in old.get("days", {}).values():
                     for it in items:
                         previous[(it["symbol"], it["date"])] = it
         except Exception:
@@ -165,6 +193,8 @@ def main():
         for it in sorted(by_day[date_str], key=lambda it: it["cap"] or 0, reverse=True):
             name_key = it["name"].lower()
             if name_key in seen_names:  # skip duplicate share classes (GOOG / GOOGL)
+                continue
+            if not is_us_company(it["symbol"], companies):
                 continue
             seen_names.add(name_key)
             ranked.append(it)
@@ -191,7 +221,7 @@ def main():
         days[date_str] = out
 
     with open(OUT, "w") as f:
-        json.dump({"updated": datetime.now(ET).isoformat(), "days": days}, f, indent=1)
+        json.dump({"updated": datetime.now(ET).isoformat(), "days": days, "companies": companies}, f, indent=1)
     print(f"Wrote {sum(len(v) for v in days.values())} reports across {len(days)} days")
 
 
