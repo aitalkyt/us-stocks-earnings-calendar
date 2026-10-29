@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:35:43.317489-04:00",
+ "updated": "2026-10-29T05:46:41.966100-04:00",
  "days": {
   "2026-10-22": [
    {
@@ -11,9 +11,9 @@
     "period": "",
     "epsExpected": 1.89,
     "epsReported": 2.0,
-    "revExpected": 23479235426.0,
+    "revExpected": null,
     "revReported": 23276000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -25,9 +25,9 @@
     "period": "",
     "epsExpected": 3.48,
     "epsReported": 3.53,
-    "revExpected": 7196008509.0,
+    "revExpected": null,
     "revReported": 7197000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -39,9 +39,9 @@
     "period": "",
     "epsExpected": 4.1,
     "epsReported": 4.64,
-    "revExpected": 4176880957.0,
+    "revExpected": null,
     "revReported": 4381000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -53,9 +53,9 @@
     "period": "",
     "epsExpected": 7.52,
     "epsReported": 7.97,
-    "revExpected": 20714300807.0,
+    "revExpected": null,
     "revReported": 20711000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -67,9 +67,9 @@
     "period": "",
     "epsExpected": 1.95,
     "epsReported": 2.2,
-    "revExpected": 6350400027.0,
+    "revExpected": null,
     "revReported": 6363000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -81,9 +81,9 @@
     "period": "",
     "epsExpected": 21.23,
     "epsReported": 23.9,
-    "revExpected": 39242428334.0,
+    "revExpected": null,
     "revReported": 46098000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -95,10 +95,10 @@
     "period": "",
     "epsExpected": 1.26,
     "epsReported": 1.32,
-    "revExpected": 3378885984.0,
-    "revReported": 3216570000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "CMCSA",
@@ -109,9 +109,9 @@
     "period": "",
     "epsExpected": 0.99,
     "epsReported": 1.07,
-    "revExpected": 30156776102.0,
+    "revExpected": null,
     "revReported": 29298000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -123,9 +123,9 @@
     "period": "",
     "epsExpected": 3.47,
     "epsReported": 3.62,
-    "revExpected": 3512184352.0,
+    "revExpected": null,
     "revReported": 3526000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -137,9 +137,9 @@
     "period": "",
     "epsExpected": 2.16,
     "epsReported": 2.27,
-    "revExpected": 5056992502.0,
+    "revExpected": null,
     "revReported": 4994000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -151,9 +151,9 @@
     "period": "",
     "epsExpected": 0.68,
     "epsReported": 0.94,
-    "revExpected": 1092404661.0,
+    "revExpected": null,
     "revReported": 1235837000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -179,9 +179,9 @@
     "period": "",
     "epsExpected": 12.85,
     "epsReported": 13.91,
-    "revExpected": 3435126251.0,
+    "revExpected": null,
     "revReported": 3766302000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -193,10 +193,10 @@
     "period": "",
     "epsExpected": 5.79,
     "epsReported": 5.89,
-    "revExpected": 2194047916.0,
-    "revReported": 2171800000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "PCG",
@@ -207,9 +207,9 @@
     "period": "",
     "epsExpected": 0.42,
     "epsReported": 0.41,
-    "revExpected": 6902774906.0,
+    "revExpected": null,
     "revReported": 6188000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    }
   ],
@@ -223,10 +223,10 @@
     "period": "",
     "epsExpected": 4.5,
     "epsReported": 5.42,
-    "revExpected": 20323276176.0,
-    "revReported": 20062000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "SLB",
@@ -237,10 +237,10 @@
     "period": "",
     "epsExpected": 0.61,
     "epsReported": 0.64,
-    "revExpected": 9373008827.0,
-    "revReported": 9449000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "BAH",
@@ -251,10 +251,10 @@
     "period": "",
     "epsExpected": 1.48,
     "epsReported": 1.76,
-    "revExpected": 2836597352.0,
-    "revReported": 2778000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "MKTX",
@@ -265,10 +265,10 @@
     "period": "",
     "epsExpected": 1.95,
     "epsReported": 1.86,
-    "revExpected": 223899180.0,
-    "revReported": 210407000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "BCPC",
@@ -279,9 +279,9 @@
     "period": "",
     "epsExpected": 1.54,
     "epsReported": 1.57,
-    "revExpected": 295034663.0,
+    "revExpected": null,
     "revReported": 290658000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -293,10 +293,10 @@
     "period": "",
     "epsExpected": 0.5,
     "epsReported": 0.55,
-    "revExpected": 469909716.0,
-    "revReported": 479592000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "GNTX",
@@ -307,10 +307,10 @@
     "period": "",
     "epsExpected": 0.51,
     "epsReported": 0.47,
-    "revExpected": 683904757.0,
-    "revReported": 647709650.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "FLG",
@@ -321,10 +321,10 @@
     "period": "",
     "epsExpected": 0.07,
     "epsReported": 0.01,
-    "revExpected": 492645053.0,
-    "revReported": 460000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "FHB",
@@ -335,10 +335,10 @@
     "period": "",
     "epsExpected": 0.59,
     "epsReported": 0.52,
-    "revExpected": 231915523.0,
-    "revReported": 230227000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    }
   ],
   "2026-10-26": [
@@ -351,10 +351,10 @@
     "period": "",
     "epsExpected": 1.27,
     "epsReported": 1.31,
-    "revExpected": 35786346491.0,
-    "revReported": 34313000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "WELL",
@@ -365,9 +365,9 @@
     "period": "",
     "epsExpected": 0.71,
     "epsReported": 0.67,
-    "revExpected": 3675507331.0,
+    "revExpected": null,
     "revReported": 3693033000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -379,9 +379,9 @@
     "period": "",
     "epsExpected": 2.05,
     "epsReported": 2.11,
-    "revExpected": 1645201860.0,
+    "revExpected": null,
     "revReported": 1633311000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -393,10 +393,10 @@
     "period": "",
     "epsExpected": 5.83,
     "epsReported": 5.8,
-    "revExpected": 10942712286.0,
-    "revReported": 11249000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "PSA",
@@ -407,9 +407,9 @@
     "period": "",
     "epsExpected": 2.29,
     "epsReported": 2.11,
-    "revExpected": 1336061330.0,
+    "revExpected": null,
     "revReported": 1366190000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -435,9 +435,9 @@
     "period": "",
     "epsExpected": 2.11,
     "epsReported": 2.86,
-    "revExpected": 3089580000.0,
+    "revExpected": null,
     "revReported": 3047000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -449,10 +449,10 @@
     "period": "",
     "epsExpected": 2.43,
     "epsReported": 2.22,
-    "revExpected": 4313974872.0,
-    "revReported": 4275000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "BRO",
@@ -463,9 +463,9 @@
     "period": "",
     "epsExpected": 1.08,
     "epsReported": 1.07,
-    "revExpected": 1774079200.0,
+    "revExpected": null,
     "revReported": 1700000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -477,9 +477,9 @@
     "period": "",
     "epsExpected": 0.97,
     "epsReported": 1.16,
-    "revExpected": 591556242.0,
+    "revExpected": null,
     "revReported": 552600000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -491,9 +491,9 @@
     "period": "",
     "epsExpected": 0.78,
     "epsReported": 0.76,
-    "revExpected": 2053540500.0,
+    "revExpected": null,
     "revReported": 1990557000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -505,9 +505,9 @@
     "period": "",
     "epsExpected": 0.79,
     "epsReported": 0.84,
-    "revExpected": 217449424.0,
+    "revExpected": null,
     "revReported": 218289000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -519,9 +519,9 @@
     "period": "",
     "epsExpected": 0.22,
     "epsReported": 0.26,
-    "revExpected": 358423750.0,
+    "revExpected": null,
     "revReported": 359598000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -533,10 +533,10 @@
     "period": "",
     "epsExpected": 2.4,
     "epsReported": 2.68,
-    "revExpected": 631642890.0,
-    "revReported": 638130000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "NE",
@@ -547,9 +547,9 @@
     "period": "",
     "epsExpected": 0.23,
     "epsReported": -0.57,
-    "revExpected": 730661739.0,
+    "revExpected": null,
     "revReported": 728764000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    }
   ],
@@ -563,10 +563,10 @@
     "period": "",
     "epsExpected": 3.44,
     "epsReported": 3.48,
-    "revExpected": 12325777573.0,
-    "revReported": 12139000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "KO",
@@ -577,10 +577,10 @@
     "period": "",
     "epsExpected": 0.88,
     "epsReported": 0.91,
-    "revExpected": 13307860929.0,
-    "revReported": 13354000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "BA",
@@ -591,9 +591,9 @@
     "period": "",
     "epsExpected": -0.2,
     "epsReported": -0.34,
-    "revExpected": 24555557049.0,
+    "revExpected": null,
     "revReported": 24188000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -605,9 +605,9 @@
     "period": "",
     "epsExpected": 4.42,
     "epsReported": 4.58,
-    "revExpected": 3715626930.0,
+    "revExpected": null,
     "revReported": 3678000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -619,10 +619,10 @@
     "period": "",
     "epsExpected": 0.88,
     "epsReported": 0.91,
-    "revExpected": 5078647236.0,
-    "revReported": 5081000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "HCA",
@@ -633,10 +633,10 @@
     "period": "",
     "epsExpected": 6.63,
     "epsReported": 7.22,
-    "revExpected": 19525238048.0,
-    "revReported": 19849000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "FCX",
@@ -647,10 +647,10 @@
     "period": "",
     "epsExpected": 0.83,
     "epsReported": 0.88,
-    "revExpected": 7498002761.0,
-    "revReported": 7546000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "WM",
@@ -661,10 +661,10 @@
     "period": "",
     "epsExpected": 2.18,
     "epsReported": 2.15,
-    "revExpected": 7010424800.0,
-    "revReported": 6846000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "UPS",
@@ -675,10 +675,10 @@
     "period": "",
     "epsExpected": 1.62,
     "epsReported": 1.69,
-    "revExpected": 22508653152.0,
-    "revReported": 22853000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "AMT",
@@ -689,9 +689,9 @@
     "period": "",
     "epsExpected": 1.63,
     "epsReported": 1.64,
-    "revExpected": 2788231441.0,
+    "revExpected": null,
     "revReported": 2785400000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -703,9 +703,9 @@
     "period": "",
     "epsExpected": 0.55,
     "epsReported": 0.51,
-    "revExpected": 1450566571.0,
+    "revExpected": null,
     "revReported": 1424000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -717,10 +717,10 @@
     "period": "",
     "epsExpected": 2.17,
     "epsReported": 2.18,
-    "revExpected": 4749732342.0,
-    "revReported": 4694800000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "RCL",
@@ -731,9 +731,9 @@
     "period": "",
     "epsExpected": 6.38,
     "epsReported": 6.57,
-    "revExpected": 5663461587.0,
+    "revExpected": null,
     "revReported": 5591000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -745,10 +745,10 @@
     "period": "",
     "epsExpected": 2.97,
     "epsReported": 3.0,
-    "revExpected": 4302017230.0,
-    "revReported": 4236000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "HLT",
@@ -759,9 +759,9 @@
     "period": "",
     "epsExpected": 2.37,
     "epsReported": 2.45,
-    "revExpected": 3402928945.0,
+    "revExpected": null,
     "revReported": 3325000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    }
   ],
@@ -789,10 +789,10 @@
     "period": "",
     "epsExpected": 4.72,
     "epsReported": 4.89,
-    "revExpected": 92493412748.0,
-    "revReported": 92279000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "GEV",
@@ -803,9 +803,9 @@
     "period": "",
     "epsExpected": 4.01,
     "epsReported": 4.81,
-    "revExpected": 12111261298.0,
+    "revExpected": null,
     "revReported": 12642000000.0,
-    "revExpSrc": "finnhub",
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -817,10 +817,10 @@
     "period": "",
     "epsExpected": 1.18,
     "epsReported": 1.22,
-    "revExpected": 4119385586.0,
-    "revReported": 4136020000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "APH",
@@ -831,10 +831,10 @@
     "period": "",
     "epsExpected": 0.73,
     "epsReported": 0.8,
-    "revExpected": 9559325658.0,
-    "revReported": 10229700000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "TMUS",
@@ -845,10 +845,10 @@
     "period": "",
     "epsExpected": 2.91,
     "epsReported": 3.22,
-    "revExpected": 23600426460.0,
-    "revReported": 23584000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "NOW",
@@ -859,10 +859,10 @@
     "period": "",
     "epsExpected": 1.02,
     "epsReported": 1.0,
-    "revExpected": 4135607751.0,
-    "revReported": 4106000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "FTNT",
@@ -873,10 +873,10 @@
     "period": "",
     "epsExpected": 0.86,
     "epsReported": 0.91,
-    "revExpected": 2104197698.0,
-    "revReported": 2078400000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "ADP",
@@ -887,10 +887,10 @@
     "period": "",
     "epsExpected": 2.77,
     "epsReported": 2.82,
-    "revExpected": 5529860665.0,
-    "revReported": 5490700000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "PSX",
@@ -915,10 +915,10 @@
     "period": "",
     "epsExpected": 3.96,
     "epsReported": 5.22,
-    "revExpected": 2613953184.0,
-    "revReported": 2571000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "VRT",
@@ -943,10 +943,10 @@
     "period": "",
     "epsExpected": 0.93,
     "epsReported": 0.97,
-    "revExpected": 5112383922.0,
-    "revReported": 5121290000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "FDX",
@@ -957,10 +957,10 @@
     "period": "",
     "epsExpected": 3.38,
     "epsReported": 3.74,
-    "revExpected": 23012042000.0,
-    "revReported": 22855000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    },
    {
     "symbol": "AEP",
@@ -971,10 +971,10 @@
     "period": "",
     "epsExpected": 2.04,
     "epsReported": 2.23,
-    "revExpected": 6611693421.0,
-    "revReported": 6832000000.0,
-    "revExpSrc": "finnhub",
-    "revRepSrc": "finnhub"
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
    }
   ],
   "2026-10-29": [
@@ -3641,10 +3641,6 @@
   "IMO": false,
   "ICL": false,
   "PHI": false
- },
- "revenueMismatch": {
-  "NDAQ": true,
-  "HIG": true
  },
  "saved": []
 }
