@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:02:32.952660-04:00",
+ "updated": "2026-10-30T16:57:18.404216-04:00",
  "days": {
   "2026-10-23": [
    {
@@ -285,20 +285,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "BRX",
-    "name": "Brixmor Property Group Inc.",
-    "date": "2026-10-26",
-    "time": "2026-10-26T16:06:50-04:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.22,
-    "epsReported": 0.26,
-    "revExpected": null,
-    "revReported": 359598000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "RMBS",
     "name": "Rambus Inc.",
     "date": "2026-10-26",
@@ -309,6 +295,20 @@
     "epsReported": 0.84,
     "revExpected": null,
     "revReported": 218289000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "BRX",
+    "name": "Brixmor Property Group Inc.",
+    "date": "2026-10-26",
+    "time": "2026-10-26T16:06:50-04:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.22,
+    "epsReported": 0.26,
+    "revExpected": null,
+    "revReported": 359598000.0,
     "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
@@ -525,20 +525,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "ITW",
-    "name": "Illinois Tool Works Inc.",
-    "date": "2026-10-27",
-    "time": "2026-10-27T08:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 2.97,
-    "epsReported": 3.0,
-    "revExpected": null,
-    "revReported": 4236000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "HLT",
     "name": "Hilton Worldwide Holdings Inc.",
     "date": "2026-10-27",
@@ -551,6 +537,20 @@
     "revReported": 3325000000.0,
     "revExpSrc": null,
     "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "ITW",
+    "name": "Illinois Tool Works Inc.",
+    "date": "2026-10-27",
+    "time": "2026-10-27T08:00:00-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 2.97,
+    "epsReported": 3.0,
+    "revExpected": null,
+    "revReported": 4236000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "finnhub"
    }
   ],
   "2026-10-28": [
@@ -737,20 +737,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "ORLY",
-    "name": "O'Reilly Automotive, Inc.",
-    "date": "2026-10-28",
-    "time": "2026-10-28T16:32:51-04:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.93,
-    "epsReported": 0.97,
-    "revExpected": null,
-    "revReported": 5121290000.0,
-    "revExpSrc": null,
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "AEP",
     "name": "American Electric Power Company, Inc.",
     "date": "2026-10-28",
@@ -763,6 +749,20 @@
     "revReported": 6832000000.0,
     "revExpSrc": null,
     "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "ORLY",
+    "name": "O'Reilly Automotive, Inc.",
+    "date": "2026-10-28",
+    "time": "2026-10-28T16:32:51-04:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.93,
+    "epsReported": 0.97,
+    "revExpected": null,
+    "revReported": 5121290000.0,
+    "revExpSrc": null,
+    "revRepSrc": "finnhub"
    }
   ],
   "2026-10-29": [
@@ -1769,20 +1769,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "COR",
-    "name": "Cencora, Inc.",
-    "date": "2026-11-04",
-    "time": "2026-11-04T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q4 2026",
-    "epsExpected": 4.57,
-    "epsReported": null,
-    "revExpected": 87911826330.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MET",
     "name": "MetLife, Inc.",
     "date": "2026-11-04",
@@ -1792,6 +1778,20 @@
     "epsExpected": 2.77,
     "epsReported": null,
     "revExpected": 19970701130.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "COR",
+    "name": "Cencora, Inc.",
+    "date": "2026-11-04",
+    "time": "2026-11-04T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q4 2026",
+    "epsExpected": 4.57,
+    "epsReported": null,
+    "revExpected": 87911826330.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1869,20 +1869,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "DUK",
-    "name": "Duke Energy Corporation",
-    "date": "2026-11-05",
-    "time": "2026-11-05T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 1.86,
-    "epsReported": null,
-    "revExpected": 8972658180.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "NET",
     "name": "Cloudflare, Inc.",
     "date": "2026-11-05",
@@ -1892,6 +1878,20 @@
     "epsExpected": 0.34,
     "epsReported": null,
     "revExpected": 738090880.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "DUK",
+    "name": "Duke Energy Corporation",
+    "date": "2026-11-05",
+    "time": "2026-11-05T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 1.86,
+    "epsReported": null,
+    "revExpected": 8972658180.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1981,20 +1981,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "SPG",
-    "name": "Simon Property Group, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T15:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 1.62,
-    "epsReported": null,
-    "revExpected": 1657827540.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "APD",
     "name": "Air Products and Chemicals, Inc.",
     "date": "2026-11-05",
@@ -2004,6 +1990,20 @@
     "epsExpected": 3.61,
     "epsReported": null,
     "revExpected": 3336777660.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "SPG",
+    "name": "Simon Property Group, Inc.",
+    "date": "2026-11-05",
+    "time": "2026-11-05T15:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 1.62,
+    "epsReported": null,
+    "revExpected": 1657827540.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2649,13 +2649,13 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ATROB",
+    "symbol": "ATRO",
     "name": "Astronics Corporation",
     "date": "2026-11-10",
     "time": "2026-11-10T15:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": null,
+    "epsExpected": 0.72,
     "epsReported": null,
     "revExpected": 268068400.0,
     "revReported": null,
@@ -2863,20 +2863,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "DDS",
-    "name": "Dillard's, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 6.2,
-    "epsReported": null,
-    "revExpected": 1478781620.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "TWST",
     "name": "Twist Bioscience Corporation",
     "date": "2026-11-12",
@@ -2886,6 +2872,20 @@
     "epsExpected": -0.2,
     "epsReported": null,
     "revExpected": 123581720.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "DDS",
+    "name": "Dillard's, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 6.2,
+    "epsReported": null,
+    "revExpected": 1478781620.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3422,6 +3422,13 @@
  },
  "saved": [
   {
+   "symbol": "ATROB",
+   "date": "2026-11-10",
+   "revExpected": 268068400.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": null
+  },
+  {
    "symbol": "EPD",
    "date": "2026-10-29",
    "revExpected": 14975088570.0,
@@ -3441,13 +3448,6 @@
    "revExpected": 38230400.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.9
-  },
-  {
-   "symbol": "ATRO",
-   "date": "2026-11-10",
-   "revExpected": 268068400.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.72
   },
   {
    "symbol": "NN",
