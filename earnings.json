@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:57:18.404216-04:00",
+ "updated": "2026-10-30T18:53:25.082049-04:00",
  "days": {
   "2026-10-23": [
    {
@@ -2193,6 +2193,34 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MSGS",
+    "name": "Madison Square Garden Sports Corp.",
+    "date": "2026-11-06",
+    "time": "2026-11-06T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": -1.26,
+    "epsReported": null,
+    "revExpected": 40357670.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MSGK",
+    "name": "MSG Knickerbockers Corp.",
+    "date": "2026-11-06",
+    "time": "2026-11-06T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": -0.9,
+    "epsReported": null,
+    "revExpected": 38230400.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "FLR",
     "name": "Fluor Corporation",
     "date": "2026-11-06",
@@ -2216,34 +2244,6 @@
     "epsExpected": -0.37,
     "epsReported": null,
     "revExpected": 63344840.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "PAGP",
-    "name": "Plains GP Holdings, L.P.",
-    "date": "2026-11-06",
-    "time": "2026-11-06T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.48,
-    "epsReported": null,
-    "revExpected": 13905147570.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "OKLO",
-    "name": "Oklo Inc.",
-    "date": "2026-11-06",
-    "time": "2026-11-06T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.26,
-    "epsReported": null,
-    "revExpected": 1091790.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3003,6 +3003,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "XE",
+    "name": "X-Energy, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": -0.12,
+    "epsReported": null,
+    "revExpected": 62335790.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "ONDS",
     "name": "Ondas Inc.",
     "date": "2026-11-12",
@@ -3012,20 +3026,6 @@
     "epsExpected": -0.09,
     "epsReported": null,
     "revExpected": 148039400.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "PBLS",
-    "name": "Parabilis Medicines, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.38,
-    "epsReported": null,
-    "revExpected": 500000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3412,7 +3412,8 @@
   "PIPR": true,
   "OMF": true,
   "QRVO": true,
-  "ATROB": true
+  "ATROB": true,
+  "XE": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3421,6 +3422,27 @@
   "PFG": true
  },
  "saved": [
+  {
+   "symbol": "PAGP",
+   "date": "2026-11-06",
+   "revExpected": 13905147570.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.48
+  },
+  {
+   "symbol": "OKLO",
+   "date": "2026-11-06",
+   "revExpected": 1091790.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.26
+  },
+  {
+   "symbol": "PBLS",
+   "date": "2026-11-12",
+   "revExpected": 500000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.38
+  },
   {
    "symbol": "ATROB",
    "date": "2026-11-10",
