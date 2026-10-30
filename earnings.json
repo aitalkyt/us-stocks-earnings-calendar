@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T13:01:22.463665-04:00",
+ "updated": "2026-10-30T15:02:32.952660-04:00",
  "days": {
   "2026-10-23": [
    {
@@ -238,9 +238,9 @@
     "epsExpected": 2.43,
     "epsReported": 2.22,
     "revExpected": null,
-    "revReported": 4275000000.0,
+    "revReported": 4616400000.0,
     "revExpSrc": null,
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BRO",
@@ -399,20 +399,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "HCA",
-    "name": "HCA Healthcare, Inc.",
-    "date": "2026-10-27",
-    "time": "2026-10-27T07:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 6.63,
-    "epsReported": 7.22,
-    "revExpected": null,
-    "revReported": 19849000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "GLW",
     "name": "Corning Incorporated",
     "date": "2026-10-27",
@@ -425,6 +411,20 @@
     "revReported": 5081000000.0,
     "revExpSrc": null,
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "HCA",
+    "name": "HCA Healthcare, Inc.",
+    "date": "2026-10-27",
+    "time": "2026-10-27T07:00:00-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 6.63,
+    "epsReported": 7.22,
+    "revExpected": null,
+    "revReported": 19849000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "WM",
@@ -792,7 +792,7 @@
     "revExpected": 22615615160.0,
     "revReported": 24397000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MA",
@@ -888,9 +888,9 @@
     "epsExpected": 1.51,
     "epsReported": 1.52,
     "revExpected": 5306111240.0,
-    "revReported": null,
+    "revReported": 5441000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BMY",
@@ -1883,20 +1883,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ABNB",
-    "name": "Airbnb, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T15:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 2.85,
-    "epsReported": null,
-    "revExpected": 4749395380.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "NET",
     "name": "Cloudflare, Inc.",
     "date": "2026-11-05",
@@ -1906,6 +1892,20 @@
     "epsExpected": 0.34,
     "epsReported": null,
     "revExpected": 738090880.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ABNB",
+    "name": "Airbnb, Inc.",
+    "date": "2026-11-05",
+    "time": "2026-11-05T15:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 2.85,
+    "epsReported": null,
+    "revExpected": 4749395380.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2621,20 +2621,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ASST",
-    "name": "Strive, Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.15,
-    "epsReported": null,
-    "revExpected": 3000250.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "REZI",
     "name": "Resideo Technologies, Inc.",
     "date": "2026-11-10",
@@ -2644,6 +2630,20 @@
     "epsExpected": 0.4,
     "epsReported": null,
     "revExpected": 714000000.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ASST",
+    "name": "Strive, Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": -0.15,
+    "epsReported": null,
+    "revExpected": 3000250.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2919,6 +2919,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "MANE",
     "name": "Veradermics, Incorporated",
     "date": "2026-11-12",
@@ -2942,20 +2956,6 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 404220200.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3417,7 +3417,8 @@
  "revenueMismatch": {
   "NDAQ": true,
   "HIG": true,
-  "GOOGL": true
+  "GOOGL": true,
+  "PFG": true
  },
  "saved": [
   {
