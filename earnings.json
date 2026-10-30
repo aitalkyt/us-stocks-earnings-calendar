@@ -1,218 +1,6 @@
 {
- "updated": "2026-10-29T23:04:15.962031-04:00",
+ "updated": "2026-10-30T01:02:20.476244-04:00",
  "days": {
-  "2026-10-22": [
-   {
-    "symbol": "PG",
-    "name": "The Procter & Gamble Company",
-    "date": "2026-10-22",
-    "time": "2026-10-22T07:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.89,
-    "epsReported": 2.0,
-    "revExpected": null,
-    "revReported": 23276000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "UNP",
-    "name": "Union Pacific Corporation",
-    "date": "2026-10-22",
-    "time": "2026-10-22T07:45:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 3.48,
-    "epsReported": 3.53,
-    "revExpected": null,
-    "revReported": 7197000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "LMT",
-    "name": "Lockheed Martin Corporation",
-    "date": "2026-10-22",
-    "time": "2026-10-22T06:19:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 7.52,
-    "epsReported": 7.97,
-    "revExpected": null,
-    "revReported": 20711000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "WDC",
-    "name": "Western Digital Corporation",
-    "date": "2026-10-22",
-    "time": "2026-10-22T16:01:00-04:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 4.1,
-    "epsReported": 4.64,
-    "revExpected": null,
-    "revReported": 4381000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "NEM",
-    "name": "Newmont Corporation",
-    "date": "2026-10-22",
-    "time": "2026-10-22T16:05:51-04:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 1.95,
-    "epsReported": 2.2,
-    "revExpected": null,
-    "revReported": 6363000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "VLO",
-    "name": "Valero Energy Corporation",
-    "date": "2026-10-22",
-    "time": "2026-10-22T06:30:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 21.23,
-    "epsReported": 23.9,
-    "revExpected": null,
-    "revReported": 46098000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "BX",
-    "name": "Blackstone Inc.",
-    "date": "2026-10-22",
-    "time": "2026-10-22T06:55:08-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.26,
-    "epsReported": 1.32,
-    "revExpected": null,
-    "revReported": 3216570000.0,
-    "revExpSrc": null,
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "CMCSA",
-    "name": "Comcast Corporation",
-    "date": "2026-10-22",
-    "time": "2026-10-22T07:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.99,
-    "epsReported": 1.07,
-    "revExpected": null,
-    "revReported": 29298000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "NSC",
-    "name": "Norfolk Southern Corporation",
-    "date": "2026-10-22",
-    "time": "2026-10-22T08:20:13-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 3.47,
-    "epsReported": 3.62,
-    "revExpected": null,
-    "revReported": 3526000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "HON",
-    "name": "Honeywell International Inc.",
-    "date": "2026-10-22",
-    "time": "2026-10-22T06:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 2.16,
-    "epsReported": 2.27,
-    "revExpected": null,
-    "revReported": 4994000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "BE",
-    "name": "Bloom Energy Corporation",
-    "date": "2026-10-22",
-    "time": "2026-10-22T16:05:00-04:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.68,
-    "epsReported": 0.94,
-    "revExpected": null,
-    "revReported": 1235837000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "NDAQ",
-    "name": "Nasdaq, Inc.",
-    "date": "2026-10-22",
-    "time": "2026-10-22T07:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.02,
-    "epsReported": 1.04,
-    "revExpected": null,
-    "revReported": 2393000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "FIX",
-    "name": "Comfort Systems USA, Inc.",
-    "date": "2026-10-22",
-    "time": "2026-10-22T16:10:19-04:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 12.85,
-    "epsReported": 13.91,
-    "revExpected": null,
-    "revReported": 3766302000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "ROP",
-    "name": "Roper Technologies, Inc.",
-    "date": "2026-10-22",
-    "time": "2026-10-22T06:55:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 5.79,
-    "epsReported": 5.89,
-    "revExpected": null,
-    "revReported": 2171800000.0,
-    "revExpSrc": null,
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "PCG",
-    "name": "PG&E Corporation",
-    "date": "2026-10-22",
-    "time": "2026-10-22T06:03:19-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.42,
-    "epsReported": 0.41,
-    "revExpected": null,
-    "revReported": 6188000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   }
-  ],
   "2026-10-23": [
    {
     "symbol": "AXP",
@@ -1897,20 +1685,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "DDOG",
-    "name": "Datadog, Inc.",
-    "date": "2026-11-04",
-    "time": "2026-11-04T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.64,
-    "epsReported": null,
-    "revExpected": 1145540090.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "EMR",
     "name": "Emerson Electric Co.",
     "date": "2026-11-04",
@@ -1920,6 +1694,20 @@
     "epsExpected": 1.85,
     "epsReported": null,
     "revExpected": 5117957300.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "DDOG",
+    "name": "Datadog, Inc.",
+    "date": "2026-11-04",
+    "time": "2026-11-04T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.64,
+    "epsReported": null,
+    "revExpected": 1145540090.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1953,20 +1741,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ALL",
-    "name": "The Allstate Corporation",
-    "date": "2026-11-04",
-    "time": "2026-11-04T15:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 6.96,
-    "epsReported": null,
-    "revExpected": 17458908860.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "GWW",
     "name": "W.W. Grainger, Inc.",
     "date": "2026-11-04",
@@ -1976,6 +1750,20 @@
     "epsExpected": 11.66,
     "epsReported": null,
     "revExpected": 5075421530.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ALL",
+    "name": "The Allstate Corporation",
+    "date": "2026-11-04",
+    "time": "2026-11-04T15:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 6.96,
+    "epsReported": null,
+    "revExpected": 17458908860.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3173,20 +2961,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MANE",
     "name": "Veradermics, Incorporated",
     "date": "2026-11-12",
@@ -3210,6 +2984,20 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 404220200.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3284,7 +3072,8 @@
     "revExpSrc": "yahoo",
     "revRepSrc": null
    }
-  ]
+  ],
+  "2026-11-13": []
  },
  "companies": {
   "PG": true,
@@ -3654,7 +3443,11 @@
   "SONO": true,
   "AADX": true,
   "BRK-B": true,
-  "LNG": true
+  "LNG": true,
+  "MUFG": false,
+  "SMFG": false,
+  "MFG": false,
+  "CSAN": false
  },
  "revenueMismatch": {
   "NDAQ": true,
