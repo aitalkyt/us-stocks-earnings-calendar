@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:00:43.730483-04:00",
+ "updated": "2026-10-30T09:13:48.403426-04:00",
  "days": {
   "2026-10-23": [
    {
@@ -979,20 +979,6 @@
   ],
   "2026-10-30": [
    {
-    "symbol": "XOM",
-    "name": "ExxonMobil Holdings Corporation",
-    "date": "2026-10-30",
-    "time": "2026-10-30T08:30:00-04:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 4.04,
-    "epsReported": null,
-    "revExpected": 106024365960.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "ABBV",
     "name": "AbbVie Inc.",
     "date": "2026-10-30",
@@ -1016,34 +1002,6 @@
     "epsExpected": 4.83,
     "epsReported": null,
     "revExpected": 61646139060.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "GD",
-    "name": "General Dynamics Corporation",
-    "date": "2026-10-30",
-    "time": "2026-10-30T08:30:00-04:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 4.13,
-    "epsReported": null,
-    "revExpected": 13726312260.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "REGN",
-    "name": "Regeneron Pharmaceuticals, Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T08:30:00-04:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 16.25,
-    "epsReported": null,
-    "revExpected": 4561941280.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1147,20 +1105,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "BTSG",
-    "name": "BrightSpring Health Services, Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T08:30:00-04:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.47,
-    "epsReported": null,
-    "revExpected": 3874323560.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "FRT",
     "name": "Federal Realty Investment Trust",
     "date": "2026-10-30",
@@ -1184,6 +1128,62 @@
     "epsExpected": -1.26,
     "epsReported": null,
     "revExpected": 40357670.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MSGK",
+    "name": "MSG Knickerbockers Corp.",
+    "date": "2026-10-30",
+    "time": "2026-10-30T08:30:00-04:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": -1.11,
+    "epsReported": null,
+    "revExpected": 38230400.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "LEA",
+    "name": "Lear Corporation",
+    "date": "2026-10-30",
+    "time": "2026-10-30T08:30:00-04:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 3.32,
+    "epsReported": null,
+    "revExpected": 5809628850.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "AN",
+    "name": "AutoNation, Inc.",
+    "date": "2026-10-30",
+    "time": "2026-10-30T08:30:00-04:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 5.08,
+    "epsReported": null,
+    "revExpected": 6934096140.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "PIPR",
+    "name": "Piper Sandler Companies",
+    "date": "2026-10-30",
+    "time": "2026-10-30T08:30:00-04:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.93,
+    "epsReported": null,
+    "revExpected": 467393250.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1685,20 +1685,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "EMR",
-    "name": "Emerson Electric Co.",
-    "date": "2026-11-04",
-    "time": "2026-11-04T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q4 2026",
-    "epsExpected": 1.85,
-    "epsReported": null,
-    "revExpected": 5117957300.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "DDOG",
     "name": "Datadog, Inc.",
     "date": "2026-11-04",
@@ -1708,6 +1694,20 @@
     "epsExpected": 0.64,
     "epsReported": null,
     "revExpected": 1145540090.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "EMR",
+    "name": "Emerson Electric Co.",
+    "date": "2026-11-04",
+    "time": "2026-11-04T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q4 2026",
+    "epsExpected": 1.85,
+    "epsReported": null,
+    "revExpected": 5117957300.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1741,20 +1741,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "GWW",
-    "name": "W.W. Grainger, Inc.",
-    "date": "2026-11-04",
-    "time": "2026-11-04T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 11.66,
-    "epsReported": null,
-    "revExpected": 5075421530.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "ALL",
     "name": "The Allstate Corporation",
     "date": "2026-11-04",
@@ -1764,6 +1750,20 @@
     "epsExpected": 6.96,
     "epsReported": null,
     "revExpected": 17458908860.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "GWW",
+    "name": "W.W. Grainger, Inc.",
+    "date": "2026-11-04",
+    "time": "2026-11-04T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 11.66,
+    "epsReported": null,
+    "revExpected": 5075421530.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2961,6 +2961,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "MANE",
     "name": "Veradermics, Incorporated",
     "date": "2026-11-12",
@@ -2984,20 +2998,6 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 404220200.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3447,13 +3447,45 @@
   "MUFG": false,
   "SMFG": false,
   "MFG": false,
-  "CSAN": false
+  "CSAN": false,
+  "MSGK": true,
+  "LEA": true,
+  "AN": true,
+  "PIPR": true
  },
  "revenueMismatch": {
   "NDAQ": true,
   "HIG": true
  },
  "saved": [
+  {
+   "symbol": "XOM",
+   "date": "2026-10-30",
+   "revExpected": 106024365960.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.04
+  },
+  {
+   "symbol": "GD",
+   "date": "2026-10-30",
+   "revExpected": 13726312260.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.13
+  },
+  {
+   "symbol": "REGN",
+   "date": "2026-10-30",
+   "revExpected": 4561941280.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 16.25
+  },
+  {
+   "symbol": "BTSG",
+   "date": "2026-10-30",
+   "revExpected": 3874323560.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.47
+  },
   {
    "symbol": "DASH",
    "date": "2026-10-29",
