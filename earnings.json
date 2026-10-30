@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T05:07:55.911880-04:00",
+ "updated": "2026-10-30T07:00:43.730483-04:00",
  "days": {
   "2026-10-23": [
    {
@@ -801,7 +801,7 @@
     "time": "2026-10-29T08:04:22-04:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 5.17,
+    "epsExpected": 5.16,
     "epsReported": 5.31,
     "revExpected": 9656239400.0,
     "revReported": null,
@@ -1833,7 +1833,7 @@
     "time": "2026-11-05T07:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": 3.05,
+    "epsExpected": 3.04,
     "epsReported": null,
     "revExpected": 18939142100.0,
     "revReported": null,
@@ -2289,7 +2289,7 @@
     "time": "2026-11-09T07:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": 3.84,
+    "epsExpected": 3.88,
     "epsReported": null,
     "revExpected": 9382503010.0,
     "revReported": null,
