@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T15:00:05.262139-04:00",
+ "updated": "2026-10-31T16:52:04.949352-04:00",
  "days": {
   "2026-10-26": [
    {
@@ -673,7 +673,7 @@
     "time": "2026-10-29T08:04:22-04:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 5.16,
+    "epsExpected": 5.17,
     "epsReported": 5.31,
     "revExpected": 9656239400.0,
     "revReported": 9807000000.0,
@@ -857,7 +857,7 @@
     "time": "2026-10-30T06:32:50-04:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 4.04,
+    "epsExpected": 4.03,
     "epsReported": 4.23,
     "revExpected": 106024365960.0,
     "revReported": 113164000000.0,
@@ -2791,6 +2791,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "MANE",
     "name": "Veradermics, Incorporated",
     "date": "2026-11-12",
@@ -2814,20 +2828,6 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 404220200.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
