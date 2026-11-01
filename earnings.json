@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:52:22.196002-05:00",
+ "updated": "2026-11-01T17:51:57.472204-05:00",
  "days": {
   "2026-10-26": [
    {
@@ -1028,7 +1028,7 @@
     "epsExpected": 0.47,
     "epsReported": 0.54,
     "revExpected": 3874323560.0,
-    "revReported": 4213229999.0,
+    "revReported": 4213234000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -1042,7 +1042,7 @@
     "epsExpected": 0.71,
     "epsReported": 0.74,
     "revExpected": 337992430.0,
-    "revReported": 339020000.0,
+    "revReported": 329644000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
