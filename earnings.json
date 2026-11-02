@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T12:17:59.950421-05:00",
+ "updated": "2026-11-02T14:14:00.530615-05:00",
  "days": {
   "2026-10-26": [
    {
@@ -893,20 +893,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "REGN",
-    "name": "Regeneron Pharmaceuticals, Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T06:30:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 16.25,
-    "epsReported": 20.07,
-    "revExpected": 4561941280.0,
-    "revReported": 5115800000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "GD",
     "name": "General Dynamics Corporation",
     "date": "2026-10-30",
@@ -919,6 +905,20 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "date": "2026-10-30",
+    "time": "2026-10-30T06:30:00-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 16.25,
+    "epsReported": 20.07,
+    "revExpected": 4561941280.0,
+    "revReported": 5115800000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "CL",
@@ -2037,20 +2037,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "FRHC",
-    "name": "Freedom Holdings Corp.",
-    "date": "2026-11-06",
-    "time": "2026-11-06T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q2 2027",
-    "epsExpected": null,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "ELAN",
     "name": "Elanco Animal Health Incorporated",
     "date": "2026-11-06",
@@ -2060,6 +2046,20 @@
     "epsExpected": 0.2,
     "epsReported": null,
     "revExpected": 1206839890.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "FRHC",
+    "name": "Freedom Holdings Corp.",
+    "date": "2026-11-06",
+    "time": "2026-11-06T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q2 2027",
+    "epsExpected": null,
+    "epsReported": null,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2107,15 +2107,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "WULF",
-    "name": "TeraWulf Inc.",
+    "symbol": "PAGP",
+    "name": "Plains GP Holdings, L.P.",
     "date": "2026-11-06",
     "time": "2026-11-06T08:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": -0.37,
+    "epsExpected": 0.48,
     "epsReported": null,
-    "revExpected": 63344840.0,
+    "revExpected": 13905147570.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2123,13 +2123,13 @@
   ],
   "2026-11-07": [
    {
-    "symbol": "BRK-B",
+    "symbol": "BRK-A",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
     "time": "2026-11-07T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 6.14,
+    "epsExpected": 9092.32,
     "epsReported": null,
     "revExpected": 0.0,
     "revReported": null,
@@ -2295,20 +2295,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ASTS",
-    "name": "AST SpaceMobile, Inc.",
-    "date": "2026-11-09",
-    "time": "2026-11-09T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.45,
-    "epsReported": null,
-    "revExpected": 46003120.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "TECH",
     "name": "Bio-Techne Corporation",
     "date": "2026-11-09",
@@ -2318,6 +2304,20 @@
     "epsExpected": 0.45,
     "epsReported": null,
     "revExpected": 292201690.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ASTS",
+    "name": "AST SpaceMobile, Inc.",
+    "date": "2026-11-09",
+    "time": "2026-11-09T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -0.45,
+    "epsReported": null,
+    "revExpected": 46003120.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3384,6 +3384,20 @@
  },
  "saved": [
   {
+   "symbol": "WULF",
+   "date": "2026-11-06",
+   "revExpected": 63344840.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.37
+  },
+  {
+   "symbol": "BRK-B",
+   "date": "2026-11-07",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 6.14
+  },
+  {
    "symbol": "SBAC",
    "date": "2026-11-02",
    "revExpected": 725334720.0,
@@ -3396,13 +3410,6 @@
    "revExpected": 2018897940.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.46
-  },
-  {
-   "symbol": "BRK-A",
-   "date": "2026-11-07",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 9092.32
   },
   {
    "symbol": "EPD",
@@ -3445,13 +3452,6 @@
    "revExpected": 9991053710.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.71
-  },
-  {
-   "symbol": "PAGP",
-   "date": "2026-11-06",
-   "revExpected": 13905147570.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.48
   },
   {
    "symbol": "OKLO",
