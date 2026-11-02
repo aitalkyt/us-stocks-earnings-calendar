@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:05:04.050641-05:00",
+ "updated": "2026-11-02T00:18:05.206000-05:00",
  "days": {
   "2026-10-26": [
    {
@@ -2791,6 +2791,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "MANE",
     "name": "Veradermics, Incorporated",
     "date": "2026-11-12",
@@ -2814,20 +2828,6 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 404220200.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2903,7 +2903,79 @@
     "revRepSrc": null
    }
   ],
-  "2026-11-13": []
+  "2026-11-13": [],
+  "2026-11-16": [
+   {
+    "symbol": "TSN",
+    "name": "Tyson Foods, Inc.",
+    "date": "2026-11-16",
+    "time": "2026-11-16T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q4 2026",
+    "epsExpected": 0.6,
+    "epsReported": null,
+    "revExpected": 14096286810.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ARMK",
+    "name": "Aramark",
+    "date": "2026-11-16",
+    "time": "2026-11-16T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q4 2026",
+    "epsExpected": 0.75,
+    "epsReported": null,
+    "revExpected": 5291126200.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ACM",
+    "name": "AECOM",
+    "date": "2026-11-16",
+    "time": "2026-11-16T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 1.59,
+    "epsReported": null,
+    "revExpected": 4098003760.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MMED",
+    "name": "MiniMed Group, Inc.",
+    "date": "2026-11-16",
+    "time": "2026-11-16T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q2 2027",
+    "epsExpected": 0.1,
+    "epsReported": null,
+    "revExpected": 824436050.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "INFQ",
+    "name": "Infleqtion, Inc.",
+    "date": "2026-11-16",
+    "time": "2026-11-16T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -0.05,
+    "epsReported": null,
+    "revExpected": 11085670.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   }
+  ]
  },
  "companies": {
   "PG": true,
@@ -3285,7 +3357,17 @@
   "OMF": true,
   "QRVO": true,
   "ATROB": true,
-  "XE": true
+  "XE": true,
+  "BIDU": false,
+  "TCOM": false,
+  "TSN": true,
+  "ARMK": true,
+  "XPEV": false,
+  "ACM": true,
+  "XP": false,
+  "MMED": true,
+  "PAGS": false,
+  "INFQ": true
  },
  "revenueMismatch": {
   "NDAQ": true,
