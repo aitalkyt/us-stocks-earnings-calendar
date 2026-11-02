@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:58:35.784316-05:00",
+ "updated": "2026-11-02T17:56:54.254753-05:00",
  "days": {
   "2026-10-26": [
    {
@@ -1077,20 +1077,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "PLTR",
-    "name": "Palantir Technologies Inc.",
-    "date": "2026-11-02",
-    "time": "2026-11-02T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.41,
-    "epsReported": null,
-    "revExpected": 2180834970.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "VRTX",
     "name": "Vertex Pharmaceuticals Incorporated",
     "date": "2026-11-02",
@@ -1142,20 +1128,6 @@
     "epsExpected": 4.22,
     "epsReported": 4.57,
     "revExpected": 1253198040.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "FANG",
-    "name": "Diamondback Energy, Inc.",
-    "date": "2026-11-02",
-    "time": "2026-11-02T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 5.6,
-    "epsReported": null,
-    "revExpected": 4910768430.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1259,18 +1231,46 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "ROKU",
-    "name": "Roku, Inc.",
+    "symbol": "EQH",
+    "name": "Equitable Holdings, Inc.",
     "date": "2026-11-02",
     "time": "2026-11-02T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 0.55,
+    "epsExpected": 1.86,
     "epsReported": null,
-    "revExpected": 1412268430.0,
+    "revExpected": 3956657190.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "NBIX",
+    "name": "Neurocrine Biosciences, Inc.",
+    "date": "2026-11-02",
+    "time": "2026-11-02T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 2.75,
+    "epsReported": null,
+    "revExpected": 1043717210.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "TEM",
+    "name": "Tempus AI, Inc.",
+    "date": "2026-11-02",
+    "time": "2026-11-02T07:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": -0.08,
+    "epsReported": 0.07,
+    "revExpected": null,
+    "revReported": 411540000.0,
+    "revExpSrc": null,
+    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-03": [
@@ -2107,15 +2107,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "PAGP",
-    "name": "Plains GP Holdings, L.P.",
+    "symbol": "WULF",
+    "name": "TeraWulf Inc.",
     "date": "2026-11-06",
     "time": "2026-11-06T08:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": 0.48,
+    "epsExpected": -0.37,
     "epsReported": null,
-    "revExpected": 13905147570.0,
+    "revExpected": 63344840.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3375,7 +3375,12 @@
   "TDG": true,
   "RLX": false,
   "AIG": true,
-  "ARE": true
+  "ARE": true,
+  "TSEM": false,
+  "EQH": true,
+  "NBIX": true,
+  "CHKP": false,
+  "TEM": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3386,18 +3391,39 @@
  },
  "saved": [
   {
+   "symbol": "PLTR",
+   "date": "2026-11-02",
+   "revExpected": 2180834970.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.41
+  },
+  {
+   "symbol": "FANG",
+   "date": "2026-11-02",
+   "revExpected": 4910768430.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 5.6
+  },
+  {
+   "symbol": "ROKU",
+   "date": "2026-11-02",
+   "revExpected": 1412268430.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.55
+  },
+  {
+   "symbol": "PAGP",
+   "date": "2026-11-06",
+   "revExpected": 13905147570.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.48
+  },
+  {
    "symbol": "ONDS",
    "date": "2026-11-12",
    "revExpected": 148039400.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.09
-  },
-  {
-   "symbol": "WULF",
-   "date": "2026-11-06",
-   "revExpected": 63344840.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.37
   },
   {
    "symbol": "BRK-B",
