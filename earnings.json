@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T00:18:05.206000-05:00",
+ "updated": "2026-11-02T02:43:50.689090-05:00",
  "days": {
   "2026-10-26": [
    {
@@ -687,7 +687,7 @@
     "time": "2026-10-29T06:30:00-04:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 2.09,
+    "epsExpected": 2.08,
     "epsReported": 2.49,
     "revExpected": 17325009230.0,
     "revReported": 18085000000.0,
@@ -1069,7 +1069,7 @@
     "time": "2026-11-02T16:00:00-05:00",
     "session": "amc",
     "period": "Q4 2026",
-    "epsExpected": 1.98,
+    "epsExpected": 1.99,
     "epsReported": null,
     "revExpected": 113322287400.0,
     "revReported": null,
@@ -2029,7 +2029,7 @@
     "time": "2026-11-06T08:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": 8.94,
+    "epsExpected": 9.24,
     "epsReported": null,
     "revExpected": 14944000000.0,
     "revReported": null,
@@ -2259,7 +2259,7 @@
     "time": "2026-11-09T08:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": 3.11,
+    "epsExpected": 3.14,
     "epsReported": null,
     "revExpected": 9267415960.0,
     "revReported": null,
@@ -2287,7 +2287,7 @@
     "time": "2026-11-09T08:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": 1.06,
+    "epsExpected": 1.05,
     "epsReported": null,
     "revExpected": 2425706740.0,
     "revReported": null,
@@ -2791,20 +2791,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MANE",
     "name": "Veradermics, Incorporated",
     "date": "2026-11-12",
@@ -2828,6 +2814,20 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 404220200.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3367,7 +3367,8 @@
   "XP": false,
   "MMED": true,
   "PAGS": false,
-  "INFQ": true
+  "INFQ": true,
+  "DAC": false
  },
  "revenueMismatch": {
   "NDAQ": true,
