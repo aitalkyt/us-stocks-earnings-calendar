@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T08:28:13.525905-05:00",
+ "updated": "2026-11-02T10:10:15.811998-05:00",
  "days": {
   "2026-10-26": [
    {
@@ -299,20 +299,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "WM",
-    "name": "Waste Management, Inc.",
-    "date": "2026-10-27",
-    "time": "2026-10-27T16:38:40-04:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 2.18,
-    "epsReported": 2.15,
-    "revExpected": null,
-    "revReported": 6846000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "UPS",
     "name": "United Parcel Service, Inc.",
     "date": "2026-10-27",
@@ -339,6 +325,20 @@
     "revReported": 7546000000.0,
     "revExpSrc": null,
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "WM",
+    "name": "Waste Management, Inc.",
+    "date": "2026-10-27",
+    "time": "2026-10-27T16:38:40-04:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 2.18,
+    "epsReported": 2.15,
+    "revExpected": null,
+    "revReported": 6846000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "AMT",
@@ -397,20 +397,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "HLT",
-    "name": "Hilton Worldwide Holdings Inc.",
-    "date": "2026-10-27",
-    "time": "2026-10-27T06:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 2.37,
-    "epsReported": 2.45,
-    "revExpected": null,
-    "revReported": 3325000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "ITW",
     "name": "Illinois Tool Works Inc.",
     "date": "2026-10-27",
@@ -423,6 +409,20 @@
     "revReported": 4236000000.0,
     "revExpSrc": null,
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "HLT",
+    "name": "Hilton Worldwide Holdings Inc.",
+    "date": "2026-10-27",
+    "time": "2026-10-27T06:00:00-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 2.37,
+    "epsReported": 2.45,
+    "revExpected": null,
+    "revReported": 3325000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-10-28": [
@@ -525,20 +525,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "PSX",
-    "name": "Phillips 66",
-    "date": "2026-10-28",
-    "time": "2026-10-28T06:47:11-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 11.79,
-    "epsReported": 14.08,
-    "revExpected": null,
-    "revReported": 50540000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "NOW",
     "name": "ServiceNow, Inc.",
     "date": "2026-10-28",
@@ -549,6 +535,20 @@
     "epsReported": 1.0,
     "revExpected": null,
     "revReported": 4106000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "PSX",
+    "name": "Phillips 66",
+    "date": "2026-10-28",
+    "time": "2026-10-28T06:47:11-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 11.79,
+    "epsReported": 14.08,
+    "revExpected": null,
+    "revReported": 50540000000.0,
     "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
@@ -609,20 +609,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "AEP",
-    "name": "American Electric Power Company, Inc.",
-    "date": "2026-10-28",
-    "time": "2026-10-28T06:57:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 2.04,
-    "epsReported": 2.23,
-    "revExpected": null,
-    "revReported": 6832000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "ORLY",
     "name": "O'Reilly Automotive, Inc.",
     "date": "2026-10-28",
@@ -635,6 +621,20 @@
     "revReported": 5121290000.0,
     "revExpSrc": null,
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "AEP",
+    "name": "American Electric Power Company, Inc.",
+    "date": "2026-10-28",
+    "time": "2026-10-28T06:57:00-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 2.04,
+    "epsReported": 2.23,
+    "revExpected": null,
+    "revReported": 6832000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-10-29": [
@@ -835,18 +835,18 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "EPD",
-    "name": "Enterprise Products Partners L.P.",
+    "symbol": "HWM",
+    "name": "Howmet Aerospace Inc.",
     "date": "2026-10-29",
-    "time": "2026-10-29T06:00:00-04:00",
+    "time": "2026-10-29T07:00:00-04:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 0.73,
-    "epsReported": 0.76,
-    "revExpected": 14975088570.0,
-    "revReported": 17948000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "epsExpected": 1.37,
+    "epsReported": 1.46,
+    "revExpected": null,
+    "revReported": 2703000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-10-30": [
@@ -1108,15 +1108,15 @@
     "symbol": "MAR",
     "name": "Marriott International, Inc.",
     "date": "2026-11-02",
-    "time": "2026-11-02T08:30:00-05:00",
+    "time": "2026-11-02T07:00:00-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 2.85,
-    "epsReported": null,
+    "epsReported": 3.02,
     "revExpected": 6921534890.0,
-    "revReported": null,
+    "revReported": 7005000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "WMB",
@@ -1128,6 +1128,20 @@
     "epsExpected": 0.54,
     "epsReported": null,
     "revExpected": 2928536080.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "LITE",
+    "name": "Lumentum Holdings Inc.",
+    "date": "2026-11-02",
+    "time": "2026-11-02T07:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 4.22,
+    "epsReported": 4.57,
+    "revExpected": 1253198040.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1164,39 +1178,39 @@
     "symbol": "ETR",
     "name": "Entergy Corporation",
     "date": "2026-11-02",
-    "time": "2026-11-02T08:30:00-05:00",
+    "time": "2026-11-02T06:30:00-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 1.7,
-    "epsReported": null,
+    "epsReported": 1.98,
     "revExpected": 4148281240.0,
-    "revReported": null,
+    "revReported": 4365170000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "IDXX",
     "name": "IDEXX Laboratories, Inc.",
     "date": "2026-11-02",
-    "time": "2026-11-02T08:30:00-05:00",
+    "time": "2026-11-02T06:30:00-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 3.71,
-    "epsReported": null,
+    "epsReported": 4.01,
     "revExpected": 1192387000.0,
-    "revReported": null,
+    "revReported": 1214240000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "EL",
     "name": "The Est\u00e9e Lauder Companies Inc.",
     "date": "2026-11-02",
-    "time": "2026-11-02T08:30:00-05:00",
+    "time": "2026-11-02T06:00:00-05:00",
     "session": "bmo",
-    "period": "Q1 2027",
+    "period": "",
     "epsExpected": 0.51,
-    "epsReported": null,
+    "epsReported": 0.72,
     "revExpected": 3653379830.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -1206,11 +1220,11 @@
     "symbol": "PEG",
     "name": "Public Service Enterprise Group Incorporated",
     "date": "2026-11-02",
-    "time": "2026-11-02T08:30:00-05:00",
+    "time": "2026-11-02T07:30:00-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 1.19,
-    "epsReported": null,
+    "epsReported": 1.15,
     "revExpected": 3252595920.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -1231,20 +1245,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "FOXA",
-    "name": "Fox Corporation",
-    "date": "2026-11-02",
-    "time": "2026-11-02T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q1 2027",
-    "epsExpected": 2.02,
-    "epsReported": null,
-    "revExpected": 4291563420.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "ROKU",
     "name": "Roku, Inc.",
     "date": "2026-11-02",
@@ -1259,15 +1259,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "L",
-    "name": "Loews Corporation",
+    "symbol": "SBAC",
+    "name": "SBA Communications Corporation",
     "date": "2026-11-02",
-    "time": "2026-11-02T08:30:00-05:00",
-    "session": "bmo",
+    "time": "2026-11-02T16:00:00-05:00",
+    "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": null,
+    "epsExpected": 2.1,
     "epsReported": null,
-    "revExpected": 0.0,
+    "revExpected": 725334720.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1359,20 +1359,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ET",
-    "name": "Energy Transfer LP",
-    "date": "2026-11-03",
-    "time": "2026-11-03T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.41,
-    "epsReported": null,
-    "revExpected": 32427041340.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "APO",
     "name": "Apollo Global Management, Inc.",
     "date": "2026-11-03",
@@ -1382,6 +1368,20 @@
     "epsExpected": 2.2,
     "epsReported": null,
     "revExpected": 1357685710.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ET",
+    "name": "Energy Transfer LP",
+    "date": "2026-11-03",
+    "time": "2026-11-03T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.41,
+    "epsReported": null,
+    "revExpected": 32427041340.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1471,15 +1471,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ALAB",
-    "name": "Astera Labs, Inc.",
+    "symbol": "YUM",
+    "name": "Yum! Brands, Inc.",
     "date": "2026-11-03",
-    "time": "2026-11-03T16:00:00-05:00",
-    "session": "amc",
+    "time": "2026-11-03T08:30:00-05:00",
+    "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": 1.19,
+    "epsExpected": 1.46,
     "epsReported": null,
-    "revExpected": 550803020.0,
+    "revExpected": 2018897940.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1571,20 +1571,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "DDOG",
-    "name": "Datadog, Inc.",
-    "date": "2026-11-04",
-    "time": "2026-11-04T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.64,
-    "epsReported": null,
-    "revExpected": 1145540090.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MSI",
     "name": "Motorola Solutions, Inc.",
     "date": "2026-11-04",
@@ -1594,6 +1580,20 @@
     "epsExpected": 4.44,
     "epsReported": null,
     "revExpected": 3278500000.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "DDOG",
+    "name": "Datadog, Inc.",
+    "date": "2026-11-04",
+    "time": "2026-11-04T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.64,
+    "epsReported": null,
+    "revExpected": 1145540090.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1741,15 +1741,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "NET",
-    "name": "Cloudflare, Inc.",
+    "symbol": "ABNB",
+    "name": "Airbnb, Inc.",
     "date": "2026-11-05",
     "time": "2026-11-05T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 0.34,
+    "epsExpected": 2.85,
     "epsReported": null,
-    "revExpected": 738090880.0,
+    "revExpected": 4749395380.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1769,15 +1769,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ABNB",
-    "name": "Airbnb, Inc.",
+    "symbol": "NET",
+    "name": "Cloudflare, Inc.",
     "date": "2026-11-05",
     "time": "2026-11-05T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 2.85,
+    "epsExpected": 0.34,
     "epsReported": null,
-    "revExpected": 4749395380.0,
+    "revExpected": 738090880.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1839,15 +1839,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "LITE",
-    "name": "Lumentum Holdings Inc.",
+    "symbol": "SPG",
+    "name": "Simon Property Group, Inc.",
     "date": "2026-11-05",
     "time": "2026-11-05T16:00:00-05:00",
     "session": "amc",
-    "period": "Q1 2027",
-    "epsExpected": 4.22,
+    "period": "Q3 2026",
+    "epsExpected": 1.62,
     "epsReported": null,
-    "revExpected": 1253198040.0,
+    "revExpected": 1657827540.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1862,20 +1862,6 @@
     "epsExpected": 3.61,
     "epsReported": null,
     "revExpected": 3336777660.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "SPG",
-    "name": "Simon Property Group, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 1.62,
-    "epsReported": null,
-    "revExpected": 1657827540.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1904,6 +1890,20 @@
     "epsExpected": 2.86,
     "epsReported": null,
     "revExpected": 4767630270.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "CAH",
+    "name": "Cardinal Health, Inc.",
+    "date": "2026-11-05",
+    "time": "2026-11-05T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": 2.94,
+    "epsReported": null,
+    "revExpected": 66511244980.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2066,7 +2066,7 @@
    },
    {
     "symbol": "MSGS",
-    "name": "Madison Square Garden Sports Corp.",
+    "name": "Madison Square Garden Sports Corp",
     "date": "2026-11-06",
     "time": "2026-11-06T08:30:00-05:00",
     "session": "bmo",
@@ -2367,6 +2367,20 @@
   ],
   "2026-11-10": [
    {
+    "symbol": "TDG",
+    "name": "TransDigm Group Incorporated",
+    "date": "2026-11-10",
+    "time": "2026-11-10T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q4 2026",
+    "epsExpected": 12.21,
+    "epsReported": null,
+    "revExpected": 2945467370.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "VG",
     "name": "Venture Global, Inc.",
     "date": "2026-11-10",
@@ -2479,20 +2493,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "FLY",
-    "name": "Firefly Aerospace Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.5,
-    "epsReported": null,
-    "revExpected": 103150620.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "REZI",
     "name": "Resideo Technologies, Inc.",
     "date": "2026-11-10",
@@ -2502,6 +2502,20 @@
     "epsExpected": 0.4,
     "epsReported": null,
     "revExpected": 714000000.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "FLY",
+    "name": "Firefly Aerospace Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -0.5,
+    "epsReported": null,
+    "revExpected": 103150620.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2535,20 +2549,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "NLST",
-    "name": "Netlist, Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.6,
-    "epsReported": null,
-    "revExpected": 308600000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "STUB",
     "name": "StubHub Holdings, Inc.",
     "date": "2026-11-10",
@@ -2558,6 +2558,20 @@
     "epsExpected": 0.14,
     "epsReported": null,
     "revExpected": 514555230.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "NLST",
+    "name": "Netlist, Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 0.6,
+    "epsReported": null,
+    "revExpected": 308600000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2735,20 +2749,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "TWST",
-    "name": "Twist Bioscience Corporation",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q4 2026",
-    "epsExpected": -0.2,
-    "epsReported": null,
-    "revExpected": 123581720.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "DDS",
     "name": "Dillard's, Inc.",
     "date": "2026-11-12",
@@ -2758,6 +2758,20 @@
     "epsExpected": 6.2,
     "epsReported": null,
     "revExpected": 1478781620.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "TWST",
+    "name": "Twist Bioscience Corporation",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q4 2026",
+    "epsExpected": -0.2,
+    "epsReported": null,
+    "revExpected": 123581720.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2791,20 +2805,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MANE",
-    "name": "Veradermics, Incorporated",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.62,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "OCTV",
     "name": "Octave Intelligence plc",
     "date": "2026-11-12",
@@ -2814,6 +2814,20 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 404220200.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MANE",
+    "name": "Veradermics, Incorporated",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": -0.62,
+    "epsReported": null,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2833,20 +2847,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "HTFL",
-    "name": "Heartflow, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.1,
-    "epsReported": null,
-    "revExpected": 65195110.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "FIGR",
     "name": "Figure Technology Solutions, Inc.",
     "date": "2026-11-12",
@@ -2856,6 +2856,20 @@
     "epsExpected": 0.34,
     "epsReported": null,
     "revExpected": 254531330.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "HTFL",
+    "name": "Heartflow, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -0.1,
+    "epsReported": null,
+    "revExpected": 65195110.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2957,20 +2971,6 @@
     "epsExpected": 0.1,
     "epsReported": null,
     "revExpected": 824436050.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "INFQ",
-    "name": "Infleqtion, Inc.",
-    "date": "2026-11-16",
-    "time": "2026-11-16T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.05,
-    "epsReported": null,
-    "revExpected": 11085670.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3368,7 +3368,12 @@
   "MMED": true,
   "PAGS": false,
   "INFQ": true,
-  "DAC": false
+  "DAC": false,
+  "SBAC": true,
+  "YUM": true,
+  "CAH": true,
+  "TDG": true,
+  "RLX": false
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3377,6 +3382,48 @@
   "PFG": true
  },
  "saved": [
+  {
+   "symbol": "EPD",
+   "date": "2026-10-29",
+   "revExpected": 14975088570.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.73
+  },
+  {
+   "symbol": "FOXA",
+   "date": "2026-11-02",
+   "revExpected": 4291563420.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.02
+  },
+  {
+   "symbol": "L",
+   "date": "2026-11-02",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": null
+  },
+  {
+   "symbol": "ALAB",
+   "date": "2026-11-03",
+   "revExpected": 550803020.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.19
+  },
+  {
+   "symbol": "LITE",
+   "date": "2026-11-05",
+   "revExpected": 1253198040.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.22
+  },
+  {
+   "symbol": "INFQ",
+   "date": "2026-11-16",
+   "revExpected": 11085670.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.05
+  },
   {
    "symbol": "MDLZ",
    "date": "2026-10-29",
