@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:14:00.530615-05:00",
+ "updated": "2026-11-02T15:58:35.784316-05:00",
  "days": {
   "2026-10-26": [
    {
@@ -157,20 +157,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "RMBS",
-    "name": "Rambus Inc.",
-    "date": "2026-10-26",
-    "time": "2026-10-26T16:07:45-04:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.79,
-    "epsReported": 0.84,
-    "revExpected": null,
-    "revReported": 218289000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "BRX",
     "name": "Brixmor Property Group Inc.",
     "date": "2026-10-26",
@@ -181,6 +167,20 @@
     "epsReported": 0.26,
     "revExpected": null,
     "revReported": 359598000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "RMBS",
+    "name": "Rambus Inc.",
+    "date": "2026-10-26",
+    "time": "2026-10-26T16:07:45-04:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.79,
+    "epsReported": 0.84,
+    "revExpected": null,
+    "revReported": 218289000.0,
     "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
@@ -199,16 +199,16 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "NE",
-    "name": "Noble Corporation plc",
+    "symbol": "ARE",
+    "name": "Alexandria Real Estate Equities, Inc.",
     "date": "2026-10-26",
-    "time": "2026-10-26T16:45:00-04:00",
+    "time": "2026-10-26T16:08:30-04:00",
     "session": "amc",
     "period": "",
-    "epsExpected": 0.23,
-    "epsReported": -0.57,
+    "epsExpected": null,
+    "epsReported": -0.03,
     "revExpected": null,
-    "revReported": 728764000.0,
+    "revReported": 653618000.0,
     "revExpSrc": null,
     "revRepSrc": "yahoo"
    }
@@ -751,20 +751,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "MO",
-    "name": "Altria Group, Inc.",
-    "date": "2026-10-29",
-    "time": "2026-10-29T07:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.51,
-    "epsReported": 1.52,
-    "revExpected": 5306111240.0,
-    "revReported": 5441000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "BMY",
     "name": "Bristol-Myers Squibb Company",
     "date": "2026-10-29",
@@ -775,6 +761,20 @@
     "epsReported": 1.35,
     "revExpected": 12729071020.0,
     "revReported": 13069000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "MO",
+    "name": "Altria Group, Inc.",
+    "date": "2026-10-29",
+    "time": "2026-10-29T07:00:00-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.51,
+    "epsReported": 1.52,
+    "revExpected": 5306111240.0,
+    "revReported": 5441000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
@@ -1175,20 +1175,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ETR",
-    "name": "Entergy Corporation",
-    "date": "2026-11-02",
-    "time": "2026-11-02T06:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.7,
-    "epsReported": 1.98,
-    "revExpected": 4148281240.0,
-    "revReported": 4365170000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "IDXX",
     "name": "IDEXX Laboratories, Inc.",
     "date": "2026-11-02",
@@ -1199,6 +1185,20 @@
     "epsReported": 4.01,
     "revExpected": 1192387000.0,
     "revReported": 1214240000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "ETR",
+    "name": "Entergy Corporation",
+    "date": "2026-11-02",
+    "time": "2026-11-02T06:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.7,
+    "epsReported": 1.98,
+    "revExpected": 4148281240.0,
+    "revReported": 4365170000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -1641,20 +1641,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MET",
-    "name": "MetLife, Inc.",
-    "date": "2026-11-04",
-    "time": "2026-11-04T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 2.77,
-    "epsReported": null,
-    "revExpected": 19970701130.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "COR",
     "name": "Cencora, Inc.",
     "date": "2026-11-04",
@@ -1664,6 +1650,20 @@
     "epsExpected": 4.57,
     "epsReported": null,
     "revExpected": 87911826330.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MET",
+    "name": "MetLife, Inc.",
+    "date": "2026-11-04",
+    "time": "2026-11-04T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 2.77,
+    "epsReported": null,
+    "revExpected": 19970701130.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2309,20 +2309,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ASTS",
-    "name": "AST SpaceMobile, Inc.",
-    "date": "2026-11-09",
-    "time": "2026-11-09T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.45,
-    "epsReported": null,
-    "revExpected": 46003120.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "PSKY",
     "name": "Paramount Skydance Corp",
     "date": "2026-11-09",
@@ -2332,6 +2318,20 @@
     "epsExpected": 0.2,
     "epsReported": null,
     "revExpected": 7029279600.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ASTS",
+    "name": "AST SpaceMobile, Inc.",
+    "date": "2026-11-09",
+    "time": "2026-11-09T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -0.45,
+    "epsReported": null,
+    "revExpected": 46003120.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2791,20 +2791,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "KOD",
     "name": "Kodiak Sciences Inc.",
     "date": "2026-11-12",
@@ -2814,6 +2800,20 @@
     "epsExpected": -1.01,
     "epsReported": null,
     "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2903,15 +2903,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ONDS",
-    "name": "Ondas Inc.",
+    "symbol": "PBLS",
+    "name": "Parabilis Medicines, Inc.",
     "date": "2026-11-12",
     "time": "2026-11-12T08:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": -0.09,
+    "epsExpected": -0.38,
     "epsReported": null,
-    "revExpected": 148039400.0,
+    "revExpected": 500000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3374,15 +3374,24 @@
   "CAH": true,
   "TDG": true,
   "RLX": false,
-  "AIG": true
+  "AIG": true,
+  "ARE": true
  },
  "revenueMismatch": {
   "NDAQ": true,
   "HIG": true,
   "GOOGL": true,
-  "PFG": true
+  "PFG": true,
+  "ARE": true
  },
  "saved": [
+  {
+   "symbol": "ONDS",
+   "date": "2026-11-12",
+   "revExpected": 148039400.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.09
+  },
   {
    "symbol": "WULF",
    "date": "2026-11-06",
@@ -3459,13 +3468,6 @@
    "revExpected": 1091790.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.26
-  },
-  {
-   "symbol": "PBLS",
-   "date": "2026-11-12",
-   "revExpected": 500000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.38
   },
   {
    "symbol": "ATROB",
