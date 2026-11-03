@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:23:47.167142-05:00",
+ "updated": "2026-11-02T22:05:06.855513-05:00",
  "days": {
   "2026-10-26": [
    {
@@ -1061,7 +1061,50 @@
     "revRepSrc": "finnhub"
    }
   ],
+  "2026-11-01": [],
   "2026-11-02": [
+   {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "date": "2026-11-02",
+    "time": "2026-11-02T16:30:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 1.99,
+    "epsReported": 2.1,
+    "revExpected": 113322287400.0,
+    "revReported": 114477000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "date": "2026-11-02",
+    "time": "2026-11-02T16:05:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.41,
+    "epsReported": 0.44,
+    "revExpected": 2180834970.0,
+    "revReported": 2313410000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "VRTX",
+    "name": "Vertex Pharmaceuticals Incorporated",
+    "date": "2026-11-02",
+    "time": "2026-11-02T16:01:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 4.78,
+    "epsReported": 4.76,
+    "revExpected": 3430593450.0,
+    "revReported": 3440800000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
    {
     "symbol": "MAR",
     "name": "Marriott International, Inc.",
@@ -1080,15 +1123,15 @@
     "symbol": "WMB",
     "name": "The Williams Companies, Inc.",
     "date": "2026-11-02",
-    "time": "2026-11-02T16:00:00-05:00",
+    "time": "2026-11-02T16:05:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 0.54,
-    "epsReported": null,
+    "epsReported": 0.54,
     "revExpected": 2928536080.0,
-    "revReported": null,
+    "revReported": 3223000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "LITE",
@@ -1105,14 +1148,28 @@
     "revRepSrc": null
    },
    {
+    "symbol": "FANG",
+    "name": "Diamondback Energy, Inc.",
+    "date": "2026-11-02",
+    "time": "2026-11-02T16:01:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 5.6,
+    "epsReported": 5.86,
+    "revExpected": 4910768430.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "O",
     "name": "Realty Income Corporation",
     "date": "2026-11-02",
-    "time": "2026-11-02T16:00:00-05:00",
+    "time": "2026-11-02T16:05:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 0.43,
-    "epsReported": null,
+    "epsReported": 0.43,
     "revExpected": 1446629000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -1203,74 +1260,18 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "NBIX",
-    "name": "Neurocrine Biosciences, Inc.",
+    "symbol": "ROKU",
+    "name": "Roku, Inc.",
     "date": "2026-11-02",
-    "time": "2026-11-02T16:00:00-05:00",
+    "time": "2026-11-02T16:09:59-05:00",
     "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 2.75,
-    "epsReported": null,
-    "revExpected": 1043717210.0,
+    "period": "",
+    "epsExpected": 0.55,
+    "epsReported": 1.15,
+    "revExpected": 1412268430.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
-   },
-   {
-    "symbol": "TEM",
-    "name": "Tempus AI, Inc.",
-    "date": "2026-11-02",
-    "time": "2026-11-02T07:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": -0.08,
-    "epsReported": 0.07,
-    "revExpected": null,
-    "revReported": 411540000.0,
-    "revExpSrc": null,
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "DOC",
-    "name": "Healthpeak Properties, Inc.",
-    "date": "2026-11-02",
-    "time": "2026-11-02T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.03,
-    "epsReported": null,
-    "revExpected": 759284940.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "CNA",
-    "name": "CNA Financial Corporation",
-    "date": "2026-11-02",
-    "time": "2026-11-02T06:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.13,
-    "epsReported": 0.75,
-    "revExpected": null,
-    "revReported": null,
-    "revExpSrc": null,
-    "revRepSrc": null
-   },
-   {
-    "symbol": "CLX",
-    "name": "The Clorox Company",
-    "date": "2026-11-02",
-    "time": "2026-11-02T16:10:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 1.07,
-    "epsReported": 1.55,
-    "revExpected": null,
-    "revReported": 1905000000.0,
-    "revExpSrc": null,
-    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-03": [
@@ -2791,20 +2792,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "KOD",
-    "name": "Kodiak Sciences Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -1.01,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MBGL",
     "name": "Mobility Global, Inc.",
     "date": "2026-11-12",
@@ -2814,6 +2801,20 @@
     "epsExpected": 0.38,
     "epsReported": null,
     "revExpected": 475062440.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "KOD",
+    "name": "Kodiak Sciences Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -1.01,
+    "epsReported": null,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3385,7 +3386,8 @@
   "DOC": true,
   "CNA": true,
   "GRAB": false,
-  "CLX": true
+  "CLX": true,
+  "PAM": false
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3396,18 +3398,18 @@
  },
  "saved": [
   {
-   "symbol": "AAPL",
+   "symbol": "NBIX",
    "date": "2026-11-02",
-   "revExpected": 113322287400.0,
+   "revExpected": 1043717210.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 1.99
+   "epsExpected": 2.75
   },
   {
-   "symbol": "VRTX",
+   "symbol": "DOC",
    "date": "2026-11-02",
-   "revExpected": 3430593450.0,
+   "revExpected": 759284940.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 4.78
+   "epsExpected": 0.03
   },
   {
    "symbol": "EQH",
@@ -3415,27 +3417,6 @@
    "revExpected": 3956657190.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.86
-  },
-  {
-   "symbol": "PLTR",
-   "date": "2026-11-02",
-   "revExpected": 2180834970.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.41
-  },
-  {
-   "symbol": "FANG",
-   "date": "2026-11-02",
-   "revExpected": 4910768430.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 5.6
-  },
-  {
-   "symbol": "ROKU",
-   "date": "2026-11-02",
-   "revExpected": 1412268430.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.55
   },
   {
    "symbol": "PAGP",
