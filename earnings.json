@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:09:55.202835-05:00",
+ "updated": "2026-11-03T08:23:51.606387-05:00",
  "days": {
   "2026-10-27": [
    {
@@ -592,7 +592,7 @@
     "revExpected": 6617096520.0,
     "revReported": 6520000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ICE",
@@ -706,7 +706,7 @@
     "revExpected": 4561941280.0,
     "revReported": 5115800000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "CL",
@@ -804,7 +804,7 @@
     "revExpected": 514823420.0,
     "revReported": 524600000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BTSG",
@@ -1670,6 +1670,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "KMB",
+    "name": "Kimberly-Clark Corporation",
+    "date": "2026-11-05",
+    "time": "2026-11-05T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 1.65,
+    "epsReported": null,
+    "revExpected": 4126142360.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "TRGP",
     "name": "Targa Resources Corp.",
     "date": "2026-11-05",
@@ -1679,20 +1693,6 @@
     "epsExpected": 2.86,
     "epsReported": null,
     "revExpected": 4767630270.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "CAH",
-    "name": "Cardinal Health, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q1 2027",
-    "epsExpected": 2.94,
-    "epsReported": null,
-    "revExpected": 66511244980.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3307,7 +3307,8 @@
   "SR": true,
   "KLAR": false,
   "BRC": true,
-  "GBDC": true
+  "GBDC": true,
+  "KMB": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3319,6 +3320,13 @@
   "ICE": true
  },
  "saved": [
+  {
+   "symbol": "CAH",
+   "date": "2026-11-05",
+   "revExpected": 66511244980.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.94
+  },
   {
    "symbol": "NBIX",
    "date": "2026-11-02",
