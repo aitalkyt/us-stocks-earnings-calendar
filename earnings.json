@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T00:10:36.061715-05:00",
+ "updated": "2026-11-03T02:30:38.860032-05:00",
  "days": {
   "2026-10-27": [
    {
@@ -26,9 +26,9 @@
     "epsExpected": 0.88,
     "epsReported": 0.91,
     "revExpected": null,
-    "revReported": 13354000000.0,
+    "revReported": 13380000000.0,
     "revExpSrc": null,
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BA",
@@ -282,7 +282,7 @@
     "revExpected": null,
     "revReported": 10229700000.0,
     "revExpSrc": null,
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "TMUS",
@@ -310,7 +310,7 @@
     "revExpected": null,
     "revReported": 5490700000.0,
     "revExpSrc": null,
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "NOW",
@@ -438,7 +438,7 @@
     "revExpected": 202264872830.0,
     "revReported": 201944000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "LLY",
@@ -718,9 +718,9 @@
     "epsExpected": 0.93,
     "epsReported": 0.97,
     "revExpected": 5334192310.0,
-    "revReported": null,
+    "revReported": 5369000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "D",
@@ -790,7 +790,7 @@
     "revExpected": 1580286070.0,
     "revReported": 1602100000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "RBC",
@@ -2580,20 +2580,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "KOD",
-    "name": "Kodiak Sciences Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -1.01,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MBGL",
     "name": "Mobility Global, Inc.",
     "date": "2026-11-12",
@@ -2603,6 +2589,20 @@
     "epsExpected": 0.38,
     "epsReported": null,
     "revExpected": 475062440.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "KOD",
+    "name": "Kodiak Sciences Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -1.01,
+    "epsReported": null,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
