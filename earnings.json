@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:13:34.311251-05:00",
+ "updated": "2026-11-03T14:11:23.116053-05:00",
  "days": {
   "2026-10-27": [
    {
@@ -1020,20 +1020,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "ON",
-    "name": "ON Semiconductor Corporation",
-    "date": "2026-11-02",
-    "time": "2026-11-02T16:10:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.88,
-    "epsReported": 0.9,
-    "revExpected": 1704593090.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "FOXA",
     "name": "Fox Corporation",
     "date": "2026-11-02",
@@ -1046,6 +1032,20 @@
     "revReported": 4571000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "ON",
+    "name": "ON Semiconductor Corporation",
+    "date": "2026-11-02",
+    "time": "2026-11-02T16:10:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.88,
+    "epsReported": 0.9,
+    "revExpected": 1704593090.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "ROKU",
@@ -1232,20 +1232,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "WAT",
-    "name": "Waters Corporation",
-    "date": "2026-11-03",
-    "time": "2026-11-03T06:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 4.0,
-    "epsReported": 4.1,
-    "revExpected": 1753988840.0,
-    "revReported": 1767000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "XYZ",
     "name": "Block, Inc.",
     "date": "2026-11-03",
@@ -1258,6 +1244,20 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "WAT",
+    "name": "Waters Corporation",
+    "date": "2026-11-03",
+    "time": "2026-11-03T06:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 4.0,
+    "epsReported": 4.1,
+    "revExpected": 1753988840.0,
+    "revReported": 1767000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "AIG",
@@ -1416,20 +1416,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "COR",
-    "name": "Cencora, Inc.",
-    "date": "2026-11-04",
-    "time": "2026-11-04T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q4 2026",
-    "epsExpected": 4.57,
-    "epsReported": null,
-    "revExpected": 87911826330.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "GWW",
     "name": "W.W. Grainger, Inc.",
     "date": "2026-11-04",
@@ -1439,6 +1425,20 @@
     "epsExpected": 11.66,
     "epsReported": null,
     "revExpected": 5075421530.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "COR",
+    "name": "Cencora, Inc.",
+    "date": "2026-11-04",
+    "time": "2026-11-04T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q4 2026",
+    "epsExpected": 4.57,
+    "epsReported": null,
+    "revExpected": 87911826330.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2608,20 +2608,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MANE",
-    "name": "Veradermics, Incorporated",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.62,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "OCTV",
     "name": "Octave Intelligence plc",
     "date": "2026-11-12",
@@ -2631,6 +2617,20 @@
     "epsExpected": 0.3,
     "epsReported": null,
     "revExpected": 404220200.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MANE",
+    "name": "Veradermics, Incorporated",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": -0.62,
+    "epsReported": null,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
