@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T02:30:38.860032-05:00",
+ "updated": "2026-11-03T04:06:58.338295-05:00",
  "days": {
   "2026-10-27": [
    {
@@ -352,7 +352,7 @@
     "revExpected": null,
     "revReported": 2571000000.0,
     "revExpSrc": null,
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FTNT",
@@ -522,7 +522,7 @@
     "revExpected": 7799964490.0,
     "revReported": 8300000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "SNDK",
@@ -690,9 +690,9 @@
     "epsExpected": 4.13,
     "epsReported": 4.49,
     "revExpected": 13726312260.0,
-    "revReported": null,
+    "revReported": 14566000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "REGN",
@@ -732,9 +732,9 @@
     "epsExpected": 1.21,
     "epsReported": 1.28,
     "revExpected": 4736410000.0,
-    "revReported": null,
+    "revReported": 5617000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "EXC",
@@ -748,7 +748,7 @@
     "revExpected": 6862436870.0,
     "revReported": 7319000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "KVUE",
@@ -830,9 +830,9 @@
     "epsExpected": 0.71,
     "epsReported": 0.74,
     "revExpected": 337992430.0,
-    "revReported": 329644000.0,
+    "revReported": 339024000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "OMF",
@@ -2580,20 +2580,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "KOD",
     "name": "Kodiak Sciences Inc.",
     "date": "2026-11-12",
@@ -2603,6 +2589,20 @@
     "epsExpected": -1.01,
     "epsReported": null,
     "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3314,7 +3314,8 @@
   "HIG": true,
   "GOOGL": true,
   "PFG": true,
-  "ARE": true
+  "ARE": true,
+  "FRT": true
  },
  "saved": [
   {
