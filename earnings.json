@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T04:06:58.338295-05:00",
+ "updated": "2026-11-03T06:09:55.202835-05:00",
  "days": {
   "2026-10-27": [
    {
@@ -196,7 +196,7 @@
     "revExpected": null,
     "revReported": 4236000000.0,
     "revExpSrc": null,
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "HLT",
@@ -494,7 +494,7 @@
     "revExpected": 16486699590.0,
     "revReported": 16513000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "CAT",
@@ -604,9 +604,9 @@
     "epsExpected": 1.97,
     "epsReported": 2.02,
     "revExpected": 2744941350.0,
-    "revReported": 2765000000.0,
+    "revReported": 3630000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "PWR",
@@ -2580,20 +2580,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "KOD",
-    "name": "Kodiak Sciences Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -1.01,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MBGL",
     "name": "Mobility Global, Inc.",
     "date": "2026-11-12",
@@ -2603,6 +2589,20 @@
     "epsExpected": 0.38,
     "epsReported": null,
     "revExpected": 475062440.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "KOD",
+    "name": "Kodiak Sciences Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -1.01,
+    "epsReported": null,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3315,7 +3315,8 @@
   "GOOGL": true,
   "PFG": true,
   "ARE": true,
-  "FRT": true
+  "FRT": true,
+  "ICE": true
  },
  "saved": [
   {
