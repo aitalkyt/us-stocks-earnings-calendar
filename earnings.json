@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:01:57.232125-05:00",
+ "updated": "2026-11-03T18:00:30.826094-05:00",
  "days": {
   "2026-10-27": [
    {
@@ -1064,32 +1064,18 @@
   ],
   "2026-11-03": [
    {
-    "symbol": "AMD",
-    "name": "Advanced Micro Devices, Inc.",
-    "date": "2026-11-03",
-    "time": "2026-11-03T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 1.94,
-    "epsReported": null,
-    "revExpected": 13083021310.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "AMGN",
     "name": "Amgen Inc.",
     "date": "2026-11-03",
-    "time": "2026-11-03T16:00:00-05:00",
+    "time": "2026-11-03T16:01:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 5.78,
-    "epsReported": null,
+    "epsReported": 6.45,
     "revExpected": 10075419390.0,
-    "revReported": null,
+    "revReported": 10365000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "ANET",
@@ -1232,20 +1218,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "XYZ",
-    "name": "Block, Inc.",
-    "date": "2026-11-03",
-    "time": "2026-11-03T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 1.03,
-    "epsReported": null,
-    "revExpected": 6600173240.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "WAT",
     "name": "Waters Corporation",
     "date": "2026-11-03",
@@ -1260,17 +1232,45 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "AIG",
-    "name": "American International Group, Inc.",
+    "symbol": "SYY",
+    "name": "Sysco Corporation",
     "date": "2026-11-03",
-    "time": "2026-11-03T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 1.88,
-    "epsReported": null,
-    "revExpected": 7414144140.0,
+    "time": "2026-11-03T08:03:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.19,
+    "epsReported": 1.19,
+    "revExpected": null,
+    "revReported": 21744000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "ADM",
+    "name": "Archer-Daniels-Midland Company",
+    "date": "2026-11-03",
+    "time": "2026-11-03T06:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.6,
+    "epsReported": 1.77,
+    "revExpected": null,
     "revReported": null,
-    "revExpSrc": "yahoo",
+    "revExpSrc": null,
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ECHO",
+    "name": "EchoStar Corporation",
+    "date": "2026-11-03",
+    "time": "2026-11-03T08:15:55-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.24,
+    "epsReported": 7.97,
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
     "revRepSrc": null
    }
   ],
@@ -1912,13 +1912,13 @@
   ],
   "2026-11-07": [
    {
-    "symbol": "BRK-B",
+    "symbol": "BRK-A",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
     "time": "2026-11-07T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 6.14,
+    "epsExpected": 9092.32,
     "epsReported": null,
     "revExpected": 0.0,
     "revReported": null,
@@ -2338,13 +2338,13 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ATRO",
+    "symbol": "ATROB",
     "name": "Astronics Corporation",
     "date": "2026-11-10",
     "time": "2026-11-10T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 0.72,
+    "epsExpected": null,
     "epsReported": null,
     "revExpected": 268068400.0,
     "revReported": null,
@@ -2566,6 +2566,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "ARWR",
+    "name": "Arrowhead Pharmaceuticals, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": -1.5,
+    "epsReported": null,
+    "revExpected": 60438090.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "FPS",
     "name": "Forgent Power Solutions, Inc.",
     "date": "2026-11-12",
@@ -2690,20 +2704,6 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
-   },
-   {
-    "symbol": "PBLS",
-    "name": "Parabilis Medicines, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.38,
-    "epsReported": null,
-    "revExpected": 500000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    }
   ],
   "2026-11-13": [],
@@ -2746,6 +2746,20 @@
     "epsExpected": 1.59,
     "epsReported": null,
     "revExpected": 4098003760.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "POWL",
+    "name": "Powell Industries, Inc.",
+    "date": "2026-11-16",
+    "time": "2026-11-16T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 1.56,
+    "epsReported": null,
+    "revExpected": 331394800.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2818,20 +2832,6 @@
     "epsExpected": 1.2,
     "epsReported": null,
     "revExpected": 372759500.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "POWL",
-    "name": "Powell Industries, Inc.",
-    "date": "2026-11-17",
-    "time": "2026-11-17T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 1.56,
-    "epsReported": null,
-    "revExpected": 331394800.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3314,7 +3314,13 @@
   "PRU": true,
   "LQDA": true,
   "MNSO": false,
-  "KT": false
+  "KT": false,
+  "SYY": true,
+  "ADM": true,
+  "FTS": false,
+  "ECHO": true,
+  "ARWR": true,
+  "VIK": false
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3328,11 +3334,53 @@
  },
  "saved": [
   {
-   "symbol": "BRK-A",
+   "symbol": "AMD",
+   "date": "2026-11-03",
+   "revExpected": 13083021310.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.94
+  },
+  {
+   "symbol": "XYZ",
+   "date": "2026-11-03",
+   "revExpected": 6600173240.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.03
+  },
+  {
+   "symbol": "AIG",
+   "date": "2026-11-03",
+   "revExpected": 7414144140.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.88
+  },
+  {
+   "symbol": "BRK-B",
    "date": "2026-11-07",
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 9092.32
+   "epsExpected": 6.14
+  },
+  {
+   "symbol": "ATRO",
+   "date": "2026-11-10",
+   "revExpected": 268068400.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.72
+  },
+  {
+   "symbol": "PBLS",
+   "date": "2026-11-12",
+   "revExpected": 500000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.38
+  },
+  {
+   "symbol": "POWL",
+   "date": "2026-11-17",
+   "revExpected": 331394800.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.56
   },
   {
    "symbol": "NLST",
@@ -3452,13 +3500,6 @@
    "revExpected": 1091790.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.26
-  },
-  {
-   "symbol": "ATROB",
-   "date": "2026-11-10",
-   "revExpected": 268068400.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": null
   },
   {
    "symbol": "MSGS",
