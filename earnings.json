@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T17:56:54.254753-05:00",
+ "updated": "2026-11-02T20:23:47.167142-05:00",
  "days": {
   "2026-10-26": [
    {
@@ -1063,34 +1063,6 @@
   ],
   "2026-11-02": [
    {
-    "symbol": "AAPL",
-    "name": "Apple Inc.",
-    "date": "2026-11-02",
-    "time": "2026-11-02T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 1.99,
-    "epsReported": null,
-    "revExpected": 113322287400.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "VRTX",
-    "name": "Vertex Pharmaceuticals Incorporated",
-    "date": "2026-11-02",
-    "time": "2026-11-02T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 4.78,
-    "epsReported": null,
-    "revExpected": 3430593450.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MAR",
     "name": "Marriott International, Inc.",
     "date": "2026-11-02",
@@ -1206,11 +1178,11 @@
     "symbol": "ON",
     "name": "ON Semiconductor Corporation",
     "date": "2026-11-02",
-    "time": "2026-11-02T16:00:00-05:00",
+    "time": "2026-11-02T16:10:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 0.88,
-    "epsReported": null,
+    "epsReported": 0.9,
     "revExpected": 1704593090.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -1229,20 +1201,6 @@
     "revReported": 4571000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "EQH",
-    "name": "Equitable Holdings, Inc.",
-    "date": "2026-11-02",
-    "time": "2026-11-02T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 1.86,
-    "epsReported": null,
-    "revExpected": 3956657190.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    },
    {
     "symbol": "NBIX",
@@ -1269,6 +1227,48 @@
     "epsReported": 0.07,
     "revExpected": null,
     "revReported": 411540000.0,
+    "revExpSrc": null,
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "DOC",
+    "name": "Healthpeak Properties, Inc.",
+    "date": "2026-11-02",
+    "time": "2026-11-02T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 0.03,
+    "epsReported": null,
+    "revExpected": 759284940.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "CNA",
+    "name": "CNA Financial Corporation",
+    "date": "2026-11-02",
+    "time": "2026-11-02T06:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.13,
+    "epsReported": 0.75,
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
+   },
+   {
+    "symbol": "CLX",
+    "name": "The Clorox Company",
+    "date": "2026-11-02",
+    "time": "2026-11-02T16:10:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 1.07,
+    "epsReported": 1.55,
+    "revExpected": null,
+    "revReported": 1905000000.0,
     "revExpSrc": null,
     "revRepSrc": "finnhub"
    }
@@ -1705,7 +1705,7 @@
     "time": "2026-11-05T08:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": 3.04,
+    "epsExpected": 3.05,
     "epsReported": null,
     "revExpected": 18939142100.0,
     "revReported": null,
@@ -2259,7 +2259,7 @@
     "time": "2026-11-09T08:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2026",
-    "epsExpected": 3.14,
+    "epsExpected": 3.03,
     "epsReported": null,
     "revExpected": 9267415960.0,
     "revReported": null,
@@ -3380,7 +3380,12 @@
   "EQH": true,
   "NBIX": true,
   "CHKP": false,
-  "TEM": true
+  "TEM": true,
+  "JAZZ": false,
+  "DOC": true,
+  "CNA": true,
+  "GRAB": false,
+  "CLX": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3390,6 +3395,27 @@
   "ARE": true
  },
  "saved": [
+  {
+   "symbol": "AAPL",
+   "date": "2026-11-02",
+   "revExpected": 113322287400.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.99
+  },
+  {
+   "symbol": "VRTX",
+   "date": "2026-11-02",
+   "revExpected": 3430593450.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.78
+  },
+  {
+   "symbol": "EQH",
+   "date": "2026-11-02",
+   "revExpected": 3956657190.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.86
+  },
   {
    "symbol": "PLTR",
    "date": "2026-11-02",
