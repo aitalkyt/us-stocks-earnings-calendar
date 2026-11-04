@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:11:30.712497-05:00",
+ "updated": "2026-11-04T14:16:27.604481-05:00",
  "days": {
   "2026-10-28": [
    {
@@ -341,20 +341,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "BMY",
-    "name": "Bristol-Myers Squibb Company",
-    "date": "2026-10-29",
-    "time": "2026-10-29T07:05:52-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.17,
-    "epsReported": 1.35,
-    "revExpected": 12729071020.0,
-    "revReported": 13069000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "SYK",
     "name": "Stryker Corporation",
     "date": "2026-10-29",
@@ -365,6 +351,20 @@
     "epsReported": 3.52,
     "revExpected": 6617096520.0,
     "revReported": 6520000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "BMY",
+    "name": "Bristol-Myers Squibb Company",
+    "date": "2026-10-29",
+    "time": "2026-10-29T07:05:52-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.17,
+    "epsReported": 1.35,
+    "revExpected": 12729071020.0,
+    "revReported": 13069000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
@@ -397,20 +397,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "DASH",
-    "name": "DoorDash, Inc.",
-    "date": "2026-10-29",
-    "time": "2026-10-29T07:21:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.81,
-    "epsReported": 1.06,
-    "revExpected": 4558756800.0,
-    "revReported": 4616000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "PWR",
     "name": "Quanta Services, Inc.",
     "date": "2026-10-29",
@@ -421,6 +407,20 @@
     "epsReported": 6.06,
     "revExpected": 10978936910.0,
     "revReported": 12014877000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "DASH",
+    "name": "DoorDash, Inc.",
+    "date": "2026-10-29",
+    "time": "2026-10-29T07:21:00-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.81,
+    "epsReported": 1.06,
+    "revExpected": 4558756800.0,
+    "revReported": 4616000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    }
@@ -710,18 +710,18 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "O",
-    "name": "Realty Income Corporation",
+    "symbol": "IDXX",
+    "name": "IDEXX Laboratories, Inc.",
     "date": "2026-11-02",
-    "time": "2026-11-02T16:05:00-05:00",
-    "session": "amc",
+    "time": "2026-11-02T06:30:00-05:00",
+    "session": "bmo",
     "period": "",
-    "epsExpected": 0.43,
-    "epsReported": 0.43,
-    "revExpected": 1446629000.0,
-    "revReported": 1484352000.0,
+    "epsExpected": 3.71,
+    "epsReported": 4.01,
+    "revExpected": 1192387000.0,
+    "revReported": 1214240000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "LITE",
@@ -738,18 +738,18 @@
     "revRepSrc": null
    },
    {
-    "symbol": "IDXX",
-    "name": "IDEXX Laboratories, Inc.",
+    "symbol": "O",
+    "name": "Realty Income Corporation",
     "date": "2026-11-02",
-    "time": "2026-11-02T06:30:00-05:00",
-    "session": "bmo",
+    "time": "2026-11-02T16:05:00-05:00",
+    "session": "amc",
     "period": "",
-    "epsExpected": 3.71,
-    "epsReported": 4.01,
-    "revExpected": 1192387000.0,
-    "revReported": 1214240000.0,
+    "epsExpected": 0.43,
+    "epsReported": 0.43,
+    "revExpected": 1446629000.0,
+    "revReported": 1484352000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ETR",
@@ -2368,6 +2368,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "KOD",
     "name": "Kodiak Sciences Inc.",
     "date": "2026-11-12",
@@ -2391,20 +2405,6 @@
     "epsExpected": 0.2,
     "epsReported": null,
     "revExpected": 460786950.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
