@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:06:48.686055-05:00",
+ "updated": "2026-11-04T18:01:40.430131-05:00",
  "days": {
   "2026-10-28": [
    {
@@ -45,20 +45,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "APH",
-    "name": "Amphenol Corporation",
-    "date": "2026-10-28",
-    "time": "2026-10-28T08:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.73,
-    "epsReported": 0.8,
-    "revExpected": null,
-    "revReported": 10229700000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "KLAC",
     "name": "KLA Corporation",
     "date": "2026-10-28",
@@ -69,6 +55,20 @@
     "epsReported": 1.22,
     "revExpected": null,
     "revReported": 4136015000.0,
+    "revExpSrc": null,
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "APH",
+    "name": "Amphenol Corporation",
+    "date": "2026-10-28",
+    "time": "2026-10-28T08:00:00-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.73,
+    "epsReported": 0.8,
+    "revExpected": null,
+    "revReported": 10229700000.0,
     "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
@@ -663,9 +663,9 @@
     "epsExpected": 0.41,
     "epsReported": 0.44,
     "revExpected": 2180834970.0,
-    "revReported": 2313410000.0,
+    "revReported": 2313411000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "VRTX",
@@ -719,9 +719,9 @@
     "epsExpected": 4.22,
     "epsReported": 4.57,
     "revExpected": 1253198040.0,
-    "revReported": null,
+    "revReported": 1262600000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "O",
@@ -819,7 +819,7 @@
     "revExpected": 4291563420.0,
     "revReported": 4571000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ON",
@@ -845,9 +845,9 @@
     "epsExpected": 0.55,
     "epsReported": 1.15,
     "revExpected": 1412268430.0,
-    "revReported": null,
+    "revReported": 1502022000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-11-03": [
@@ -1106,20 +1106,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "MCK",
-    "name": "McKesson Corporation",
-    "date": "2026-11-04",
-    "time": "2026-11-04T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q2 2027",
-    "epsExpected": 10.75,
-    "epsReported": null,
-    "revExpected": 109954441430.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "CVS",
     "name": "CVS Health Corporation",
     "date": "2026-11-04",
@@ -1146,34 +1132,6 @@
     "revReported": 5201000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "APP",
-    "name": "AppLovin Corporation",
-    "date": "2026-11-04",
-    "time": "2026-11-04T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 4.03,
-    "epsReported": null,
-    "revExpected": 2074086950.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MSI",
-    "name": "Motorola Solutions, Inc.",
-    "date": "2026-11-04",
-    "time": "2026-11-04T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 4.43,
-    "epsReported": null,
-    "revExpected": 3278500000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    },
    {
     "symbol": "GWW",
@@ -1269,6 +1227,48 @@
     "epsExpected": 0.74,
     "epsReported": null,
     "revExpected": 1676789060.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "VMRK",
+    "name": "Vivmark Residential",
+    "date": "2026-11-04",
+    "time": "2026-11-04T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 0.2,
+    "epsReported": null,
+    "revExpected": 1331279130.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MLM",
+    "name": "Martin Marietta Materials, Inc.",
+    "date": "2026-11-04",
+    "time": "2026-11-04T06:54:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 5.71,
+    "epsReported": 5.47,
+    "revExpected": null,
+    "revReported": 2369000000.0,
+    "revExpSrc": null,
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "COHR",
+    "name": "Coherent Corp.",
+    "date": "2026-11-04",
+    "time": "2026-11-04T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q1 2027",
+    "epsExpected": 1.97,
+    "epsReported": null,
+    "revExpected": 2304472920.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2539,20 +2539,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MMED",
-    "name": "MiniMed Group, Inc.",
-    "date": "2026-11-16",
-    "time": "2026-11-16T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q2 2027",
-    "epsExpected": 0.1,
-    "epsReported": null,
-    "revExpected": 824436050.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "POWL",
     "name": "Powell Industries, Inc.",
     "date": "2026-11-16",
@@ -3288,7 +3274,11 @@
   "BLSH": false,
   "SBLK": false,
   "AON": false,
-  "PONY": false
+  "PONY": false,
+  "VMRK": true,
+  "SLF": false,
+  "MLM": true,
+  "COHR": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3302,6 +3292,34 @@
   "O": true
  },
  "saved": [
+  {
+   "symbol": "MCK",
+   "date": "2026-11-04",
+   "revExpected": 109954441430.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 10.75
+  },
+  {
+   "symbol": "APP",
+   "date": "2026-11-04",
+   "revExpected": 2074086950.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.03
+  },
+  {
+   "symbol": "MSI",
+   "date": "2026-11-04",
+   "revExpected": 3278500000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.43
+  },
+  {
+   "symbol": "MMED",
+   "date": "2026-11-16",
+   "revExpected": 824436050.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.1
+  },
   {
    "symbol": "BRK-B",
    "date": "2026-11-07",
