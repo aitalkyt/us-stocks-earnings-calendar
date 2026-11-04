@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:23:36.043873-05:00",
+ "updated": "2026-11-03T22:05:06.510855-05:00",
  "days": {
   "2026-10-27": [
    {
@@ -1064,6 +1064,20 @@
   ],
   "2026-11-03": [
    {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "date": "2026-11-03",
+    "time": "2026-11-03T16:15:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 1.94,
+    "epsReported": 2.09,
+    "revExpected": 13083021310.0,
+    "revReported": 13377000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "AMGN",
     "name": "Amgen Inc.",
     "date": "2026-11-03",
@@ -1081,15 +1095,15 @@
     "symbol": "ANET",
     "name": "Arista Networks, Inc.",
     "date": "2026-11-03",
-    "time": "2026-11-03T16:00:00-05:00",
+    "time": "2026-11-03T16:05:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 1.08,
-    "epsReported": null,
+    "epsReported": 1.2,
     "revExpected": 3334085820.0,
-    "revReported": null,
+    "revReported": 3657600000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "PFE",
@@ -1123,15 +1137,15 @@
     "symbol": "BKNG",
     "name": "Booking Holdings Inc.",
     "date": "2026-11-03",
-    "time": "2026-11-03T16:00:00-05:00",
+    "time": "2026-11-03T16:03:57-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 4.5,
-    "epsReported": null,
+    "epsReported": 4.66,
     "revExpected": 9544690260.0,
-    "revReported": null,
+    "revReported": 8893000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "ET",
@@ -1218,6 +1232,20 @@
     "revRepSrc": "finnhub"
    },
    {
+    "symbol": "XYZ",
+    "name": "Block, Inc.",
+    "date": "2026-11-03",
+    "time": "2026-11-03T16:12:52-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 1.03,
+    "epsReported": 1.13,
+    "revExpected": 6600173240.0,
+    "revReported": 6719360000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "WAT",
     "name": "Waters Corporation",
     "date": "2026-11-03",
@@ -1232,46 +1260,18 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "SYY",
-    "name": "Sysco Corporation",
+    "symbol": "AIG",
+    "name": "American International Group, Inc.",
     "date": "2026-11-03",
-    "time": "2026-11-03T08:03:00-05:00",
-    "session": "bmo",
+    "time": "2026-11-03T16:17:00-05:00",
+    "session": "amc",
     "period": "",
-    "epsExpected": 1.19,
-    "epsReported": 1.19,
-    "revExpected": null,
-    "revReported": 21744000000.0,
-    "revExpSrc": null,
+    "epsExpected": 1.88,
+    "epsReported": 2.06,
+    "revExpected": 7414144140.0,
+    "revReported": 7512000000.0,
+    "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "ADM",
-    "name": "Archer-Daniels-Midland Company",
-    "date": "2026-11-03",
-    "time": "2026-11-03T06:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.6,
-    "epsReported": 1.77,
-    "revExpected": null,
-    "revReported": null,
-    "revExpSrc": null,
-    "revRepSrc": null
-   },
-   {
-    "symbol": "ECHO",
-    "name": "EchoStar Corporation",
-    "date": "2026-11-03",
-    "time": "2026-11-03T08:15:55-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.24,
-    "epsReported": 7.97,
-    "revExpected": null,
-    "revReported": null,
-    "revExpSrc": null,
-    "revRepSrc": null
    }
   ],
   "2026-11-04": [
@@ -3333,27 +3333,6 @@
   "CBOE": true
  },
  "saved": [
-  {
-   "symbol": "AMD",
-   "date": "2026-11-03",
-   "revExpected": 13083021310.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.94
-  },
-  {
-   "symbol": "XYZ",
-   "date": "2026-11-03",
-   "revExpected": 6600173240.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.03
-  },
-  {
-   "symbol": "AIG",
-   "date": "2026-11-03",
-   "revExpected": 7414144140.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.88
-  },
   {
    "symbol": "BRK-B",
    "date": "2026-11-07",
