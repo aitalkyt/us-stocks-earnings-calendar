@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:18:39.297925-05:00",
+ "updated": "2026-11-05T08:30:35.081780-05:00",
  "days": {
   "2026-10-29": [
    {
@@ -707,7 +707,7 @@
     "revExpected": 9544690260.0,
     "revReported": 8893000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MPC",
