@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:04:23.970577-05:00",
+ "updated": "2026-11-05T18:01:42.635064-05:00",
  "days": {
   "2026-10-29": [
    {
@@ -56,7 +56,7 @@
     "revExpected": 17325009230.0,
     "revReported": 18085000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "INTC",
@@ -593,7 +593,7 @@
     "revExpected": 3252595920.0,
     "revReported": 3020000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FOXA",
@@ -619,9 +619,9 @@
     "epsExpected": 0.88,
     "epsReported": 0.9,
     "revExpected": 1704593090.0,
-    "revReported": null,
+    "revReported": 1722300000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ROKU",
@@ -693,7 +693,7 @@
     "revExpected": 15876714220.0,
     "revReported": 16583000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BKNG",
@@ -875,9 +875,9 @@
     "epsExpected": 2.16,
     "epsReported": 2.17,
     "revExpected": 10141930290.0,
-    "revReported": 10442000000.0,
+    "revReported": 10322000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "UBER",
@@ -905,7 +905,7 @@
     "revExpected": 109954441430.0,
     "revReported": 110957000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "APP",
@@ -961,7 +961,7 @@
     "revExpected": 3278500000.0,
     "revReported": 3376000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "GWW",
@@ -1120,34 +1120,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "ABNB",
-    "name": "Airbnb, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 2.85,
-    "epsReported": null,
-    "revExpected": 4749395380.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MNST",
-    "name": "Monster Beverage Corporation",
-    "date": "2026-11-05",
-    "time": "2026-11-05T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.3,
-    "epsReported": null,
-    "revExpected": 2494247190.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "NET",
     "name": "Cloudflare, Inc.",
     "date": "2026-11-05",
@@ -1271,6 +1243,34 @@
     "revExpected": 9869920860.0,
     "revReported": 9438000000.0,
     "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "TRGP",
+    "name": "Targa Resources Corp.",
+    "date": "2026-11-05",
+    "time": "2026-11-05T15:13:58-05:00",
+    "session": "dmh",
+    "period": "",
+    "epsExpected": 2.86,
+    "epsReported": 2.96,
+    "revExpected": 4767630270.0,
+    "revReported": 5598600000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "BDX",
+    "name": "Becton, Dickinson and Company",
+    "date": "2026-11-05",
+    "time": "2026-11-05T06:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 4.07,
+    "epsReported": 4.15,
+    "revExpected": null,
+    "revReported": 5274000000.0,
+    "revExpSrc": null,
     "revRepSrc": "finnhub"
    }
   ],
@@ -1488,13 +1488,13 @@
   ],
   "2026-11-07": [
    {
-    "symbol": "BRK-A",
+    "symbol": "BRK-B",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
     "time": "2026-11-07T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 9092.32,
+    "epsExpected": 6.14,
     "epsReported": null,
     "revExpected": 0.0,
     "revReported": null,
@@ -3300,7 +3300,8 @@
   "BLTE": true,
   "BULL": true,
   "AMG": true,
-  "TNGX": true
+  "TNGX": true,
+  "BDX": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3317,18 +3318,32 @@
  },
  "saved": [
   {
+   "symbol": "ABNB",
+   "date": "2026-11-05",
+   "revExpected": 4749395380.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.85
+  },
+  {
+   "symbol": "MNST",
+   "date": "2026-11-05",
+   "revExpected": 2494247190.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.3
+  },
+  {
+   "symbol": "BRK-A",
+   "date": "2026-11-07",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 9092.32
+  },
+  {
    "symbol": "ATRO",
    "date": "2026-11-10",
    "revExpected": 268068400.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.72
-  },
-  {
-   "symbol": "BRK-B",
-   "date": "2026-11-07",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 6.14
   },
   {
    "symbol": "ASTS",
@@ -3413,13 +3428,6 @@
    "revExpected": 4558756800.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.81
-  },
-  {
-   "symbol": "TRGP",
-   "date": "2026-11-05",
-   "revExpected": 4767630270.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.86
   },
   {
    "symbol": "WULF",
