@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:28:39.078679-05:00",
+ "updated": "2026-11-05T22:04:46.730105-05:00",
  "days": {
   "2026-10-29": [
    {
@@ -1120,18 +1120,46 @@
     "revRepSrc": "finnhub"
    },
    {
+    "symbol": "ABNB",
+    "name": "Airbnb, Inc.",
+    "date": "2026-11-05",
+    "time": "2026-11-05T16:02:09-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 2.85,
+    "epsReported": 3.16,
+    "revExpected": 4749395380.0,
+    "revReported": 4869000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "MNST",
+    "name": "Monster Beverage Corporation",
+    "date": "2026-11-05",
+    "time": "2026-11-05T16:10:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.3,
+    "epsReported": 0.29,
+    "revExpected": 2494247190.0,
+    "revReported": 2563050000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "NET",
     "name": "Cloudflare, Inc.",
     "date": "2026-11-05",
-    "time": "2026-11-05T16:00:00-05:00",
+    "time": "2026-11-05T16:18:21-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 0.34,
-    "epsReported": null,
+    "epsReported": 0.38,
     "revExpected": 738090880.0,
-    "revReported": null,
+    "revReported": 782510000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "CI",
@@ -1165,11 +1193,11 @@
     "symbol": "EOG",
     "name": "EOG Resources, Inc.",
     "date": "2026-11-05",
-    "time": "2026-11-05T16:00:00-05:00",
+    "time": "2026-11-05T16:18:27-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 4.45,
-    "epsReported": null,
+    "epsReported": 4.87,
     "revExpected": 7179346520.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -1179,11 +1207,11 @@
     "symbol": "SPG",
     "name": "Simon Property Group, Inc.",
     "date": "2026-11-05",
-    "time": "2026-11-05T16:00:00-05:00",
+    "time": "2026-11-05T16:08:24-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 1.62,
-    "epsReported": null,
+    "epsReported": 1.94,
     "revExpected": 1657827540.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -1243,34 +1271,6 @@
     "revExpected": 9869920860.0,
     "revReported": 9438000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "TRGP",
-    "name": "Targa Resources Corp.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T15:13:58-05:00",
-    "session": "dmh",
-    "period": "",
-    "epsExpected": 2.86,
-    "epsReported": 2.96,
-    "revExpected": 4767630270.0,
-    "revReported": 5598600000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "BDX",
-    "name": "Becton, Dickinson and Company",
-    "date": "2026-11-05",
-    "time": "2026-11-05T06:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 4.07,
-    "epsReported": 4.15,
-    "revExpected": null,
-    "revReported": 5274000000.0,
-    "revExpSrc": null,
     "revRepSrc": "finnhub"
    }
   ],
@@ -2042,20 +2042,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ELVN",
-    "name": "Enliven Therapeutics, Inc.",
-    "date": "2026-11-11",
-    "time": "2026-11-11T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.45,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "DGII",
     "name": "Digi International Inc.",
     "date": "2026-11-11",
@@ -2109,6 +2095,20 @@
     "epsExpected": -0.14,
     "epsReported": null,
     "revExpected": 214702940.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "QXO",
+    "name": "QXO, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 0.14,
+    "epsReported": null,
+    "revExpected": 4825383730.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2263,20 +2263,6 @@
     "epsExpected": -0.1,
     "epsReported": null,
     "revExpected": 65195110.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "XE",
-    "name": "X-Energy, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.12,
-    "epsReported": null,
-    "revExpected": 62335790.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3301,7 +3287,8 @@
   "BULL": true,
   "AMG": true,
   "TNGX": true,
-  "BDX": true
+  "BDX": true,
+  "QXO": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3318,18 +3305,25 @@
  },
  "saved": [
   {
-   "symbol": "ABNB",
+   "symbol": "TRGP",
    "date": "2026-11-05",
-   "revExpected": 4749395380.0,
+   "revExpected": 4767630270.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 2.85
+   "epsExpected": 2.86
   },
   {
-   "symbol": "MNST",
-   "date": "2026-11-05",
-   "revExpected": 2494247190.0,
+   "symbol": "ELVN",
+   "date": "2026-11-11",
+   "revExpected": 0.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 0.3
+   "epsExpected": -0.45
+  },
+  {
+   "symbol": "XE",
+   "date": "2026-11-12",
+   "revExpected": 62335790.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.12
   },
   {
    "symbol": "BRK-A",
