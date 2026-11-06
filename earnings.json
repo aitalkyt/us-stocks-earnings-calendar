@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:01:42.635064-05:00",
+ "updated": "2026-11-05T20:28:39.078679-05:00",
  "days": {
   "2026-10-29": [
    {
@@ -975,7 +975,7 @@
     "revExpected": 5075421530.0,
     "revReported": 5181000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ALL",
