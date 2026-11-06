@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:07:23.940133-05:00",
+ "updated": "2026-11-06T14:10:27.581469-05:00",
  "days": {
   "2026-10-30": [
    {
@@ -115,20 +115,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "KVUE",
-    "name": "Kenvue Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T06:45:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.29,
-    "epsReported": 0.29,
-    "revExpected": 3862879220.0,
-    "revReported": 3886000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "CBOE",
     "name": "Cboe Global Markets, Inc.",
     "date": "2026-10-30",
@@ -139,6 +125,20 @@
     "epsReported": 3.63,
     "revExpected": 705936150.0,
     "revReported": 1358800000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "KVUE",
+    "name": "Kenvue Inc.",
+    "date": "2026-10-30",
+    "time": "2026-10-30T06:45:00-04:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.29,
+    "epsReported": 0.29,
+    "revExpected": 3862879220.0,
+    "revReported": 3886000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
@@ -1034,20 +1034,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "CMI",
-    "name": "Cummins Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T07:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 8.28,
-    "epsReported": 8.25,
-    "revExpected": 9869920860.0,
-    "revReported": 9438000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "CAH",
     "name": "Cardinal Health, Inc.",
     "date": "2026-11-05",
@@ -1058,6 +1044,20 @@
     "epsReported": 3.26,
     "revExpected": 66511244980.0,
     "revReported": 67513000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "CMI",
+    "name": "Cummins Inc.",
+    "date": "2026-11-05",
+    "time": "2026-11-05T07:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 8.28,
+    "epsReported": 8.25,
+    "revExpected": 9869920860.0,
+    "revReported": 9438000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    }
@@ -1276,13 +1276,13 @@
   ],
   "2026-11-07": [
    {
-    "symbol": "BRK-A",
+    "symbol": "BRK-B",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
     "time": "2026-11-07T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 9092.32,
+    "epsExpected": 6.14,
     "epsReported": null,
     "revExpected": 0.0,
     "revReported": null,
@@ -1448,20 +1448,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "TECH",
-    "name": "Bio-Techne Corporation",
-    "date": "2026-11-09",
-    "time": "2026-11-09T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q1 2027",
-    "epsExpected": 0.45,
-    "epsReported": null,
-    "revExpected": 292201690.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "FRHC",
     "name": "Freedom Holdings Corp.",
     "date": "2026-11-09",
@@ -1471,6 +1457,20 @@
     "epsExpected": null,
     "epsReported": null,
     "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "TECH",
+    "name": "Bio-Techne Corporation",
+    "date": "2026-11-09",
+    "time": "2026-11-09T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": 0.45,
+    "epsReported": null,
+    "revExpected": 292201690.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2000,20 +2000,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MWH",
-    "name": "SOLV Energy, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.56,
-    "epsReported": null,
-    "revExpected": 1198276580.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "FPS",
     "name": "Forgent Power Solutions, Inc.",
     "date": "2026-11-12",
@@ -2023,6 +2009,20 @@
     "epsExpected": 0.2,
     "epsReported": null,
     "revExpected": 460786950.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MWH",
+    "name": "SOLV Energy, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.56,
+    "epsReported": null,
+    "revExpected": 1198276580.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3198,6 +3198,13 @@
  },
  "saved": [
   {
+   "symbol": "BRK-A",
+   "date": "2026-11-07",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 9092.32
+  },
+  {
    "symbol": "FRHC",
    "date": "2026-11-06",
    "revExpected": 0.0,
@@ -3217,13 +3224,6 @@
    "revExpected": 70010510.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.04
-  },
-  {
-   "symbol": "BRK-B",
-   "date": "2026-11-07",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 6.14
   },
   {
    "symbol": "AMG",
