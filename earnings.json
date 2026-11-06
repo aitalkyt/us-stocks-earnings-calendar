@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:00:08.889352-05:00",
+ "updated": "2026-11-06T17:56:22.319055-05:00",
  "days": {
   "2026-10-30": [
    {
@@ -591,9 +591,9 @@
     "epsExpected": 1.03,
     "epsReported": 1.13,
     "revExpected": 6600173240.0,
-    "revReported": 6719360000.0,
+    "revReported": 6719359000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "KDP",
@@ -679,7 +679,7 @@
     "revExpected": 14674998290.0,
     "revReported": 14766000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "APP",
@@ -777,7 +777,7 @@
     "revExpected": 1145540090.0,
     "revReported": 1197090000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "COR",
@@ -950,20 +950,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "EOG",
-    "name": "EOG Resources, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T16:18:27-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 4.45,
-    "epsReported": 4.87,
-    "revExpected": 7179346520.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "WBD",
     "name": "Warner Bros. Discovery, Inc.",
     "date": "2026-11-05",
@@ -987,6 +973,20 @@
     "epsExpected": 7.51,
     "epsReported": 7.98,
     "revExpected": 72449250090.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "EOG",
+    "name": "EOG Resources, Inc.",
+    "date": "2026-11-05",
+    "time": "2026-11-05T16:18:27-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 4.45,
+    "epsReported": 4.87,
+    "revExpected": 7179346520.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1448,20 +1448,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "FRHC",
-    "name": "Freedom Holdings Corp.",
-    "date": "2026-11-09",
-    "time": "2026-11-09T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q2 2027",
-    "epsExpected": null,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "TECH",
     "name": "Bio-Techne Corporation",
     "date": "2026-11-09",
@@ -1471,6 +1457,20 @@
     "epsExpected": 0.45,
     "epsReported": null,
     "revExpected": 292201690.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "FRHC",
+    "name": "Freedom Holdings Corp.",
+    "date": "2026-11-09",
+    "time": "2026-11-09T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q2 2027",
+    "epsExpected": null,
+    "epsReported": null,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1702,13 +1702,13 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ATROB",
+    "symbol": "ATRO",
     "name": "Astronics Corporation",
     "date": "2026-11-10",
     "time": "2026-11-10T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": null,
+    "epsExpected": 0.72,
     "epsReported": null,
     "revExpected": 268068400.0,
     "revReported": null,
@@ -1944,6 +1944,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "KOD",
     "name": "Kodiak Sciences Inc.",
     "date": "2026-11-12",
@@ -1967,20 +1981,6 @@
     "epsExpected": -0.62,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3213,6 +3213,13 @@
  },
  "saved": [
   {
+   "symbol": "ATROB",
+   "date": "2026-11-10",
+   "revExpected": 268068400.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": null
+  },
+  {
    "symbol": "OKLO",
    "date": "2026-11-06",
    "revExpected": 1091790.0,
@@ -3225,13 +3232,6 @@
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": 6.14
-  },
-  {
-   "symbol": "ATRO",
-   "date": "2026-11-10",
-   "revExpected": 268068400.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.72
   },
   {
    "symbol": "FRHC",
