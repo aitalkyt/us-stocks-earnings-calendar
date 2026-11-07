@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:19:46.330858-05:00",
+ "updated": "2026-11-06T22:03:22.523690-05:00",
  "days": {
   "2026-10-30": [
    {
@@ -1176,6 +1176,20 @@
     "revRepSrc": "finnhub"
    },
    {
+    "symbol": "TECH",
+    "name": "Bio-Techne Corporation",
+    "date": "2026-11-06",
+    "time": "2026-11-06T16:30:50-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.45,
+    "epsReported": 0.44,
+    "revExpected": 292201690.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "MSGK",
     "name": "MSG Knickerbockers Corp.",
     "date": "2026-11-06",
@@ -1258,20 +1272,6 @@
     "revReported": null,
     "revExpSrc": null,
     "revRepSrc": null
-   },
-   {
-    "symbol": "STWD",
-    "name": "Starwood Property Trust, Inc.",
-    "date": "2026-11-06",
-    "time": "2026-11-06T06:56:48-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.29,
-    "epsReported": 0.31,
-    "revExpected": null,
-    "revReported": 545850000.0,
-    "revExpSrc": null,
-    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-07": [
