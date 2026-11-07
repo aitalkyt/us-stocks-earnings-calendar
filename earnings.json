@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T11:54:51.619933-05:00",
+ "updated": "2026-11-07T14:00:54.943320-05:00",
  "days": {
   "2026-11-01": [],
   "2026-11-02": [
@@ -1732,20 +1732,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "KOD",
     "name": "Kodiak Sciences Inc.",
     "date": "2026-11-12",
@@ -1769,6 +1755,20 @@
     "epsExpected": -0.62,
     "epsReported": null,
     "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
