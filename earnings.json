@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:00:54.943320-05:00",
+ "updated": "2026-11-07T15:53:32.412717-05:00",
  "days": {
   "2026-11-01": [],
   "2026-11-02": [
@@ -1041,7 +1041,7 @@
     "session": "bmo",
     "period": "",
     "epsExpected": 0.48,
-    "epsReported": -0.17,
+    "epsReported": 0.5,
     "revExpected": 13905147570.0,
     "revReported": null,
     "revExpSrc": "yahoo",
