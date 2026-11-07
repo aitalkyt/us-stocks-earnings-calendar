@@ -1,218 +1,6 @@
 {
- "updated": "2026-11-06T22:03:22.523690-05:00",
+ "updated": "2026-11-07T00:04:36.252247-05:00",
  "days": {
-  "2026-10-30": [
-   {
-    "symbol": "XOM",
-    "name": "ExxonMobil Holdings Corporation",
-    "date": "2026-10-30",
-    "time": "2026-10-30T06:32:50-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 4.03,
-    "epsReported": 4.23,
-    "revExpected": 106024365960.0,
-    "revReported": 110503000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "ABBV",
-    "name": "AbbVie Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T07:46:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 3.76,
-    "epsReported": 3.82,
-    "revExpected": 17346681870.0,
-    "revReported": 17404000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "CVX",
-    "name": "Chevron Corporation",
-    "date": "2026-10-30",
-    "time": "2026-10-30T06:15:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 4.87,
-    "epsReported": 5.28,
-    "revExpected": 61646139060.0,
-    "revReported": 65237000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "GD",
-    "name": "General Dynamics Corporation",
-    "date": "2026-10-30",
-    "time": "2026-10-30T07:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 4.13,
-    "epsReported": 4.49,
-    "revExpected": 13726312260.0,
-    "revReported": 14566000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "REGN",
-    "name": "Regeneron Pharmaceuticals, Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T06:30:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 16.25,
-    "epsReported": 20.07,
-    "revExpected": 4561941280.0,
-    "revReported": 5115800000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "CL",
-    "name": "Colgate-Palmolive Company",
-    "date": "2026-10-30",
-    "time": "2026-10-30T06:55:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.93,
-    "epsReported": 0.97,
-    "revExpected": 5334192310.0,
-    "revReported": 5369000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "D",
-    "name": "Dominion Energy, Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T07:30:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.21,
-    "epsReported": 1.28,
-    "revExpected": 4736410000.0,
-    "revReported": 5617000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "EXC",
-    "name": "Exelon Corporation",
-    "date": "2026-10-30",
-    "time": "2026-10-30T06:48:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.79,
-    "epsReported": 0.87,
-    "revExpected": 6862436870.0,
-    "revReported": 7319000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "KVUE",
-    "name": "Kenvue Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T06:45:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.29,
-    "epsReported": 0.29,
-    "revExpected": 3862879220.0,
-    "revReported": 3886000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "CBOE",
-    "name": "Cboe Global Markets, Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T07:30:16-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 3.44,
-    "epsReported": 3.63,
-    "revExpected": 705936150.0,
-    "revReported": 1358800000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "CHD",
-    "name": "Church & Dwight Co., Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T06:55:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.9,
-    "epsReported": 0.92,
-    "revExpected": 1580286070.0,
-    "revReported": 1602100000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "RBC",
-    "name": "RBC Bearings Incorporated",
-    "date": "2026-10-30",
-    "time": "2026-10-30T08:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 3.53,
-    "epsReported": 3.74,
-    "revExpected": 514823420.0,
-    "revReported": 524600000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "BTSG",
-    "name": "BrightSpring Health Services, Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T06:00:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.47,
-    "epsReported": 0.54,
-    "revExpected": 3874323560.0,
-    "revReported": 4213234000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "FRT",
-    "name": "Federal Realty Investment Trust",
-    "date": "2026-10-30",
-    "time": "2026-10-30T07:30:00-04:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.71,
-    "epsReported": 0.74,
-    "revExpected": 337992430.0,
-    "revReported": 339024000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "OWL",
-    "name": "Blue Owl Capital Inc.",
-    "date": "2026-10-30",
-    "time": "2026-10-30T17:24:19-04:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.23,
-    "epsReported": 0.24,
-    "revExpected": null,
-    "revReported": 806531000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   }
-  ],
   "2026-11-01": [],
   "2026-11-02": [
    {
@@ -1702,13 +1490,13 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ATRO",
+    "symbol": "ATROB",
     "name": "Astronics Corporation",
     "date": "2026-11-10",
     "time": "2026-11-10T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 0.72,
+    "epsExpected": null,
     "epsReported": null,
     "revExpected": 268068400.0,
     "revReported": null,
@@ -3215,11 +3003,109 @@
  },
  "saved": [
   {
-   "symbol": "ATROB",
+   "symbol": "XOM",
+   "date": "2026-10-30",
+   "revExpected": 106024365960.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.03
+  },
+  {
+   "symbol": "ABBV",
+   "date": "2026-10-30",
+   "revExpected": 17346681870.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 3.76
+  },
+  {
+   "symbol": "CVX",
+   "date": "2026-10-30",
+   "revExpected": 61646139060.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.87
+  },
+  {
+   "symbol": "GD",
+   "date": "2026-10-30",
+   "revExpected": 13726312260.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.13
+  },
+  {
+   "symbol": "REGN",
+   "date": "2026-10-30",
+   "revExpected": 4561941280.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 16.25
+  },
+  {
+   "symbol": "CL",
+   "date": "2026-10-30",
+   "revExpected": 5334192310.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.93
+  },
+  {
+   "symbol": "D",
+   "date": "2026-10-30",
+   "revExpected": 4736410000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.21
+  },
+  {
+   "symbol": "EXC",
+   "date": "2026-10-30",
+   "revExpected": 6862436870.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.79
+  },
+  {
+   "symbol": "KVUE",
+   "date": "2026-10-30",
+   "revExpected": 3862879220.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.29
+  },
+  {
+   "symbol": "CBOE",
+   "date": "2026-10-30",
+   "revExpected": 705936150.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 3.44
+  },
+  {
+   "symbol": "CHD",
+   "date": "2026-10-30",
+   "revExpected": 1580286070.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.9
+  },
+  {
+   "symbol": "RBC",
+   "date": "2026-10-30",
+   "revExpected": 514823420.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 3.53
+  },
+  {
+   "symbol": "BTSG",
+   "date": "2026-10-30",
+   "revExpected": 3874323560.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.47
+  },
+  {
+   "symbol": "FRT",
+   "date": "2026-10-30",
+   "revExpected": 337992430.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.71
+  },
+  {
+   "symbol": "ATRO",
    "date": "2026-11-10",
    "revExpected": 268068400.0,
    "revExpSrc": "yahoo",
-   "epsExpected": null
+   "epsExpected": 0.72
   },
   {
    "symbol": "OKLO",
