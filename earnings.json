@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:56:22.319055-05:00",
+ "updated": "2026-11-06T20:19:46.330858-05:00",
  "days": {
   "2026-10-30": [
    {
@@ -691,9 +691,9 @@
     "epsExpected": 4.03,
     "epsReported": 4.3,
     "revExpected": 2074086950.0,
-    "revReported": 2184820000.0,
+    "revReported": 2184815000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MCK",
@@ -831,9 +831,9 @@
     "epsExpected": 1.8,
     "epsReported": 2.43,
     "revExpected": 4207000000.0,
-    "revReported": 4297000000.0,
+    "revReported": 3373000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "EW",
@@ -861,9 +861,9 @@
     "epsExpected": 3.05,
     "epsReported": 3.27,
     "revExpected": 18939142100.0,
-    "revReported": null,
+    "revReported": 19435000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "PH",
@@ -1059,7 +1059,7 @@
     "revExpected": 9869920860.0,
     "revReported": 9438000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-11-06": [
@@ -3209,7 +3209,9 @@
   "ALL": true,
   "XOM": true,
   "MPLX": true,
-  "CVX": true
+  "CVX": true,
+  "AFL": true,
+  "COP": true
  },
  "saved": [
   {
