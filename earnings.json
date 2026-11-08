@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T11:54:11.750041-05:00",
+ "updated": "2026-11-08T14:01:03.104782-05:00",
  "days": {
   "2026-11-01": [],
   "2026-11-02": [
@@ -158,20 +158,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "PEG",
-    "name": "Public Service Enterprise Group Incorporated",
-    "date": "2026-11-02",
-    "time": "2026-11-02T07:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.19,
-    "epsReported": 1.15,
-    "revExpected": 3252595920.0,
-    "revReported": 3020000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "FOXA",
     "name": "Fox Corporation",
     "date": "2026-11-02",
@@ -182,6 +168,20 @@
     "epsReported": 2.54,
     "revExpected": 4291563420.0,
     "revReported": 4571000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "PEG",
+    "name": "Public Service Enterprise Group Incorporated",
+    "date": "2026-11-02",
+    "time": "2026-11-02T07:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.19,
+    "epsReported": 1.15,
+    "revExpected": 3252595920.0,
+    "revReported": 3020000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
@@ -1732,6 +1732,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "KOD",
     "name": "Kodiak Sciences Inc.",
     "date": "2026-11-12",
@@ -1755,20 +1769,6 @@
     "epsExpected": -0.62,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
