@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:54:15.638015-05:00",
+ "updated": "2026-11-08T11:54:11.750041-05:00",
  "days": {
   "2026-11-01": [],
   "2026-11-02": [
@@ -719,7 +719,7 @@
     "epsExpected": 0.34,
     "epsReported": 0.38,
     "revExpected": 738090880.0,
-    "revReported": 782510000.0,
+    "revReported": 782513000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -733,7 +733,7 @@
     "epsExpected": 0.3,
     "epsReported": 0.29,
     "revExpected": 2494247190.0,
-    "revReported": 2563050000.0,
+    "revReported": 2563053000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -803,9 +803,9 @@
     "epsExpected": 3.61,
     "epsReported": 3.61,
     "revExpected": 3336777660.0,
-    "revReported": null,
+    "revReported": 3555600000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "KMB",
@@ -889,7 +889,7 @@
     "epsExpected": -1.0,
     "epsReported": -0.7,
     "revExpected": 40889933520.0,
-    "revReported": 40826000000.0,
+    "revReported": 41158000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -945,9 +945,9 @@
     "epsExpected": 9.38,
     "epsReported": -20.5,
     "revExpected": 14944000000.0,
-    "revReported": 14922000000.0,
+    "revReported": null,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": null
    },
    {
     "symbol": "ELAN",
@@ -973,9 +973,9 @@
     "epsExpected": 0.45,
     "epsReported": 0.44,
     "revExpected": 292201690.0,
-    "revReported": null,
+    "revReported": 299712000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "MSGK",
@@ -1073,9 +1073,9 @@
     "epsExpected": 9092.32,
     "epsReported": 8907.21,
     "revExpected": 0.0,
-    "revReported": null,
+    "revReported": 105647000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-08": [
@@ -1732,20 +1732,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "KOD",
     "name": "Kodiak Sciences Inc.",
     "date": "2026-11-12",
@@ -1769,6 +1755,20 @@
     "epsExpected": -0.62,
     "epsReported": null,
     "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2999,7 +2999,8 @@
   "MPLX": true,
   "CVX": true,
   "AFL": true,
-  "COP": true
+  "COP": true,
+  "BKNG": true
  },
  "saved": [
   {
