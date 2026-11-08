@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:01:03.104782-05:00",
+ "updated": "2026-11-08T15:53:06.689439-05:00",
  "days": {
   "2026-11-01": [],
   "2026-11-02": [
@@ -942,7 +942,7 @@
     "time": "2026-11-06T07:00:00-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 9.38,
+    "epsExpected": 8.5,
     "epsReported": -20.5,
     "revExpected": 14944000000.0,
     "revReported": null,
@@ -1095,20 +1095,6 @@
    }
   ],
   "2026-11-09": [
-   {
-    "symbol": "BRK-A",
-    "name": "Berkshire Hathaway Inc.",
-    "date": "2026-11-09",
-    "time": "2026-11-09T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 9092.32,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
    {
     "symbol": "CEG",
     "name": "Constellation Energy Corporation",
@@ -1301,6 +1287,20 @@
     "epsExpected": -1.19,
     "epsReported": null,
     "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "QRVO",
+    "name": "Qorvo, Inc.",
+    "date": "2026-11-09",
+    "time": "2026-11-09T15:00:00-05:00",
+    "session": "amc",
+    "period": "Q2 2027",
+    "epsExpected": 2.05,
+    "epsReported": null,
+    "revExpected": 921546670.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1732,20 +1732,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "KOD",
     "name": "Kodiak Sciences Inc.",
     "date": "2026-11-12",
@@ -1769,6 +1755,20 @@
     "epsExpected": -0.62,
     "epsReported": null,
     "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3004,11 +3004,11 @@
  },
  "saved": [
   {
-   "symbol": "QRVO",
+   "symbol": "BRK-A",
    "date": "2026-11-09",
-   "revExpected": 921546670.0,
+   "revExpected": 0.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 2.05
+   "epsExpected": 9092.32
   },
   {
    "symbol": "XOM",
