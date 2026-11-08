@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T04:02:58.486349-05:00",
+ "updated": "2026-11-08T05:58:10.667705-05:00",
  "days": {
   "2026-11-01": [],
   "2026-11-02": [
@@ -1067,11 +1067,11 @@
     "symbol": "BRK-A",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
-    "time": "2026-11-07T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
+    "time": "2026-11-07T08:00:00-05:00",
+    "session": "bmo",
+    "period": "",
     "epsExpected": 9092.32,
-    "epsReported": null,
+    "epsReported": 8907.21,
     "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -1095,6 +1095,20 @@
    }
   ],
   "2026-11-09": [
+   {
+    "symbol": "BRK-A",
+    "name": "Berkshire Hathaway Inc.",
+    "date": "2026-11-09",
+    "time": "2026-11-09T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 9092.32,
+    "epsReported": null,
+    "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
    {
     "symbol": "CEG",
     "name": "Constellation Energy Corporation",
@@ -1287,20 +1301,6 @@
     "epsExpected": -1.19,
     "epsReported": null,
     "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "QRVO",
-    "name": "Qorvo, Inc.",
-    "date": "2026-11-09",
-    "time": "2026-11-09T15:00:00-05:00",
-    "session": "amc",
-    "period": "Q2 2027",
-    "epsExpected": 2.05,
-    "epsReported": null,
-    "revExpected": 921546670.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3002,6 +3002,13 @@
   "COP": true
  },
  "saved": [
+  {
+   "symbol": "QRVO",
+   "date": "2026-11-09",
+   "revExpected": 921546670.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.05
+  },
   {
    "symbol": "XOM",
    "date": "2026-10-30",
