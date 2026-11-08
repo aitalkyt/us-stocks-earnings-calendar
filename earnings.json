@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:53:06.689439-05:00",
+ "updated": "2026-11-08T17:52:09.829734-05:00",
  "days": {
   "2026-11-01": [],
   "2026-11-02": [
@@ -1083,11 +1083,11 @@
     "symbol": "RDNT",
     "name": "RadNet, Inc.",
     "date": "2026-11-08",
-    "time": "2026-11-08T16:00:00-05:00",
+    "time": "2026-11-08T16:01:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 0.22,
-    "epsReported": null,
+    "epsReported": 0.3,
     "revExpected": 639207170.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -2307,7 +2307,7 @@
     "time": "2026-11-19T08:30:00-05:00",
     "session": "bmo",
     "period": "Q4 2026",
-    "epsExpected": 1.37,
+    "epsExpected": 1.16,
     "epsReported": null,
     "revExpected": 1090926080.0,
     "revReported": null,
