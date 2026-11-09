@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T14:12:41.999546-05:00",
+ "updated": "2026-11-09T16:06:28.364814-05:00",
  "days": {
   "2026-11-02": [
    {
@@ -420,9 +420,9 @@
     "epsExpected": 1.47,
     "epsReported": 1.56,
     "revExpected": 2018897940.0,
-    "revReported": null,
+    "revReported": 2053000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-11-04": [
@@ -788,9 +788,9 @@
     "epsExpected": 1.62,
     "epsReported": 1.94,
     "revExpected": 1657827540.0,
-    "revReported": null,
+    "revReported": 1814556000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "APD",
@@ -974,7 +974,7 @@
     "revExpected": 292201690.0,
     "revReported": 299712000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MSGK",
@@ -1249,20 +1249,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "PSKY",
-    "name": "Paramount Skydance Corp",
-    "date": "2026-11-09",
-    "time": "2026-11-09T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.2,
-    "epsReported": null,
-    "revExpected": 7029279600.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "ASTS",
     "name": "AST SpaceMobile, Inc.",
     "date": "2026-11-09",
@@ -1272,6 +1258,20 @@
     "epsExpected": -0.45,
     "epsReported": null,
     "revExpected": 46003120.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "PSKY",
+    "name": "Paramount Skydance Corp",
+    "date": "2026-11-09",
+    "time": "2026-11-09T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 0.2,
+    "epsReported": null,
+    "revExpected": 7029279600.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1475,13 +1475,13 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ATROB",
+    "symbol": "ATRO",
     "name": "Astronics Corporation",
     "date": "2026-11-10",
     "time": "2026-11-10T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": null,
+    "epsExpected": 0.72,
     "epsReported": null,
     "revExpected": 268068400.0,
     "revReported": null,
@@ -1503,15 +1503,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "STUB",
-    "name": "StubHub Holdings, Inc.",
+    "symbol": "NLST",
+    "name": "Netlist, Inc.",
     "date": "2026-11-10",
     "time": "2026-11-10T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 0.14,
+    "epsExpected": 0.6,
     "epsReported": null,
-    "revExpected": 514555230.0,
+    "revExpected": 308600000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1773,20 +1773,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MANE",
-    "name": "Veradermics, Incorporated",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.62,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "FPS",
     "name": "Forgent Power Solutions, Inc.",
     "date": "2026-11-12",
@@ -1796,6 +1782,20 @@
     "epsExpected": 0.2,
     "epsReported": null,
     "revExpected": 460786950.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MANE",
+    "name": "Veradermics, Incorporated",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": -0.62,
+    "epsReported": null,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3187,22 +3187,30 @@
   "AFL": true,
   "COP": true,
   "BKNG": true,
-  "EOG": true
+  "EOG": true,
+  "SPG": true
  },
  "saved": [
+  {
+   "symbol": "ATROB",
+   "date": "2026-11-10",
+   "revExpected": 268068400.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": null
+  },
+  {
+   "symbol": "STUB",
+   "date": "2026-11-10",
+   "revExpected": 514555230.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.14
+  },
   {
    "symbol": "BRK-A",
    "date": "2026-11-07",
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": 9092.32
-  },
-  {
-   "symbol": "ATRO",
-   "date": "2026-11-10",
-   "revExpected": 268068400.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.72
   },
   {
    "symbol": "TECH",
@@ -3518,13 +3526,6 @@
    "revExpected": 331394800.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.56
-  },
-  {
-   "symbol": "NLST",
-   "date": "2026-11-10",
-   "revExpected": 308600000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.6
   },
   {
    "symbol": "ALAB",
