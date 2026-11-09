@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:06:28.364814-05:00",
+ "updated": "2026-11-09T17:59:51.471036-05:00",
  "days": {
   "2026-11-02": [
    {
@@ -308,9 +308,9 @@
     "epsExpected": 2.2,
     "epsReported": 2.07,
     "revExpected": 1357685710.0,
-    "revReported": null,
+    "revReported": 4739000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ET",
@@ -394,7 +394,7 @@
     "revExpected": 7332653690.0,
     "revReported": 7344000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "WAT",
@@ -678,7 +678,7 @@
     "revExpected": 4749395380.0,
     "revReported": 4869000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "SO",
@@ -706,7 +706,7 @@
     "revExpected": 738090880.0,
     "revReported": 782513000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "DUK",
@@ -874,9 +874,9 @@
     "epsExpected": 0.47,
     "epsReported": 0.47,
     "revExpected": 1592169690.0,
-    "revReported": 1624000000.0,
+    "revReported": 1545000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "HUM",
@@ -902,9 +902,9 @@
     "epsExpected": 4.25,
     "epsReported": 5.32,
     "revExpected": 977448000.0,
-    "revReported": null,
+    "revReported": 1026248000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "PPL",
@@ -986,9 +986,9 @@
     "epsExpected": -0.97,
     "epsReported": -1.27,
     "revExpected": 38230400.0,
-    "revReported": null,
+    "revReported": 45489000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "CGON",
@@ -1000,9 +1000,9 @@
     "epsExpected": -0.81,
     "epsReported": -0.64,
     "revExpected": null,
-    "revReported": null,
+    "revReported": 1604000.0,
     "revExpSrc": null,
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FLR",
@@ -1030,7 +1030,7 @@
     "revExpected": 63344840.0,
     "revReported": 76230000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "OKLO",
@@ -1042,9 +1042,9 @@
     "epsExpected": -0.26,
     "epsReported": -0.22,
     "revExpected": 1091790.0,
-    "revReported": null,
+    "revReported": 1861000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "PAGP",
@@ -1160,9 +1160,9 @@
     "epsExpected": 2.43,
     "epsReported": 3.23,
     "revExpected": 6388425050.0,
-    "revReported": null,
+    "revReported": 6347000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "SKYD",
@@ -3188,7 +3188,8 @@
   "COP": true,
   "BKNG": true,
   "EOG": true,
-  "SPG": true
+  "SPG": true,
+  "BAM": true
  },
  "saved": [
   {
