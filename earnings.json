@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:09:07.179839-05:00",
+ "updated": "2026-11-10T02:29:09.199689-05:00",
  "days": {
   "2026-11-03": [
    {
@@ -1037,6 +1037,20 @@
     "revRepSrc": "finnhub"
    },
    {
+    "symbol": "ASTS",
+    "name": "AST SpaceMobile, Inc.",
+    "date": "2026-11-09",
+    "time": "2026-11-09T16:30:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": -0.45,
+    "epsReported": -0.44,
+    "revExpected": 46003120.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "APGE",
     "name": "Apogee Therapeutics, Inc.",
     "date": "2026-11-09",
@@ -1076,20 +1090,6 @@
     "revExpected": 655079810.0,
     "revReported": 595200000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "TGTX",
-    "name": "TG Therapeutics, Inc.",
-    "date": "2026-11-09",
-    "time": "2026-11-09T07:04:06-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.26,
-    "epsReported": 0.35,
-    "revExpected": null,
-    "revReported": 259940000.0,
-    "revExpSrc": null,
     "revRepSrc": "finnhub"
    }
   ],
@@ -3300,13 +3300,6 @@
    "revExpected": 1412268430.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.55
-  },
-  {
-   "symbol": "ASTS",
-   "date": "2026-11-09",
-   "revExpected": 46003120.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.45
   },
   {
    "symbol": "PSKY",
