@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:07:02.224663-05:00",
+ "updated": "2026-11-10T06:05:06.864998-05:00",
  "days": {
   "2026-11-03": [
    {
@@ -1137,6 +1137,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "SLAB",
+    "name": "Silicon Laboratories Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 0.85,
+    "epsReported": null,
+    "revExpected": 242015690.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "SRRK",
     "name": "Scholar Rock Holding Corporation",
     "date": "2026-11-10",
@@ -1277,29 +1291,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "NLST",
-    "name": "Netlist, Inc.",
+    "symbol": "ALM",
+    "name": "Almonty Industries Inc.",
     "date": "2026-11-10",
     "time": "2026-11-10T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 0.6,
+    "epsExpected": 0.04,
     "epsReported": null,
-    "revExpected": 308600000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "STUB",
-    "name": "StubHub Holdings, Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.14,
-    "epsReported": null,
-    "revExpected": 514555230.0,
+    "revExpected": 70010510.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1547,20 +1547,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "FPS",
     "name": "Forgent Power Solutions, Inc.",
     "date": "2026-11-12",
@@ -1584,6 +1570,20 @@
     "epsExpected": -0.62,
     "epsReported": null,
     "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2122,7 +2122,7 @@
     "time": "2026-11-19T08:30:00-05:00",
     "session": "bmo",
     "period": "Q4 2026",
-    "epsExpected": 1.16,
+    "epsExpected": 1.04,
     "epsReported": null,
     "revExpected": 1090926080.0,
     "revReported": null,
@@ -3172,7 +3172,8 @@
   "ANF": true,
   "GGAL": false,
   "KSS": true,
-  "AMBA": true
+  "AMBA": true,
+  "SLAB": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3196,6 +3197,20 @@
   "BAM": true
  },
  "saved": [
+  {
+   "symbol": "NLST",
+   "date": "2026-11-10",
+   "revExpected": 308600000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.6
+  },
+  {
+   "symbol": "STUB",
+   "date": "2026-11-10",
+   "revExpected": 514555230.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.14
+  },
   {
    "symbol": "AAPL",
    "date": "2026-11-02",
