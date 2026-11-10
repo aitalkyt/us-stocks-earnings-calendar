@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T17:59:51.471036-05:00",
+ "updated": "2026-11-09T20:20:22.878078-05:00",
  "days": {
   "2026-11-02": [
    {
@@ -860,9 +860,9 @@
     "epsExpected": -1.25,
     "epsReported": 0.38,
     "revExpected": 891309430.0,
-    "revReported": 1313000000.0,
+    "revReported": 1312000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BAM",
@@ -944,9 +944,9 @@
     "epsExpected": 8.5,
     "epsReported": -20.5,
     "revExpected": 14944000000.0,
-    "revReported": null,
+    "revReported": 14922000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ELAN",
@@ -960,7 +960,7 @@
     "revExpected": 1206839890.0,
     "revReported": 1265000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "TECH",
