@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T10:10:08.268833-05:00",
+ "updated": "2026-11-11T12:13:57.116824-05:00",
  "days": {
   "2026-11-04": [
    {
@@ -581,20 +581,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "CGON",
-    "name": "CG Oncology, Inc.",
-    "date": "2026-11-06",
-    "time": "2026-11-06T08:15:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": -0.81,
-    "epsReported": -0.64,
-    "revExpected": null,
-    "revReported": 1604000.0,
-    "revExpSrc": null,
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "FLR",
     "name": "Fluor Corporation",
     "date": "2026-11-06",
@@ -606,6 +592,20 @@
     "revExpected": 4280014560.0,
     "revReported": 3720000000.0,
     "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "CGON",
+    "name": "CG Oncology, Inc.",
+    "date": "2026-11-06",
+    "time": "2026-11-06T08:15:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": -0.81,
+    "epsReported": -0.64,
+    "revExpected": null,
+    "revReported": 1604000.0,
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    },
    {
@@ -639,14 +639,14 @@
   ],
   "2026-11-07": [
    {
-    "symbol": "BRK-A",
+    "symbol": "BRK-B",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
     "time": "2026-11-07T08:00:00-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 9092.32,
-    "epsReported": 8907.21,
+    "epsExpected": 6.14,
+    "epsReported": 5.94,
     "revExpected": 0.0,
     "revReported": 117593000000.0,
     "revExpSrc": "yahoo",
@@ -925,6 +925,20 @@
     "revRepSrc": "yahoo"
    },
    {
+    "symbol": "BMNR",
+    "name": "Bitmine Immersion Technologies, Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T17:23:39-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.02,
+    "epsReported": 7.4,
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
+   },
+   {
     "symbol": "SLAB",
     "name": "Silicon Laboratories Inc.",
     "date": "2026-11-10",
@@ -1077,20 +1091,6 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
-   },
-   {
-    "symbol": "ATRO",
-    "name": "Astronics Corporation",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:19:44-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.72,
-    "epsReported": 0.81,
-    "revExpected": 268068400.0,
-    "revReported": 271680000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-11": [
@@ -1229,7 +1229,7 @@
     "time": "2026-11-12T16:00:00-05:00",
     "session": "amc",
     "period": "Q4 2026",
-    "epsExpected": 4.06,
+    "epsExpected": 4.05,
     "epsReported": null,
     "revExpected": 10299491080.0,
     "revReported": null,
@@ -2373,15 +2373,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "KSS",
-    "name": "Kohl's Corporation",
+    "symbol": "AMBA",
+    "name": "Ambarella, Inc.",
     "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.16,
+    "time": "2026-11-24T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2027",
+    "epsExpected": 0.31,
     "epsReported": null,
-    "revExpected": 3436440520.0,
+    "revExpected": 119795800.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3045,6 +3045,27 @@
  },
  "saved": [
   {
+   "symbol": "BRK-A",
+   "date": "2026-11-07",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 9092.32
+  },
+  {
+   "symbol": "ATRO",
+   "date": "2026-11-10",
+   "revExpected": 268068400.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.72
+  },
+  {
+   "symbol": "KSS",
+   "date": "2026-11-24",
+   "revExpected": 3436440520.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.16
+  },
+  {
    "symbol": "AMG",
    "date": "2026-11-09",
    "revExpected": 655079810.0,
@@ -3192,25 +3213,11 @@
    "epsExpected": 0.04
   },
   {
-   "symbol": "BRK-B",
-   "date": "2026-11-07",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 6.14
-  },
-  {
    "symbol": "GFF",
    "date": "2026-11-18",
    "revExpected": 481788810.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.59
-  },
-  {
-   "symbol": "AMBA",
-   "date": "2026-11-24",
-   "revExpected": 119795800.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.31
   },
   {
    "symbol": "MANE",
