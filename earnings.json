@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:16:38.859051-05:00",
+ "updated": "2026-11-11T02:32:24.637939-05:00",
  "days": {
   "2026-11-04": [
    {
@@ -1001,8 +1001,8 @@
     "time": "2026-11-10T16:06:44-05:00",
     "session": "amc",
     "period": "",
-    "epsExpected": -0.07,
-    "epsReported": -0.08,
+    "epsExpected": -0.05,
+    "epsReported": -0.06,
     "revExpected": 3675950.0,
     "revReported": 1410000.0,
     "revExpSrc": "yahoo",
@@ -1079,16 +1079,16 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "STUB",
-    "name": "StubHub Holdings, Inc.",
+    "symbol": "NLST",
+    "name": "Netlist, Inc.",
     "date": "2026-11-10",
-    "time": "2026-11-10T16:24:38-05:00",
+    "time": "2026-11-10T16:15:49-05:00",
     "session": "amc",
     "period": "",
-    "epsExpected": 0.14,
-    "epsReported": 0.24,
-    "revExpected": 514555230.0,
-    "revReported": 501950000.0,
+    "epsExpected": 0.6,
+    "epsReported": 0.23,
+    "revExpected": 308600000.0,
+    "revReported": 105100000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    }
@@ -3042,7 +3042,8 @@
   "LI": false,
   "DY": true,
   "BMA": false,
-  "CENT": true
+  "CENT": true,
+  "PBR-A": false
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3071,6 +3072,13 @@
   "OXY": true
  },
  "saved": [
+  {
+   "symbol": "STUB",
+   "date": "2026-11-10",
+   "revExpected": 514555230.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.14
+  },
   {
    "symbol": "AMD",
    "date": "2026-11-03",
@@ -3189,13 +3197,6 @@
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": 6.14
-  },
-  {
-   "symbol": "NLST",
-   "date": "2026-11-10",
-   "revExpected": 308600000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.6
   },
   {
    "symbol": "GFF",
