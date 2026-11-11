@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T17:57:26.954267-05:00",
+ "updated": "2026-11-10T20:23:34.833912-05:00",
  "days": {
   "2026-11-03": [
    {
@@ -310,7 +310,7 @@
     "revExpected": 5117957300.0,
     "revReported": 5201000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MSI",
@@ -876,9 +876,9 @@
     "epsExpected": 0.22,
     "epsReported": 0.3,
     "revExpected": 639207170.0,
-    "revReported": null,
+    "revReported": 638257000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-11-09": [
@@ -894,7 +894,7 @@
     "revExpected": 9382503010.0,
     "revReported": 9550000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "KKR",
@@ -906,9 +906,9 @@
     "epsExpected": 1.58,
     "epsReported": 1.78,
     "revExpected": 2608104520.0,
-    "revReported": 1855320000.0,
+    "revReported": 4503357000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "OXY",
@@ -920,9 +920,9 @@
     "epsExpected": 1.47,
     "epsReported": 1.91,
     "revExpected": 6854592450.0,
-    "revReported": 6772000000.0,
+    "revReported": 6567000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FERG",
@@ -990,9 +990,9 @@
     "epsExpected": -0.07,
     "epsReported": -0.12,
     "revExpected": 257177890.0,
-    "revReported": 267829999.0,
+    "revReported": 267834000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "NRG",
@@ -1074,9 +1074,9 @@
     "epsExpected": -0.45,
     "epsReported": -0.44,
     "revExpected": 46003120.0,
-    "revReported": null,
+    "revReported": 42321000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "QRVO",
@@ -1118,9 +1118,9 @@
     "epsExpected": 0.53,
     "epsReported": 0.96,
     "revExpected": 4677165670.0,
-    "revReported": null,
+    "revReported": 4756000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "CRWV",
@@ -3199,7 +3199,9 @@
   "BAM": true,
   "BEN": true,
   "BRK-A": true,
-  "TTWO": true
+  "TTWO": true,
+  "KKR": true,
+  "OXY": true
  },
  "saved": [
   {
