@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:23:34.833912-05:00",
+ "updated": "2026-11-10T22:04:52.030033-05:00",
  "days": {
   "2026-11-03": [
    {
@@ -917,7 +917,7 @@
     "time": "2026-11-09T16:13:54-05:00",
     "session": "amc",
     "period": "",
-    "epsExpected": 1.47,
+    "epsExpected": 1.48,
     "epsReported": 1.91,
     "revExpected": 6854592450.0,
     "revReported": 6567000000.0,
@@ -1210,15 +1210,15 @@
     "symbol": "RGTI",
     "name": "Rigetti Computing, Inc.",
     "date": "2026-11-10",
-    "time": "2026-11-10T16:00:00-05:00",
+    "time": "2026-11-10T16:06:44-05:00",
     "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.05,
-    "epsReported": null,
+    "period": "",
+    "epsExpected": -0.07,
+    "epsReported": -0.08,
     "revExpected": 3675950.0,
-    "revReported": null,
+    "revReported": 1410000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "QBTS",
@@ -1266,11 +1266,11 @@
     "symbol": "REZI",
     "name": "Resideo Technologies, Inc.",
     "date": "2026-11-10",
-    "time": "2026-11-10T16:00:00-05:00",
+    "time": "2026-11-10T16:12:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 0.4,
-    "epsReported": null,
+    "epsReported": 0.52,
     "revExpected": 714000000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -1291,18 +1291,18 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "ALM",
-    "name": "Almonty Industries Inc.",
+    "symbol": "STUB",
+    "name": "StubHub Holdings, Inc.",
     "date": "2026-11-10",
-    "time": "2026-11-10T16:00:00-05:00",
+    "time": "2026-11-10T16:24:38-05:00",
     "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.04,
-    "epsReported": null,
-    "revExpected": 70010510.0,
-    "revReported": null,
+    "period": "",
+    "epsExpected": 0.14,
+    "epsReported": 0.24,
+    "revExpected": 514555230.0,
+    "revReported": 501950000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-11": [
@@ -1441,7 +1441,7 @@
     "time": "2026-11-12T16:00:00-05:00",
     "session": "amc",
     "period": "Q1 2027",
-    "epsExpected": 1.32,
+    "epsExpected": 1.33,
     "epsReported": null,
     "revExpected": 18115769170.0,
     "revReported": null,
@@ -1547,20 +1547,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.38,
-    "epsReported": null,
-    "revExpected": 475062440.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "FPS",
     "name": "Forgent Power Solutions, Inc.",
     "date": "2026-11-12",
@@ -1570,6 +1556,20 @@
     "epsExpected": 0.2,
     "epsReported": null,
     "revExpected": 460786950.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.38,
+    "epsReported": null,
+    "revExpected": 475062440.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1645,7 +1645,22 @@
     "revRepSrc": null
    }
   ],
-  "2026-11-13": [],
+  "2026-11-13": [
+   {
+    "symbol": "ALM",
+    "name": "Almonty Industries Inc.",
+    "date": "2026-11-13",
+    "time": "2026-11-13T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 0.04,
+    "epsReported": null,
+    "revExpected": 70010510.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   }
+  ],
   "2026-11-16": [
    {
     "symbol": "TSN",
@@ -1882,7 +1897,7 @@
     "time": "2026-11-18T08:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2027",
-    "epsExpected": 1.34,
+    "epsExpected": 1.33,
     "epsReported": null,
     "revExpected": 15876334550.0,
     "revReported": null,
@@ -3205,6 +3220,13 @@
  },
  "saved": [
   {
+   "symbol": "ALM",
+   "date": "2026-11-10",
+   "revExpected": 70010510.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.04
+  },
+  {
    "symbol": "BRK-B",
    "date": "2026-11-07",
    "revExpected": 0.0,
@@ -3245,13 +3267,6 @@
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.62
-  },
-  {
-   "symbol": "STUB",
-   "date": "2026-11-10",
-   "revExpected": 514555230.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.14
   },
   {
    "symbol": "AAPL",
