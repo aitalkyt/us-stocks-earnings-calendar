@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T04:12:21.137167-05:00",
+ "updated": "2026-11-11T06:14:50.623788-05:00",
  "days": {
   "2026-11-04": [
    {
@@ -939,6 +939,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MANE",
+    "name": "Veradermics, Incorporated",
+    "date": "2026-11-10",
+    "time": "2026-11-10T16:57:37-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": -0.62,
+    "epsReported": -0.5,
+    "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "SRRK",
     "name": "Scholar Rock Holding Corporation",
     "date": "2026-11-10",
@@ -1075,20 +1089,6 @@
     "epsReported": 0.81,
     "revExpected": 268068400.0,
     "revReported": 271680000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "NLST",
-    "name": "Netlist, Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:15:49-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.6,
-    "epsReported": 0.23,
-    "revExpected": 308600000.0,
-    "revReported": 105100000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    }
@@ -3072,6 +3072,13 @@
   "OXY": true
  },
  "saved": [
+  {
+   "symbol": "NLST",
+   "date": "2026-11-10",
+   "revExpected": 308600000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.6
+  },
   {
    "symbol": "STUB",
    "date": "2026-11-10",
