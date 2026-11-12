@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:04:11.580825-05:00",
+ "updated": "2026-11-12T18:00:52.940672-05:00",
  "days": {
   "2026-11-05": [
    {
@@ -427,14 +427,14 @@
   ],
   "2026-11-07": [
    {
-    "symbol": "BRK-B",
+    "symbol": "BRK-A",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
     "time": "2026-11-07T08:00:00-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 6.14,
-    "epsReported": 5.94,
+    "epsExpected": 9092.32,
+    "epsReported": 8907.21,
     "revExpected": 0.0,
     "revReported": 117593000000.0,
     "revExpSrc": "yahoo",
@@ -955,32 +955,18 @@
   ],
   "2026-11-12": [
    {
-    "symbol": "CSCO",
-    "name": "Cisco Systems, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q1 2027",
-    "epsExpected": 1.33,
-    "epsReported": null,
-    "revExpected": 18115769170.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "AMAT",
     "name": "Applied Materials, Inc.",
     "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
+    "time": "2026-11-12T16:01:00-05:00",
     "session": "amc",
-    "period": "Q4 2026",
+    "period": "",
     "epsExpected": 4.05,
-    "epsReported": null,
+    "epsReported": 4.16,
     "revExpected": 10299491080.0,
-    "revReported": null,
+    "revReported": 10409000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "CBRS",
@@ -992,20 +978,6 @@
     "epsExpected": -0.14,
     "epsReported": null,
     "revExpected": 214702940.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "QXO",
-    "name": "QXO, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.14,
-    "epsReported": null,
-    "revExpected": 4825383730.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1072,52 +1044,10 @@
     "date": "2026-11-12",
     "time": "2026-11-12T16:00:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": -1.01,
-    "epsReported": null,
+    "epsReported": -1.05,
     "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "ARWR",
-    "name": "Arrowhead Pharmaceuticals, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": -1.5,
-    "epsReported": null,
-    "revExpected": 60438090.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "ERAS",
-    "name": "Erasca, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.13,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "HTFL",
-    "name": "Heartflow, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.1,
-    "epsReported": null,
-    "revExpected": 65195110.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1137,20 +1067,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "LFTO",
-    "name": "Liftoff Mobile, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.2,
-    "epsReported": null,
-    "revExpected": 221921270.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "YETI",
     "name": "YETI Holdings, Inc.",
     "date": "2026-11-12",
@@ -1161,6 +1077,76 @@
     "epsReported": 0.91,
     "revExpected": null,
     "revReported": 509417000.0,
+    "revExpSrc": null,
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "ATAI",
+    "name": "AtaiBeckley Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T15:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -0.12,
+    "epsReported": null,
+    "revExpected": 218180.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "AVAH",
+    "name": "Aveanna Healthcare Holdings Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:00:37-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.21,
+    "epsReported": 0.23,
+    "revExpected": null,
+    "revReported": 695540000.0,
+    "revExpSrc": null,
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "PPTA",
+    "name": "Perpetua Resources Corp.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -0.89,
+    "epsReported": null,
+    "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "LUNR",
+    "name": "Intuitive Machines, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:32:47-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": -0.11,
+    "epsReported": -0.1,
+    "revExpected": null,
+    "revReported": 269348000.0,
+    "revExpSrc": null,
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "SPB",
+    "name": "Spectrum Brands Holdings, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T06:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.9,
+    "epsReported": 1.39,
+    "revExpected": null,
+    "revReported": 713200000.0,
     "revExpSrc": null,
     "revRepSrc": "finnhub"
    }
@@ -2135,20 +2121,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "VEEV",
-    "name": "Veeva Systems Inc.",
-    "date": "2026-11-25",
-    "time": "2026-11-25T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 2.34,
-    "epsReported": null,
-    "revExpected": 935180950.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "DY",
     "name": "Dycom Industries, Inc.",
     "date": "2026-11-25",
@@ -2753,7 +2725,13 @@
   "CMBT": false,
   "LFTO": true,
   "CLBT": false,
-  "YETI": true
+  "YETI": true,
+  "ATAI": true,
+  "AVAH": true,
+  "SA": false,
+  "PPTA": true,
+  "LUNR": true,
+  "SPB": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -2783,6 +2761,62 @@
  },
  "saved": [
   {
+   "symbol": "BRK-B",
+   "date": "2026-11-07",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 6.14
+  },
+  {
+   "symbol": "CSCO",
+   "date": "2026-11-12",
+   "revExpected": 18115769170.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.33
+  },
+  {
+   "symbol": "QXO",
+   "date": "2026-11-12",
+   "revExpected": 4825383730.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.14
+  },
+  {
+   "symbol": "ARWR",
+   "date": "2026-11-12",
+   "revExpected": 60438090.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -1.5
+  },
+  {
+   "symbol": "ERAS",
+   "date": "2026-11-12",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.13
+  },
+  {
+   "symbol": "HTFL",
+   "date": "2026-11-12",
+   "revExpected": 65195110.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.1
+  },
+  {
+   "symbol": "LFTO",
+   "date": "2026-11-12",
+   "revExpected": 221921270.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.2
+  },
+  {
+   "symbol": "VEEV",
+   "date": "2026-11-25",
+   "revExpected": 935180950.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.34
+  },
+  {
    "symbol": "INFQ",
    "date": "2026-11-16",
    "revExpected": 11085670.0,
@@ -2802,13 +2836,6 @@
    "revExpected": 1091790.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.26
-  },
-  {
-   "symbol": "BRK-A",
-   "date": "2026-11-07",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 9092.32
   },
   {
    "symbol": "MOG-A",
