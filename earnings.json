@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:06:25.131414-05:00",
+ "updated": "2026-11-11T20:30:49.578104-05:00",
  "days": {
   "2026-11-04": [
    {
@@ -894,7 +894,7 @@
     "revExpected": 2945467370.0,
     "revReported": 2988000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "CRWV",
@@ -934,9 +934,9 @@
     "epsExpected": 0.02,
     "epsReported": 7.4,
     "revExpected": null,
-    "revReported": null,
+    "revReported": 64942000.0,
     "revExpSrc": null,
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "SLAB",
@@ -948,9 +948,9 @@
     "epsExpected": 0.85,
     "epsReported": 1.05,
     "revExpected": 242015690.0,
-    "revReported": null,
+    "revReported": 250892000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MANE",
@@ -976,9 +976,9 @@
     "epsExpected": -0.84,
     "epsReported": -0.81,
     "revExpected": 283670.0,
-    "revReported": null,
+    "revReported": 570000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MRCY",
@@ -1006,7 +1006,7 @@
     "revExpected": 214149140.0,
     "revReported": 225300000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ALH",
@@ -1020,7 +1020,7 @@
     "revExpected": 460972670.0,
     "revReported": 460920000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FLY",
@@ -1032,9 +1032,9 @@
     "epsExpected": -0.5,
     "epsReported": -0.45,
     "revExpected": 103150620.0,
-    "revReported": 110680000.0,
+    "revReported": 110682000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "QBTS",
@@ -1074,9 +1074,9 @@
     "epsExpected": -0.05,
     "epsReported": -0.06,
     "revExpected": 3675950.0,
-    "revReported": 1410000.0,
+    "revReported": 1411000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "REZI",
@@ -1088,9 +1088,9 @@
     "epsExpected": 0.4,
     "epsReported": 0.52,
     "revExpected": 714000000.0,
-    "revReported": null,
+    "revReported": 727000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-11-11": [
