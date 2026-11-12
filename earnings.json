@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T08:31:16.269101-05:00",
+ "updated": "2026-11-12T10:11:25.797070-05:00",
  "days": {
   "2026-11-05": [
    {
@@ -199,16 +199,16 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "CMI",
-    "name": "Cummins Inc.",
+    "symbol": "TRGP",
+    "name": "Targa Resources Corp.",
     "date": "2026-11-05",
-    "time": "2026-11-05T07:30:00-05:00",
-    "session": "bmo",
+    "time": "2026-11-05T15:13:58-05:00",
+    "session": "dmh",
     "period": "",
-    "epsExpected": 8.28,
-    "epsReported": 8.25,
-    "revExpected": 9869920860.0,
-    "revReported": 9438000000.0,
+    "epsExpected": 2.86,
+    "epsReported": 2.96,
+    "revExpected": 4767630270.0,
+    "revReported": 5598600000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    }
@@ -355,20 +355,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "WULF",
-    "name": "TeraWulf Inc.",
-    "date": "2026-11-06",
-    "time": "2026-11-06T07:02:23-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": -0.37,
-    "epsReported": -0.14,
-    "revExpected": 63344840.0,
-    "revReported": 76230000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "FLR",
     "name": "Fluor Corporation",
     "date": "2026-11-06",
@@ -379,6 +365,20 @@
     "epsReported": 0.77,
     "revExpected": 4280014560.0,
     "revReported": 3720000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "WULF",
+    "name": "TeraWulf Inc.",
+    "date": "2026-11-06",
+    "time": "2026-11-06T07:02:23-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": -0.37,
+    "epsReported": -0.14,
+    "revExpected": 63344840.0,
+    "revReported": 76230000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
@@ -411,30 +411,30 @@
     "revRepSrc": null
    },
    {
-    "symbol": "OKLO",
-    "name": "Oklo Inc.",
+    "symbol": "BIPC",
+    "name": "Brookfield Infrastructure Corporation",
     "date": "2026-11-06",
-    "time": "2026-11-06T07:32:23-05:00",
+    "time": "2026-11-06T07:00:00-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": -0.26,
-    "epsReported": -0.22,
-    "revExpected": 1091790.0,
-    "revReported": 1861000.0,
-    "revExpSrc": "yahoo",
+    "epsExpected": 0.43,
+    "epsReported": 0.22,
+    "revExpected": null,
+    "revReported": 911000000.0,
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    }
   ],
   "2026-11-07": [
    {
-    "symbol": "BRK-A",
+    "symbol": "BRK-B",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
     "time": "2026-11-07T08:00:00-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 9092.32,
-    "epsReported": 8907.21,
+    "epsExpected": 6.14,
+    "epsReported": 5.94,
     "revExpected": 0.0,
     "revReported": 117593000000.0,
     "revExpSrc": "yahoo",
@@ -627,20 +627,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "ONTO",
-    "name": "Onto Innovation Inc.",
-    "date": "2026-11-09",
-    "time": "2026-11-09T16:05:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 2.3,
-    "epsReported": 2.44,
-    "revExpected": 392041370.0,
-    "revReported": 409748000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "APGE",
     "name": "Apogee Therapeutics, Inc.",
     "date": "2026-11-09",
@@ -653,6 +639,20 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "ONTO",
+    "name": "Onto Innovation Inc.",
+    "date": "2026-11-09",
+    "time": "2026-11-09T16:05:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 2.3,
+    "epsReported": 2.44,
+    "revExpected": 392041370.0,
+    "revReported": 409748000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "QRVO",
@@ -685,20 +685,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "CRWV",
-    "name": "CoreWeave, Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:05:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": -1.55,
-    "epsReported": -1.27,
-    "revExpected": 3540875520.0,
-    "revReported": 3661000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "VG",
     "name": "Venture Global, Inc.",
     "date": "2026-11-10",
@@ -711,6 +697,20 @@
     "revReported": 4756000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "CRWV",
+    "name": "CoreWeave, Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T16:05:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": -1.55,
+    "epsReported": -1.27,
+    "revExpected": 3540875520.0,
+    "revReported": 3661000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "BMNR",
@@ -839,20 +839,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "LEGN",
-    "name": "Legend Biotech Corporation",
-    "date": "2026-11-10",
-    "time": "2026-11-10T07:11:37-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.01,
-    "epsReported": 0.28,
-    "revExpected": 359911560.0,
-    "revReported": 359500000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "RGTI",
     "name": "Rigetti Computing, Inc.",
     "date": "2026-11-10",
@@ -863,6 +849,20 @@
     "epsReported": -0.06,
     "revExpected": 3675950.0,
     "revReported": 1411000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "LEGN",
+    "name": "Legend Biotech Corporation",
+    "date": "2026-11-10",
+    "time": "2026-11-10T07:11:37-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.01,
+    "epsReported": 0.28,
+    "revExpected": 359911560.0,
+    "revReported": 359500000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
@@ -925,20 +925,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "DGII",
-    "name": "Digi International Inc.",
-    "date": "2026-11-11",
-    "time": "2026-11-11T16:07:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.76,
-    "epsReported": 0.78,
-    "revExpected": 140266800.0,
-    "revReported": 143320000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "RUM",
     "name": "RUM Group Inc.",
     "date": "2026-11-11",
@@ -949,6 +935,20 @@
     "epsReported": -0.18,
     "revExpected": 88670000.0,
     "revReported": 96580000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "DGII",
+    "name": "Digi International Inc.",
+    "date": "2026-11-11",
+    "time": "2026-11-11T16:07:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.76,
+    "epsReported": 0.78,
+    "revExpected": 140266800.0,
+    "revReported": 143320000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    }
@@ -1011,6 +1011,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "TTEK",
+    "name": "Tetra Tech, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T06:08:21-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.47,
+    "epsReported": 0.49,
+    "revExpected": 1150748330.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "DDS",
     "name": "Dillard's, Inc.",
     "date": "2026-11-12",
@@ -1028,15 +1042,15 @@
     "symbol": "TWST",
     "name": "Twist Bioscience Corporation",
     "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
+    "time": "2026-11-12T07:19:55-05:00",
     "session": "bmo",
-    "period": "Q4 2026",
+    "period": "",
     "epsExpected": -0.2,
-    "epsReported": null,
+    "epsReported": -0.32,
     "revExpected": 123581720.0,
-    "revReported": null,
+    "revReported": 126640000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "ARWR",
@@ -1067,46 +1081,18 @@
     "revRepSrc": null
    },
    {
-    "symbol": "FPS",
-    "name": "Forgent Power Solutions, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q1 2027",
-    "epsExpected": 0.2,
-    "epsReported": null,
-    "revExpected": 460786950.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MBGL",
     "name": "Mobility Global, Inc.",
     "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
+    "time": "2026-11-12T07:03:24-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 0.38,
-    "epsReported": null,
+    "epsReported": 0.4,
     "revExpected": 475062440.0,
-    "revReported": null,
+    "revReported": 478000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "BLTE",
-    "name": "Belite Bio, Inc",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.77,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "ERAS",
@@ -1123,46 +1109,60 @@
     "revRepSrc": null
    },
    {
-    "symbol": "OCTV",
-    "name": "Octave Intelligence plc",
+    "symbol": "HTFL",
+    "name": "Heartflow, Inc.",
     "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 0.3,
+    "epsExpected": -0.1,
     "epsReported": null,
-    "revExpected": 404220200.0,
+    "revExpected": 65195110.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
    },
    {
-    "symbol": "MWH",
-    "name": "SOLV Energy, Inc.",
+    "symbol": "PBLS",
+    "name": "Parabilis Medicines, Inc.",
     "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
+    "time": "2026-11-12T07:07:45-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.56,
-    "epsReported": null,
-    "revExpected": 1198276580.0,
+    "period": "",
+    "epsExpected": -0.38,
+    "epsReported": -0.36,
+    "revExpected": 500000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
    },
    {
-    "symbol": "FIGR",
-    "name": "Figure Technology Solutions, Inc.",
+    "symbol": "LFTO",
+    "name": "Liftoff Mobile, Inc.",
     "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
     "period": "Q3 2026",
-    "epsExpected": 0.34,
+    "epsExpected": 0.2,
     "epsReported": null,
-    "revExpected": 254531330.0,
+    "revExpected": 221921270.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "YETI",
+    "name": "YETI Holdings, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T06:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.84,
+    "epsReported": 0.91,
+    "revExpected": null,
+    "revReported": 517940000.0,
+    "revExpSrc": null,
+    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-13": [
@@ -1248,20 +1248,6 @@
     "epsExpected": 1.56,
     "epsReported": null,
     "revExpected": 331394800.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "INFQ",
-    "name": "Infleqtion, Inc.",
-    "date": "2026-11-16",
-    "time": "2026-11-16T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.05,
-    "epsReported": null,
-    "revExpected": 11085670.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2764,7 +2750,10 @@
   "CENT": true,
   "PBR-A": false,
   "AZO": true,
-  "CMBT": false
+  "CMBT": false,
+  "LFTO": true,
+  "CLBT": false,
+  "YETI": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -2794,6 +2783,69 @@
  },
  "saved": [
   {
+   "symbol": "CMI",
+   "date": "2026-11-05",
+   "revExpected": 9869920860.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 8.28
+  },
+  {
+   "symbol": "OKLO",
+   "date": "2026-11-06",
+   "revExpected": 1091790.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.26
+  },
+  {
+   "symbol": "BRK-A",
+   "date": "2026-11-07",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 9092.32
+  },
+  {
+   "symbol": "FPS",
+   "date": "2026-11-12",
+   "revExpected": 460786950.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.2
+  },
+  {
+   "symbol": "BLTE",
+   "date": "2026-11-12",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.77
+  },
+  {
+   "symbol": "OCTV",
+   "date": "2026-11-12",
+   "revExpected": 404220200.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.3
+  },
+  {
+   "symbol": "MWH",
+   "date": "2026-11-12",
+   "revExpected": 1198276580.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.56
+  },
+  {
+   "symbol": "FIGR",
+   "date": "2026-11-12",
+   "revExpected": 254531330.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.34
+  },
+  {
+   "symbol": "INFQ",
+   "date": "2026-11-16",
+   "revExpected": 11085670.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.05
+  },
+  {
    "symbol": "SSMR",
    "date": "2026-11-11",
    "revExpected": 0.0,
@@ -2813,13 +2865,6 @@
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.13
-  },
-  {
-   "symbol": "HTFL",
-   "date": "2026-11-12",
-   "revExpected": 65195110.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.1
   },
   {
    "symbol": "XE",
@@ -2953,13 +2998,6 @@
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.92
-  },
-  {
-   "symbol": "BRK-B",
-   "date": "2026-11-07",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 6.14
   },
   {
    "symbol": "AMBA",
@@ -3354,13 +3392,6 @@
    "epsExpected": -0.15
   },
   {
-   "symbol": "TRGP",
-   "date": "2026-11-05",
-   "revExpected": 4767630270.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.86
-  },
-  {
    "symbol": "ELVN",
    "date": "2026-11-11",
    "revExpected": 0.0,
@@ -3450,13 +3481,6 @@
    "revExpected": 7414144140.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.88
-  },
-  {
-   "symbol": "PBLS",
-   "date": "2026-11-12",
-   "revExpected": 500000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.38
   },
   {
    "symbol": "POWL",
