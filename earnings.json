@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:14:22.308767-05:00",
+ "updated": "2026-11-12T16:04:11.580825-05:00",
  "days": {
   "2026-11-05": [
    {
@@ -769,20 +769,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "MRCY",
-    "name": "Mercury Systems, Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:01:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.3,
-    "epsReported": 0.52,
-    "revExpected": 245002330.0,
-    "revReported": 253153000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "LQDA",
     "name": "Liquidia Corporation",
     "date": "2026-11-10",
@@ -793,6 +779,20 @@
     "epsReported": 1.22,
     "revExpected": 214149140.0,
     "revReported": 225300000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "MRCY",
+    "name": "Mercury Systems, Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T16:01:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.3,
+    "epsReported": 0.52,
+    "revExpected": 245002330.0,
+    "revReported": 253153000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
@@ -1039,20 +1039,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T07:03:24-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.38,
-    "epsReported": 0.4,
-    "revExpected": 475062440.0,
-    "revReported": 478000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "TWST",
     "name": "Twist Bioscience Corporation",
     "date": "2026-11-12",
@@ -1063,6 +1049,20 @@
     "epsReported": -0.32,
     "revExpected": 123581720.0,
     "revReported": 126640000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:03:24-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.38,
+    "epsReported": 0.4,
+    "revExpected": 475062440.0,
+    "revReported": 478000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -1248,20 +1248,6 @@
     "epsExpected": 1.56,
     "epsReported": null,
     "revExpected": 331394800.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "INFQ",
-    "name": "Infleqtion, Inc.",
-    "date": "2026-11-16",
-    "time": "2026-11-16T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.05,
-    "epsReported": null,
-    "revExpected": 11085670.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2119,15 +2105,15 @@
     "revRepSrc": null
    },
    {
-    "symbol": "KSS",
-    "name": "Kohl's Corporation",
+    "symbol": "AMBA",
+    "name": "Ambarella, Inc.",
     "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.16,
+    "time": "2026-11-24T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2027",
+    "epsExpected": 0.31,
     "epsReported": null,
-    "revExpected": 3436440520.0,
+    "revExpected": 119795800.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2797,6 +2783,20 @@
  },
  "saved": [
   {
+   "symbol": "INFQ",
+   "date": "2026-11-16",
+   "revExpected": 11085670.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.05
+  },
+  {
+   "symbol": "KSS",
+   "date": "2026-11-24",
+   "revExpected": 3436440520.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.16
+  },
+  {
    "symbol": "OKLO",
    "date": "2026-11-06",
    "revExpected": 1091790.0,
@@ -3012,13 +3012,6 @@
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.92
-  },
-  {
-   "symbol": "AMBA",
-   "date": "2026-11-24",
-   "revExpected": 119795800.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.31
   },
   {
    "symbol": "ATRO",
