@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:17:03.727342-05:00",
+ "updated": "2026-11-12T02:37:26.026558-05:00",
  "days": {
   "2026-11-05": [
    {
@@ -1863,22 +1863,6 @@
     "revRepSrc": null
    }
   ],
-  "2026-11-21": [
-   {
-    "symbol": "AZO",
-    "name": "AutoZone, Inc.",
-    "date": "2026-11-21",
-    "time": "2026-11-21T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q1 2027",
-    "epsExpected": 35.39,
-    "epsReported": null,
-    "revExpected": 4948250640.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   }
-  ],
   "2026-11-23": [
    {
     "symbol": "HPE",
@@ -2851,6 +2835,13 @@
   "OXY": true
  },
  "saved": [
+  {
+   "symbol": "AZO",
+   "date": "2026-11-21",
+   "revExpected": 4948250640.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 35.39
+  },
   {
    "symbol": "MCD",
    "date": "2026-11-04",
