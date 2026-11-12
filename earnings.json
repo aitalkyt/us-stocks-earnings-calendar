@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:30:49.578104-05:00",
+ "updated": "2026-11-11T22:06:03.559915-05:00",
  "days": {
   "2026-11-04": [
    {
@@ -1098,26 +1098,12 @@
     "symbol": "VYLR",
     "name": "Vylor Inc.",
     "date": "2026-11-11",
-    "time": "2026-11-11T16:00:00-05:00",
+    "time": "2026-11-11T16:30:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": -0.52,
-    "epsReported": null,
+    "epsReported": -0.42,
     "revExpected": 918057450.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "TTEK",
-    "name": "Tetra Tech, Inc.",
-    "date": "2026-11-11",
-    "time": "2026-11-11T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 0.47,
-    "epsReported": null,
-    "revExpected": 1150748330.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1126,15 +1112,15 @@
     "symbol": "CTVA",
     "name": "Corteva, Inc.",
     "date": "2026-11-11",
-    "time": "2026-11-11T16:00:00-05:00",
+    "time": "2026-11-11T16:30:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
+    "period": "",
     "epsExpected": 0.1,
-    "epsReported": null,
+    "epsReported": 0.06,
     "revExpected": 1767904850.0,
-    "revReported": null,
+    "revReported": 1591000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "BLTE",
@@ -1189,6 +1175,20 @@
     "epsReported": 0.78,
     "revExpected": 140266800.0,
     "revReported": 143320000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "RUM",
+    "name": "RUM Group Inc.",
+    "date": "2026-11-11",
+    "time": "2026-11-11T07:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": -0.12,
+    "epsReported": -0.18,
+    "revExpected": 88670000.0,
+    "revReported": 96580000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -1268,8 +1268,8 @@
     "symbol": "DDS",
     "name": "Dillard's, Inc.",
     "date": "2026-11-12",
-    "time": "2026-11-12T08:30:00-05:00",
-    "session": "bmo",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
     "period": "Q3 2026",
     "epsExpected": 6.2,
     "epsReported": null,
@@ -1763,6 +1763,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "SNEX",
+    "name": "StoneX Group Inc.",
+    "date": "2026-11-18",
+    "time": "2026-11-18T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 0.92,
+    "epsReported": null,
+    "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "NJR",
     "name": "New Jersey Resources Corporation",
     "date": "2026-11-18",
@@ -2061,6 +2075,22 @@
     "revRepSrc": null
    }
   ],
+  "2026-11-21": [
+   {
+    "symbol": "AZO",
+    "name": "AutoZone, Inc.",
+    "date": "2026-11-21",
+    "time": "2026-11-21T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": 35.39,
+    "epsReported": null,
+    "revExpected": 4948250640.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   }
+  ],
   "2026-11-23": [
    {
     "symbol": "HPE",
@@ -2128,20 +2158,6 @@
     "epsExpected": 1.13,
     "epsReported": null,
     "revExpected": 416428910.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "SNEX",
-    "name": "StoneX Group Inc.",
-    "date": "2026-11-23",
-    "time": "2026-11-23T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 0.92,
-    "epsReported": null,
-    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -3015,7 +3031,8 @@
   "DY": true,
   "BMA": false,
   "CENT": true,
-  "PBR-A": false
+  "PBR-A": false,
+  "AZO": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -3045,6 +3062,20 @@
  },
  "saved": [
   {
+   "symbol": "TTEK",
+   "date": "2026-11-11",
+   "revExpected": 1150748330.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.47
+  },
+  {
+   "symbol": "SNEX",
+   "date": "2026-11-23",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.92
+  },
+  {
    "symbol": "BRK-B",
    "date": "2026-11-07",
    "revExpected": 0.0,
@@ -3071,13 +3102,6 @@
    "revExpected": 655079810.0,
    "revExpSrc": "yahoo",
    "epsExpected": 8.79
-  },
-  {
-   "symbol": "RUM",
-   "date": "2026-11-11",
-   "revExpected": 88670000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.12
   },
   {
    "symbol": "BMNR",
