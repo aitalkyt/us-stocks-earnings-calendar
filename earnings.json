@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:00:52.940672-05:00",
+ "updated": "2026-11-12T20:26:36.422965-05:00",
  "days": {
   "2026-11-05": [
    {
@@ -406,9 +406,9 @@
     "epsExpected": 0.48,
     "epsReported": 0.5,
     "revExpected": 13905147570.0,
-    "revReported": null,
+    "revReported": 15173000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BIPC",
