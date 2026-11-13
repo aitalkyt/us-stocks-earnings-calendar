@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:12:41.107180-05:00",
+ "updated": "2026-11-13T16:05:58.065771-05:00",
  "days": {
   "2026-11-06": [
    {
@@ -215,14 +215,14 @@
   ],
   "2026-11-07": [
    {
-    "symbol": "BRK-A",
+    "symbol": "BRK-B",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
     "time": "2026-11-07T08:00:00-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 9092.32,
-    "epsReported": 8907.21,
+    "epsExpected": 6.14,
+    "epsReported": 5.94,
     "revExpected": 0.0,
     "revReported": 117593000000.0,
     "revExpSrc": "yahoo",
@@ -2551,11 +2551,11 @@
  },
  "saved": [
   {
-   "symbol": "BRK-B",
+   "symbol": "BRK-A",
    "date": "2026-11-07",
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 6.14
+   "epsExpected": 9092.32
   },
   {
    "symbol": "HTFL",
