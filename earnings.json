@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:11:04.115382-05:00",
+ "updated": "2026-11-13T14:12:41.107180-05:00",
  "days": {
   "2026-11-06": [
    {
@@ -157,20 +157,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "FLR",
-    "name": "Fluor Corporation",
-    "date": "2026-11-06",
-    "time": "2026-11-06T05:50:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.8,
-    "epsReported": 0.77,
-    "revExpected": 4280014560.0,
-    "revReported": 3720000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "WULF",
     "name": "TeraWulf Inc.",
     "date": "2026-11-06",
@@ -181,6 +167,20 @@
     "epsReported": -0.14,
     "revExpected": 63344840.0,
     "revReported": 76230000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "FLR",
+    "name": "Fluor Corporation",
+    "date": "2026-11-06",
+    "time": "2026-11-06T05:50:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.8,
+    "epsReported": 0.77,
+    "revExpected": 4280014560.0,
+    "revReported": 3720000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
@@ -215,14 +215,14 @@
   ],
   "2026-11-07": [
    {
-    "symbol": "BRK-B",
+    "symbol": "BRK-A",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
     "time": "2026-11-07T08:00:00-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 6.14,
-    "epsReported": 5.94,
+    "epsExpected": 9092.32,
+    "epsReported": 8907.21,
     "revExpected": 0.0,
     "revReported": 117593000000.0,
     "revExpSrc": "yahoo",
@@ -1368,20 +1368,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "CPRT",
-    "name": "Copart, Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q1 2027",
-    "epsExpected": 0.4,
-    "epsReported": null,
-    "revExpected": 1188881000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "WSM",
     "name": "Williams-Sonoma, Inc.",
     "date": "2026-11-19",
@@ -1391,6 +1377,20 @@
     "epsExpected": 1.87,
     "epsReported": null,
     "revExpected": 1996725530.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "CPRT",
+    "name": "Copart, Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q1 2027",
+    "epsExpected": 0.4,
+    "epsReported": null,
+    "revExpected": 1188881000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2551,11 +2551,11 @@
  },
  "saved": [
   {
-   "symbol": "BRK-A",
+   "symbol": "BRK-B",
    "date": "2026-11-07",
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 9092.32
+   "epsExpected": 6.14
   },
   {
    "symbol": "HTFL",
