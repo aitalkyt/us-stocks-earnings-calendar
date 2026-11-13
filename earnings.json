@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T04:15:55.479417-05:00",
+ "updated": "2026-11-13T06:18:28.794983-05:00",
  "days": {
   "2026-11-06": [
    {
@@ -1024,6 +1024,20 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "PPTA",
+    "name": "Perpetua Resources Corp.",
+    "date": "2026-11-16",
+    "time": "2026-11-16T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": -0.89,
+    "epsReported": null,
+    "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-17": [
@@ -1226,20 +1240,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "WSM",
-    "name": "Williams-Sonoma, Inc.",
-    "date": "2026-11-18",
-    "time": "2026-11-18T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 1.87,
-    "epsReported": null,
-    "revExpected": 1996725530.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "WWD",
     "name": "Woodward, Inc.",
     "date": "2026-11-18",
@@ -1377,6 +1377,20 @@
     "epsExpected": 0.4,
     "epsReported": null,
     "revExpected": 1188881000.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "WSM",
+    "name": "Williams-Sonoma, Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 1.87,
+    "epsReported": null,
+    "revExpected": 1996725530.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2549,6 +2563,13 @@
   "OXY": true
  },
  "saved": [
+  {
+   "symbol": "WSM",
+   "date": "2026-11-18",
+   "revExpected": 1996725530.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.87
+  },
   {
    "symbol": "PBLS",
    "date": "2026-11-12",
