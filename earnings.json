@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:26:36.422965-05:00",
+ "updated": "2026-11-12T22:01:52.089616-05:00",
  "days": {
   "2026-11-05": [
    {
@@ -955,6 +955,20 @@
   ],
   "2026-11-12": [
    {
+    "symbol": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T16:05:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 1.33,
+    "epsReported": 1.4,
+    "revExpected": 18115769170.0,
+    "revReported": 18517000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "AMAT",
     "name": "Applied Materials, Inc.",
     "date": "2026-11-12",
@@ -967,20 +981,6 @@
     "revReported": 10409000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "CBRS",
-    "name": "Cerebras Systems Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.14,
-    "epsReported": null,
-    "revExpected": 214702940.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    },
    {
     "symbol": "TTEK",
@@ -1000,11 +1000,11 @@
     "symbol": "DDS",
     "name": "Dillard's, Inc.",
     "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
+    "time": "2026-11-12T16:39:04-05:00",
     "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 6.2,
-    "epsReported": null,
+    "period": "",
+    "epsExpected": 8.05,
+    "epsReported": 8.38,
     "revExpected": 1478781620.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -1051,6 +1051,20 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "HTFL",
+    "name": "Heartflow, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T16:02:46-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": -0.1,
+    "epsReported": -0.03,
+    "revExpected": 65195110.0,
+    "revReported": 72860000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "PBLS",
@@ -1151,22 +1165,7 @@
     "revRepSrc": "finnhub"
    }
   ],
-  "2026-11-13": [
-   {
-    "symbol": "ALM",
-    "name": "Almonty Industries Inc.",
-    "date": "2026-11-13",
-    "time": "2026-11-13T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.04,
-    "epsReported": null,
-    "revExpected": 70010510.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   }
-  ],
+  "2026-11-13": [],
   "2026-11-16": [
    {
     "symbol": "TSN",
@@ -2761,18 +2760,25 @@
  },
  "saved": [
   {
+   "symbol": "CBRS",
+   "date": "2026-11-12",
+   "revExpected": 214702940.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.14
+  },
+  {
+   "symbol": "ALM",
+   "date": "2026-11-13",
+   "revExpected": 70010510.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.04
+  },
+  {
    "symbol": "BRK-B",
    "date": "2026-11-07",
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": 6.14
-  },
-  {
-   "symbol": "CSCO",
-   "date": "2026-11-12",
-   "revExpected": 18115769170.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.33
   },
   {
    "symbol": "QXO",
@@ -2794,13 +2800,6 @@
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.13
-  },
-  {
-   "symbol": "HTFL",
-   "date": "2026-11-12",
-   "revExpected": 65195110.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.1
   },
   {
    "symbol": "LFTO",
