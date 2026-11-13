@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:05:58.065771-05:00",
+ "updated": "2026-11-13T17:57:55.527361-05:00",
  "days": {
   "2026-11-06": [
    {
@@ -215,14 +215,14 @@
   ],
   "2026-11-07": [
    {
-    "symbol": "BRK-B",
+    "symbol": "BRK-A",
     "name": "Berkshire Hathaway Inc.",
     "date": "2026-11-07",
     "time": "2026-11-07T08:00:00-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 6.14,
-    "epsReported": 5.94,
+    "epsExpected": 9092.32,
+    "epsReported": 8907.21,
     "revExpected": 0.0,
     "revReported": 117593000000.0,
     "revExpSrc": "yahoo",
@@ -1260,7 +1260,7 @@
     "time": "2026-11-18T16:00:00-05:00",
     "session": "amc",
     "period": "Q4 2026",
-    "epsExpected": -1.18,
+    "epsExpected": -0.91,
     "epsReported": null,
     "revExpected": 1393000000.0,
     "revReported": null,
@@ -1402,7 +1402,7 @@
     "time": "2026-11-19T08:30:00-05:00",
     "session": "bmo",
     "period": "Q4 2026",
-    "epsExpected": 0.42,
+    "epsExpected": 0.43,
     "epsReported": null,
     "revExpected": 1903871060.0,
     "revReported": null,
@@ -1444,7 +1444,7 @@
     "time": "2026-11-19T08:30:00-05:00",
     "session": "bmo",
     "period": "Q4 2026",
-    "epsExpected": 1.04,
+    "epsExpected": 1.03,
     "epsReported": null,
     "revExpected": 1090926080.0,
     "revReported": null,
@@ -2551,11 +2551,11 @@
  },
  "saved": [
   {
-   "symbol": "BRK-A",
+   "symbol": "BRK-B",
    "date": "2026-11-07",
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 9092.32
+   "epsExpected": 6.14
   },
   {
    "symbol": "HTFL",
