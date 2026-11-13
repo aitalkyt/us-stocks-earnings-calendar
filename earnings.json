@@ -1,218 +1,6 @@
 {
- "updated": "2026-11-12T22:01:52.089616-05:00",
+ "updated": "2026-11-13T00:15:45.206841-05:00",
  "days": {
-  "2026-11-05": [
-   {
-    "symbol": "COP",
-    "name": "ConocoPhillips",
-    "date": "2026-11-05",
-    "time": "2026-11-05T07:13:17-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 3.05,
-    "epsReported": 3.27,
-    "revExpected": 18939142100.0,
-    "revReported": 19435000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "PH",
-    "name": "Parker-Hannifin Corporation",
-    "date": "2026-11-05",
-    "time": "2026-11-05T07:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 8.17,
-    "epsReported": 8.9,
-    "revExpected": 5770359340.0,
-    "revReported": 5992000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "NET",
-    "name": "Cloudflare, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T16:18:21-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.34,
-    "epsReported": 0.38,
-    "revExpected": 738090880.0,
-    "revReported": 782513000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "SO",
-    "name": "The Southern Company",
-    "date": "2026-11-05",
-    "time": "2026-11-05T07:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.71,
-    "epsReported": 1.94,
-    "revExpected": 8409643389.0,
-    "revReported": 8843000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "ABNB",
-    "name": "Airbnb, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T16:02:09-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 2.85,
-    "epsReported": 3.16,
-    "revExpected": 4749395380.0,
-    "revReported": 4869000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "DUK",
-    "name": "Duke Energy Corporation",
-    "date": "2026-11-05",
-    "time": "2026-11-05T06:01:39-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.86,
-    "epsReported": 1.99,
-    "revExpected": 8972658180.0,
-    "revReported": 9104000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "MNST",
-    "name": "Monster Beverage Corporation",
-    "date": "2026-11-05",
-    "time": "2026-11-05T16:10:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.3,
-    "epsReported": 0.29,
-    "revExpected": 2494247190.0,
-    "revReported": 2563053000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "EOG",
-    "name": "EOG Resources, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T16:18:27-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 4.45,
-    "epsReported": 4.87,
-    "revExpected": 7179346520.0,
-    "revReported": 8181000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "CI",
-    "name": "The Cigna Group",
-    "date": "2026-11-05",
-    "time": "2026-11-05T06:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 7.51,
-    "epsReported": 7.98,
-    "revExpected": 72449250090.0,
-    "revReported": 73396000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "WBD",
-    "name": "Warner Bros. Discovery, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.01,
-    "epsReported": null,
-    "revExpected": 8708430780.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "SPG",
-    "name": "Simon Property Group, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T16:08:24-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 1.62,
-    "epsReported": 1.94,
-    "revExpected": 1657827540.0,
-    "revReported": 1814556000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "APD",
-    "name": "Air Products and Chemicals, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T06:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 3.61,
-    "epsReported": 3.61,
-    "revExpected": 3336777660.0,
-    "revReported": 3555600000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "KMB",
-    "name": "Kimberly-Clark Corporation",
-    "date": "2026-11-05",
-    "time": "2026-11-05T06:33:39-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.66,
-    "epsReported": 1.7,
-    "revExpected": 4126142360.0,
-    "revReported": 4134000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "CAH",
-    "name": "Cardinal Health, Inc.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T06:45:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 2.94,
-    "epsReported": 3.26,
-    "revExpected": 66511244980.0,
-    "revReported": 67513000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "TRGP",
-    "name": "Targa Resources Corp.",
-    "date": "2026-11-05",
-    "time": "2026-11-05T15:13:58-05:00",
-    "session": "dmh",
-    "period": "",
-    "epsExpected": 2.86,
-    "epsReported": 2.96,
-    "revExpected": 4767630270.0,
-    "revReported": 5598600000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   }
-  ],
   "2026-11-06": [
    {
     "symbol": "MRNA",
@@ -2148,7 +1936,8 @@
     "revRepSrc": null
    }
   ],
-  "2026-11-26": []
+  "2026-11-26": [],
+  "2026-11-27": []
  },
  "companies": {
   "PG": true,
@@ -2730,7 +2519,8 @@
   "SA": false,
   "PPTA": true,
   "LUNR": true,
-  "SPB": true
+  "SPB": true,
+  "CHA": false
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -2759,6 +2549,111 @@
   "OXY": true
  },
  "saved": [
+  {
+   "symbol": "COP",
+   "date": "2026-11-05",
+   "revExpected": 18939142100.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 3.05
+  },
+  {
+   "symbol": "PH",
+   "date": "2026-11-05",
+   "revExpected": 5770359340.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 8.17
+  },
+  {
+   "symbol": "NET",
+   "date": "2026-11-05",
+   "revExpected": 738090880.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.34
+  },
+  {
+   "symbol": "SO",
+   "date": "2026-11-05",
+   "revExpected": 8409643389.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.71
+  },
+  {
+   "symbol": "ABNB",
+   "date": "2026-11-05",
+   "revExpected": 4749395380.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.85
+  },
+  {
+   "symbol": "DUK",
+   "date": "2026-11-05",
+   "revExpected": 8972658180.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.86
+  },
+  {
+   "symbol": "MNST",
+   "date": "2026-11-05",
+   "revExpected": 2494247190.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.3
+  },
+  {
+   "symbol": "EOG",
+   "date": "2026-11-05",
+   "revExpected": 7179346520.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.45
+  },
+  {
+   "symbol": "CI",
+   "date": "2026-11-05",
+   "revExpected": 72449250090.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 7.51
+  },
+  {
+   "symbol": "WBD",
+   "date": "2026-11-05",
+   "revExpected": 8708430780.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.01
+  },
+  {
+   "symbol": "SPG",
+   "date": "2026-11-05",
+   "revExpected": 1657827540.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.62
+  },
+  {
+   "symbol": "APD",
+   "date": "2026-11-05",
+   "revExpected": 3336777660.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 3.61
+  },
+  {
+   "symbol": "KMB",
+   "date": "2026-11-05",
+   "revExpected": 4126142360.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.66
+  },
+  {
+   "symbol": "CAH",
+   "date": "2026-11-05",
+   "revExpected": 66511244980.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.94
+  },
+  {
+   "symbol": "TRGP",
+   "date": "2026-11-05",
+   "revExpected": 4767630270.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.86
+  },
   {
    "symbol": "CBRS",
    "date": "2026-11-12",
@@ -3201,111 +3096,6 @@
    "epsExpected": -0.62
   },
   {
-   "symbol": "AAPL",
-   "date": "2026-11-02",
-   "revExpected": 113322287400.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.99
-  },
-  {
-   "symbol": "PLTR",
-   "date": "2026-11-02",
-   "revExpected": 2180834970.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.41
-  },
-  {
-   "symbol": "VRTX",
-   "date": "2026-11-02",
-   "revExpected": 3430593450.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 4.78
-  },
-  {
-   "symbol": "MAR",
-   "date": "2026-11-02",
-   "revExpected": 6921534890.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.85
-  },
-  {
-   "symbol": "WMB",
-   "date": "2026-11-02",
-   "revExpected": 2928536080.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.54
-  },
-  {
-   "symbol": "O",
-   "date": "2026-11-02",
-   "revExpected": 1446629000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.43
-  },
-  {
-   "symbol": "IDXX",
-   "date": "2026-11-02",
-   "revExpected": 1192387000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 3.71
-  },
-  {
-   "symbol": "LITE",
-   "date": "2026-11-02",
-   "revExpected": 1253198040.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 4.22
-  },
-  {
-   "symbol": "ETR",
-   "date": "2026-11-02",
-   "revExpected": 4148281240.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.7
-  },
-  {
-   "symbol": "FANG",
-   "date": "2026-11-02",
-   "revExpected": 4910768430.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 5.6
-  },
-  {
-   "symbol": "EL",
-   "date": "2026-11-02",
-   "revExpected": 3653379830.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.51
-  },
-  {
-   "symbol": "FOXA",
-   "date": "2026-11-02",
-   "revExpected": 4291563420.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.02
-  },
-  {
-   "symbol": "PEG",
-   "date": "2026-11-02",
-   "revExpected": 3252595920.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.19
-  },
-  {
-   "symbol": "ON",
-   "date": "2026-11-02",
-   "revExpected": 1704593090.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.88
-  },
-  {
-   "symbol": "ROKU",
-   "date": "2026-11-02",
-   "revExpected": 1412268430.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.55
-  },
-  {
    "symbol": "PSKY",
    "date": "2026-11-09",
    "revExpected": 7029279600.0,
@@ -3530,46 +3320,11 @@
    "epsExpected": 3.32
   },
   {
-   "symbol": "NBIX",
-   "date": "2026-11-02",
-   "revExpected": 1043717210.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.75
-  },
-  {
-   "symbol": "DOC",
-   "date": "2026-11-02",
-   "revExpected": 759284940.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.03
-  },
-  {
-   "symbol": "EQH",
-   "date": "2026-11-02",
-   "revExpected": 3956657190.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.86
-  },
-  {
    "symbol": "ONDS",
    "date": "2026-11-12",
    "revExpected": 148039400.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.09
-  },
-  {
-   "symbol": "SBAC",
-   "date": "2026-11-02",
-   "revExpected": 725334720.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.1
-  },
-  {
-   "symbol": "L",
-   "date": "2026-11-02",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": null
   },
   {
    "symbol": "LITE",
