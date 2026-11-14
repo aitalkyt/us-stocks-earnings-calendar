@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:56:27.752020-05:00",
+ "updated": "2026-11-14T11:55:15.119096-05:00",
  "days": {
   "2026-11-07": [
    {
@@ -699,6 +699,20 @@
     "revRepSrc": "yahoo"
    },
    {
+    "symbol": "OCTV",
+    "name": "Octave Intelligence plc",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:07:37-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.31,
+    "epsReported": 0.32,
+    "revExpected": 404220200.0,
+    "revReported": 415322000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "FIGR",
     "name": "Figure Technology Solutions, Inc.",
     "date": "2026-11-12",
@@ -725,20 +739,6 @@
     "revReported": 1241793000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "ERAS",
-    "name": "Erasca, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:01:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": -0.13,
-    "epsReported": -0.15,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    }
   ],
   "2026-11-13": [
@@ -2354,6 +2354,13 @@
  },
  "saved": [
   {
+   "symbol": "ERAS",
+   "date": "2026-11-12",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.13
+  },
+  {
    "symbol": "MRNA",
    "date": "2026-11-06",
    "revExpected": 891309430.0,
@@ -2667,13 +2674,6 @@
    "revExpected": 9869920860.0,
    "revExpSrc": "yahoo",
    "epsExpected": 8.28
-  },
-  {
-   "symbol": "OCTV",
-   "date": "2026-11-12",
-   "revExpected": 404220200.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.3
   },
   {
    "symbol": "SSMR",
