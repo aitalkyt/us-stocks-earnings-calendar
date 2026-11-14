@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:21:13.729780-05:00",
+ "updated": "2026-11-13T22:02:23.409145-05:00",
  "days": {
   "2026-11-06": [
    {
@@ -498,7 +498,7 @@
     "revExpected": 3540875520.0,
     "revReported": 3661000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BMNR",
@@ -827,6 +827,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:03:24-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.38,
+    "epsReported": 0.4,
+    "revExpected": 475062440.0,
+    "revReported": 478000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "TWST",
     "name": "Twist Bioscience Corporation",
     "date": "2026-11-12",
@@ -855,20 +869,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T07:03:24-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.38,
-    "epsReported": 0.4,
-    "revExpected": 475062440.0,
-    "revReported": 478000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "ARWR",
     "name": "Arrowhead Pharmaceuticals, Inc.",
     "date": "2026-11-12",
@@ -892,9 +892,9 @@
     "epsExpected": -0.77,
     "epsReported": -0.75,
     "revExpected": 0.0,
-    "revReported": null,
+    "revReported": 0.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FPS",
@@ -908,7 +908,7 @@
     "revExpected": 460786950.0,
     "revReported": 478566000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FIGR",
@@ -953,7 +953,22 @@
     "revRepSrc": null
    }
   ],
-  "2026-11-13": [],
+  "2026-11-13": [
+   {
+    "symbol": "PPTA",
+    "name": "Perpetua Resources Corp.",
+    "date": "2026-11-13",
+    "time": "2026-11-13T17:29:30-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": -0.89,
+    "epsReported": -0.56,
+    "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   }
+  ],
   "2026-11-16": [
    {
     "symbol": "TSN",
