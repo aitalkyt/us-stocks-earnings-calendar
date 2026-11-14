@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:57:55.527361-05:00",
+ "updated": "2026-11-13T20:21:13.729780-05:00",
  "days": {
   "2026-11-06": [
    {
@@ -696,7 +696,7 @@
     "revExpected": 1767904850.0,
     "revReported": 2458000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ENS",
@@ -708,9 +708,9 @@
     "epsExpected": 3.18,
     "epsReported": 3.22,
     "revExpected": 966605000.0,
-    "revReported": 949900000.0,
+    "revReported": 949902000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "RUM",
@@ -917,7 +917,7 @@
     "time": "2026-11-12T06:45:00-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 0.43,
+    "epsExpected": 0.37,
     "epsReported": 0.49,
     "revExpected": 254531330.0,
     "revReported": 287122000.0,
