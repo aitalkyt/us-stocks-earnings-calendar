@@ -1,22 +1,6 @@
 {
- "updated": "2026-11-14T22:01:56.076345-05:00",
+ "updated": "2026-11-15T00:09:46.616746-05:00",
  "days": {
-  "2026-11-07": [
-   {
-    "symbol": "BRK-A",
-    "name": "Berkshire Hathaway Inc.",
-    "date": "2026-11-07",
-    "time": "2026-11-07T08:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 9092.32,
-    "epsReported": 8907.21,
-    "revExpected": 0.0,
-    "revReported": 117593000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   }
-  ],
   "2026-11-08": [
    {
     "symbol": "RDNT",
@@ -2354,6 +2338,13 @@
  },
  "saved": [
   {
+   "symbol": "BRK-A",
+   "date": "2026-11-07",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 9092.32
+  },
+  {
    "symbol": "ERAS",
    "date": "2026-11-12",
    "revExpected": 0.0,
@@ -2704,111 +2695,6 @@
    "epsExpected": 35.39
   },
   {
-   "symbol": "MCD",
-   "date": "2026-11-04",
-   "revExpected": 7285066270.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 3.38
-  },
-  {
-   "symbol": "QCOM",
-   "date": "2026-11-04",
-   "revExpected": 10141930290.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.16
-  },
-  {
-   "symbol": "UBER",
-   "date": "2026-11-04",
-   "revExpected": 14674998290.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.9
-  },
-  {
-   "symbol": "APP",
-   "date": "2026-11-04",
-   "revExpected": 2074086950.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 4.03
-  },
-  {
-   "symbol": "MCK",
-   "date": "2026-11-04",
-   "revExpected": 109954441430.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 10.75
-  },
-  {
-   "symbol": "CVS",
-   "date": "2026-11-04",
-   "revExpected": 104804240210.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.65
-  },
-  {
-   "symbol": "EMR",
-   "date": "2026-11-04",
-   "revExpected": 5117957300.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.85
-  },
-  {
-   "symbol": "MSI",
-   "date": "2026-11-04",
-   "revExpected": 3278500000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 4.43
-  },
-  {
-   "symbol": "GWW",
-   "date": "2026-11-04",
-   "revExpected": 5075421530.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 11.66
-  },
-  {
-   "symbol": "COR",
-   "date": "2026-11-04",
-   "revExpected": 87911826330.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 4.57
-  },
-  {
-   "symbol": "DDOG",
-   "date": "2026-11-04",
-   "revExpected": 1145540090.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.64
-  },
-  {
-   "symbol": "ALL",
-   "date": "2026-11-04",
-   "revExpected": 17458908860.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 6.96
-  },
-  {
-   "symbol": "MET",
-   "date": "2026-11-04",
-   "revExpected": 19970701130.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.77
-  },
-  {
-   "symbol": "AFL",
-   "date": "2026-11-04",
-   "revExpected": 4207000000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.8
-  },
-  {
-   "symbol": "EW",
-   "date": "2026-11-04",
-   "revExpected": 1676789060.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.74
-  },
-  {
    "symbol": "TTEK",
    "date": "2026-11-11",
    "revExpected": 1150748330.0,
@@ -3052,20 +2938,6 @@
    "revExpected": 1240600510.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.52
-  },
-  {
-   "symbol": "VMRK",
-   "date": "2026-11-04",
-   "revExpected": 1331279130.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.2
-  },
-  {
-   "symbol": "COHR",
-   "date": "2026-11-04",
-   "revExpected": 2304472920.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.97
   },
   {
    "symbol": "MMED",
