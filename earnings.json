@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:37:08.628193-05:00",
+ "updated": "2026-11-16T10:23:31.180060-05:00",
  "days": {
   "2026-11-09": [
    {
@@ -185,31 +185,31 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ONTO",
-    "name": "Onto Innovation Inc.",
+    "symbol": "AMG",
+    "name": "Affiliated Managers Group, Inc.",
     "date": "2026-11-09",
-    "time": "2026-11-09T16:05:00-05:00",
-    "session": "amc",
+    "time": "2026-11-09T06:59:00-05:00",
+    "session": "bmo",
     "period": "",
-    "epsExpected": 2.3,
-    "epsReported": 2.44,
-    "revExpected": 392041370.0,
-    "revReported": 409748000.0,
+    "epsExpected": 8.79,
+    "epsReported": 9.5,
+    "revExpected": 655079810.0,
+    "revReported": 595200000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "ASTS",
-    "name": "AST SpaceMobile, Inc.",
+    "symbol": "TGTX",
+    "name": "TG Therapeutics, Inc.",
     "date": "2026-11-09",
-    "time": "2026-11-09T16:30:00-05:00",
-    "session": "amc",
+    "time": "2026-11-09T07:04:06-05:00",
+    "session": "bmo",
     "period": "",
-    "epsExpected": -0.45,
-    "epsReported": -0.44,
-    "revExpected": 46003120.0,
-    "revReported": 42321000.0,
-    "revExpSrc": "yahoo",
+    "epsExpected": 0.26,
+    "epsReported": 0.35,
+    "revExpected": null,
+    "revReported": 259936000.0,
+    "revExpSrc": null,
     "revRepSrc": "yahoo"
    }
   ],
@@ -397,20 +397,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "RGTI",
-    "name": "Rigetti Computing, Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:06:44-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": -0.05,
-    "epsReported": -0.06,
-    "revExpected": 3675950.0,
-    "revReported": 1411000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "REZI",
     "name": "Resideo Technologies, Inc.",
     "date": "2026-11-10",
@@ -421,6 +407,20 @@
     "epsReported": 0.52,
     "revExpected": 714000000.0,
     "revReported": 727000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "RGTI",
+    "name": "Rigetti Computing, Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T16:06:44-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": -0.05,
+    "epsReported": -0.06,
+    "revExpected": 3675950.0,
+    "revReported": 1411000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    }
@@ -479,20 +479,6 @@
     "epsReported": -0.18,
     "revExpected": 88670000.0,
     "revReported": 96578000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "DGII",
-    "name": "Digi International Inc.",
-    "date": "2026-11-11",
-    "time": "2026-11-11T16:07:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.76,
-    "epsReported": 0.78,
-    "revExpected": 140266800.0,
-    "revReported": 143319000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    }
@@ -583,6 +569,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:03:24-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.38,
+    "epsReported": 0.4,
+    "revExpected": 475062440.0,
+    "revReported": 478000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "TWST",
     "name": "Twist Bioscience Corporation",
     "date": "2026-11-12",
@@ -611,18 +611,18 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
+    "symbol": "BLTE",
+    "name": "Belite Bio, Inc",
     "date": "2026-11-12",
-    "time": "2026-11-12T07:03:24-05:00",
+    "time": "2026-11-12T06:05:21-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 0.38,
-    "epsReported": 0.4,
-    "revExpected": 475062440.0,
-    "revReported": 478000000.0,
+    "epsExpected": -0.77,
+    "epsReported": -0.75,
+    "revExpected": 0.0,
+    "revReported": 0.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ARWR",
@@ -637,20 +637,6 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
-   },
-   {
-    "symbol": "BLTE",
-    "name": "Belite Bio, Inc",
-    "date": "2026-11-12",
-    "time": "2026-11-12T06:05:21-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": -0.77,
-    "epsReported": -0.75,
-    "revExpected": 0.0,
-    "revReported": 0.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FPS",
@@ -730,29 +716,29 @@
     "symbol": "TSN",
     "name": "Tyson Foods, Inc.",
     "date": "2026-11-16",
-    "time": "2026-11-16T08:30:00-05:00",
+    "time": "2026-11-16T07:41:53-05:00",
     "session": "bmo",
-    "period": "Q4 2026",
-    "epsExpected": 0.6,
-    "epsReported": null,
+    "period": "",
+    "epsExpected": 0.61,
+    "epsReported": 0.61,
     "revExpected": 14096286810.0,
-    "revReported": null,
+    "revReported": 14585000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "ARMK",
     "name": "Aramark",
     "date": "2026-11-16",
-    "time": "2026-11-16T08:30:00-05:00",
+    "time": "2026-11-16T06:30:00-05:00",
     "session": "bmo",
-    "period": "Q4 2026",
+    "period": "",
     "epsExpected": 0.75,
-    "epsReported": null,
+    "epsReported": 0.71,
     "revExpected": 5291126200.0,
-    "revReported": null,
+    "revReported": 5293210000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "FRHC",
@@ -792,20 +778,6 @@
     "epsExpected": 1.56,
     "epsReported": null,
     "revExpected": 331394800.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "PPTA",
-    "name": "Perpetua Resources Corp.",
-    "date": "2026-11-16",
-    "time": "2026-11-16T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": -0.89,
-    "epsReported": null,
-    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -920,20 +892,6 @@
     "epsExpected": 0.33,
     "epsReported": null,
     "revExpected": 187626670.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MFP",
-    "name": "Midera Food Processing, Inc.",
-    "date": "2026-11-17",
-    "time": "2026-11-17T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.51,
-    "epsReported": null,
-    "revExpected": 219940000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2339,6 +2297,41 @@
  },
  "saved": [
   {
+   "symbol": "ONTO",
+   "date": "2026-11-09",
+   "revExpected": 392041370.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.3
+  },
+  {
+   "symbol": "ASTS",
+   "date": "2026-11-09",
+   "revExpected": 46003120.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.45
+  },
+  {
+   "symbol": "DGII",
+   "date": "2026-11-11",
+   "revExpected": 140266800.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.76
+  },
+  {
+   "symbol": "PPTA",
+   "date": "2026-11-16",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.89
+  },
+  {
+   "symbol": "MFP",
+   "date": "2026-11-17",
+   "revExpected": 219940000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.51
+  },
+  {
    "symbol": "RDNT",
    "date": "2026-11-08",
    "revExpected": 639207170.0,
@@ -2610,13 +2603,6 @@
    "revExpected": 268068400.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.72
-  },
-  {
-   "symbol": "AMG",
-   "date": "2026-11-09",
-   "revExpected": 655079810.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 8.79
   },
   {
    "symbol": "BMNR",
