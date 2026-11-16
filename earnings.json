@@ -1,22 +1,6 @@
 {
- "updated": "2026-11-15T22:14:49.137824-05:00",
+ "updated": "2026-11-16T00:42:25.993964-05:00",
  "days": {
-  "2026-11-08": [
-   {
-    "symbol": "RDNT",
-    "name": "RadNet, Inc.",
-    "date": "2026-11-08",
-    "time": "2026-11-08T16:01:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.22,
-    "epsReported": 0.3,
-    "revExpected": 639207170.0,
-    "revReported": 638257000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   }
-  ],
   "2026-11-09": [
    {
     "symbol": "CEG",
@@ -689,7 +673,7 @@
     "time": "2026-11-12T07:07:37-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 0.31,
+    "epsExpected": 0.3,
     "epsReported": 0.32,
     "revExpected": 404220200.0,
     "revReported": 415322000.0,
@@ -1724,7 +1708,23 @@
    }
   ],
   "2026-11-26": [],
-  "2026-11-27": []
+  "2026-11-27": [],
+  "2026-11-30": [
+   {
+    "symbol": "RBRK",
+    "name": "Rubrik, Inc.",
+    "date": "2026-11-30",
+    "time": "2026-11-30T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2027",
+    "epsExpected": 0.08,
+    "epsReported": null,
+    "revExpected": 430191250.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   }
+  ]
  },
  "companies": {
   "PG": true,
@@ -2308,7 +2308,8 @@
   "LUNR": true,
   "SPB": true,
   "CHA": false,
-  "ASND": false
+  "ASND": false,
+  "RBRK": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -2337,6 +2338,13 @@
   "OXY": true
  },
  "saved": [
+  {
+   "symbol": "RDNT",
+   "date": "2026-11-08",
+   "revExpected": 639207170.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.22
+  },
   {
    "symbol": "BRK-A",
    "date": "2026-11-07",
@@ -2506,111 +2514,6 @@
    "epsExpected": -0.89
   },
   {
-   "symbol": "COP",
-   "date": "2026-11-05",
-   "revExpected": 18939142100.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 3.05
-  },
-  {
-   "symbol": "PH",
-   "date": "2026-11-05",
-   "revExpected": 5770359340.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 8.17
-  },
-  {
-   "symbol": "NET",
-   "date": "2026-11-05",
-   "revExpected": 738090880.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.34
-  },
-  {
-   "symbol": "SO",
-   "date": "2026-11-05",
-   "revExpected": 8409643389.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.71
-  },
-  {
-   "symbol": "ABNB",
-   "date": "2026-11-05",
-   "revExpected": 4749395380.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.85
-  },
-  {
-   "symbol": "DUK",
-   "date": "2026-11-05",
-   "revExpected": 8972658180.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.86
-  },
-  {
-   "symbol": "MNST",
-   "date": "2026-11-05",
-   "revExpected": 2494247190.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.3
-  },
-  {
-   "symbol": "EOG",
-   "date": "2026-11-05",
-   "revExpected": 7179346520.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 4.45
-  },
-  {
-   "symbol": "CI",
-   "date": "2026-11-05",
-   "revExpected": 72449250090.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 7.51
-  },
-  {
-   "symbol": "WBD",
-   "date": "2026-11-05",
-   "revExpected": 8708430780.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.01
-  },
-  {
-   "symbol": "SPG",
-   "date": "2026-11-05",
-   "revExpected": 1657827540.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.62
-  },
-  {
-   "symbol": "APD",
-   "date": "2026-11-05",
-   "revExpected": 3336777660.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 3.61
-  },
-  {
-   "symbol": "KMB",
-   "date": "2026-11-05",
-   "revExpected": 4126142360.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.66
-  },
-  {
-   "symbol": "CAH",
-   "date": "2026-11-05",
-   "revExpected": 66511244980.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.94
-  },
-  {
-   "symbol": "TRGP",
-   "date": "2026-11-05",
-   "revExpected": 4767630270.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.86
-  },
-  {
    "symbol": "ALM",
    "date": "2026-11-13",
    "revExpected": 70010510.0,
@@ -2658,13 +2561,6 @@
    "revExpected": 1122050000.0,
    "revExpSrc": "yahoo",
    "epsExpected": 2.68
-  },
-  {
-   "symbol": "CMI",
-   "date": "2026-11-05",
-   "revExpected": 9869920860.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 8.28
   },
   {
    "symbol": "SSMR",
@@ -2884,62 +2780,6 @@
    "epsExpected": -0.45
   },
   {
-   "symbol": "NTRA",
-   "date": "2026-11-05",
-   "revExpected": 707500890.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.28
-  },
-  {
-   "symbol": "DVN",
-   "date": "2026-11-05",
-   "revExpected": 6853351270.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.31
-  },
-  {
-   "symbol": "ED",
-   "date": "2026-11-05",
-   "revExpected": 4762790450.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.03
-  },
-  {
-   "symbol": "LYV",
-   "date": "2026-11-05",
-   "revExpected": 9582790360.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.5
-  },
-  {
-   "symbol": "MCHP",
-   "date": "2026-11-05",
-   "revExpected": 1608985570.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.94
-  },
-  {
-   "symbol": "AXON",
-   "date": "2026-11-05",
-   "revExpected": 934334700.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.89
-  },
-  {
-   "symbol": "AEE",
-   "date": "2026-11-05",
-   "revExpected": 2834397660.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.29
-  },
-  {
-   "symbol": "FWONK",
-   "date": "2026-11-05",
-   "revExpected": 1240600510.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.52
-  },
-  {
    "symbol": "MMED",
    "date": "2026-11-16",
    "revExpected": 824436050.0,
@@ -2959,13 +2799,6 @@
    "revExpected": 148039400.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.09
-  },
-  {
-   "symbol": "LITE",
-   "date": "2026-11-05",
-   "revExpected": 1253198040.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 4.22
   },
   {
    "symbol": "NN",
