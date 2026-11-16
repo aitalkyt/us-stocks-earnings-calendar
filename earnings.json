@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:03:31.183044-05:00",
+ "updated": "2026-11-16T18:00:59.783157-05:00",
  "days": {
   "2026-11-09": [
    {
@@ -648,9 +648,9 @@
     "epsExpected": -1.5,
     "epsReported": -1.52,
     "revExpected": 60438090.0,
-    "revReported": null,
+    "revReported": 37794000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "OCTV",
@@ -753,34 +753,6 @@
     "revReported": 5293209000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "ACM",
-    "name": "AECOM",
-    "date": "2026-11-16",
-    "time": "2026-11-16T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 1.59,
-    "epsReported": null,
-    "revExpected": 4098003760.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "POWL",
-    "name": "Powell Industries, Inc.",
-    "date": "2026-11-16",
-    "time": "2026-11-16T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 1.56,
-    "epsReported": null,
-    "revExpected": 331394800.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    }
   ],
   "2026-11-17": [
@@ -1435,6 +1407,20 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "CENT",
+    "name": "Central Garden & Pet Company",
+    "date": "2026-11-23",
+    "time": "2026-11-23T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": -0.06,
+    "epsReported": null,
+    "revExpected": 607300000.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-24": [
@@ -1665,7 +1651,7 @@
     "revRepSrc": null
    },
    {
-    "symbol": "CENT",
+    "symbol": "CENTA",
     "name": "Central Garden & Pet Company",
     "date": "2026-11-25",
     "time": "2026-11-25T16:00:00-05:00",
@@ -2281,7 +2267,8 @@
   "SPB": true,
   "CHA": false,
   "ASND": false,
-  "RBRK": true
+  "RBRK": true,
+  "CENTA": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -2310,6 +2297,27 @@
   "OXY": true
  },
  "saved": [
+  {
+   "symbol": "ACM",
+   "date": "2026-11-16",
+   "revExpected": 4098003760.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.59
+  },
+  {
+   "symbol": "POWL",
+   "date": "2026-11-16",
+   "revExpected": 331394800.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.56
+  },
+  {
+   "symbol": "CENT",
+   "date": "2026-11-25",
+   "revExpected": 607300000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -0.06
+  },
   {
    "symbol": "FRHC",
    "date": "2026-11-16",
