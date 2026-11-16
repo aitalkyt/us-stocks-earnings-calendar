@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T12:29:22.270561-05:00",
+ "updated": "2026-11-16T14:14:49.055040-05:00",
  "days": {
   "2026-11-09": [
    {
@@ -369,20 +369,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "REZI",
-    "name": "Resideo Technologies, Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:12:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.4,
-    "epsReported": 0.52,
-    "revExpected": 714000000.0,
-    "revReported": 727000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "QBTS",
     "name": "D-Wave Quantum Inc.",
     "date": "2026-11-10",
@@ -395,6 +381,20 @@
     "revReported": 4513000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "REZI",
+    "name": "Resideo Technologies, Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T16:12:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.4,
+    "epsReported": 0.52,
+    "revExpected": 714000000.0,
+    "revReported": 727000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "LEGN",
