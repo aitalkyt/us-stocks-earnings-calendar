@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:23:31.180060-05:00",
+ "updated": "2026-11-16T12:29:22.270561-05:00",
  "days": {
   "2026-11-09": [
    {
@@ -185,6 +185,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "ONTO",
+    "name": "Onto Innovation Inc.",
+    "date": "2026-11-09",
+    "time": "2026-11-09T16:05:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 2.3,
+    "epsReported": 2.44,
+    "revExpected": 392041370.0,
+    "revReported": 409748000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
     "symbol": "AMG",
     "name": "Affiliated Managers Group, Inc.",
     "date": "2026-11-09",
@@ -196,20 +210,6 @@
     "revExpected": 655079810.0,
     "revReported": 595200000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "TGTX",
-    "name": "TG Therapeutics, Inc.",
-    "date": "2026-11-09",
-    "time": "2026-11-09T07:04:06-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.26,
-    "epsReported": 0.35,
-    "revExpected": null,
-    "revReported": 259936000.0,
-    "revExpSrc": null,
     "revRepSrc": "yahoo"
    }
   ],
@@ -369,6 +369,20 @@
     "revRepSrc": "yahoo"
    },
    {
+    "symbol": "REZI",
+    "name": "Resideo Technologies, Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T16:12:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.4,
+    "epsReported": 0.52,
+    "revExpected": 714000000.0,
+    "revReported": 727000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
     "symbol": "QBTS",
     "name": "D-Wave Quantum Inc.",
     "date": "2026-11-10",
@@ -393,20 +407,6 @@
     "epsReported": 0.28,
     "revExpected": 359911560.0,
     "revReported": 359500000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "REZI",
-    "name": "Resideo Technologies, Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:12:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.4,
-    "epsReported": 0.52,
-    "revExpected": 714000000.0,
-    "revReported": 727000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
@@ -467,6 +467,20 @@
     "revReported": 949902000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "DGII",
+    "name": "Digi International Inc.",
+    "date": "2026-11-11",
+    "time": "2026-11-11T16:07:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.76,
+    "epsReported": 0.78,
+    "revExpected": 140266800.0,
+    "revReported": 143319000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "RUM",
@@ -639,20 +653,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "FPS",
-    "name": "Forgent Power Solutions, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T06:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.2,
-    "epsReported": 0.24,
-    "revExpected": 460786950.0,
-    "revReported": 478566000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "OCTV",
     "name": "Octave Intelligence plc",
     "date": "2026-11-12",
@@ -679,6 +679,20 @@
     "revReported": 287122000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "FPS",
+    "name": "Forgent Power Solutions, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T06:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.2,
+    "epsReported": 0.24,
+    "revExpected": 460786950.0,
+    "revReported": 478566000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MWH",
@@ -739,20 +753,6 @@
     "revReported": 5293210000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "FRHC",
-    "name": "Freedom Holdings Corp.",
-    "date": "2026-11-16",
-    "time": "2026-11-16T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q2 2027",
-    "epsExpected": null,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    },
    {
     "symbol": "ACM",
@@ -1376,6 +1376,20 @@
     "epsExpected": 2.12,
     "epsReported": null,
     "revExpected": 3893501990.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "FRHC",
+    "name": "Freedom Holdings Corp.",
+    "date": "2026-11-23",
+    "time": "2026-11-23T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q2 2027",
+    "epsExpected": null,
+    "epsReported": null,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2297,11 +2311,11 @@
  },
  "saved": [
   {
-   "symbol": "ONTO",
-   "date": "2026-11-09",
-   "revExpected": 392041370.0,
+   "symbol": "FRHC",
+   "date": "2026-11-16",
+   "revExpected": 0.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 2.3
+   "epsExpected": null
   },
   {
    "symbol": "ASTS",
@@ -2309,13 +2323,6 @@
    "revExpected": 46003120.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.45
-  },
-  {
-   "symbol": "DGII",
-   "date": "2026-11-11",
-   "revExpected": 140266800.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.76
   },
   {
    "symbol": "PPTA",
