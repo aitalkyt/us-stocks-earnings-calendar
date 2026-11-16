@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T14:14:49.055040-05:00",
+ "updated": "2026-11-16T16:03:31.183044-05:00",
  "days": {
   "2026-11-09": [
    {
@@ -285,20 +285,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "MANE",
-    "name": "Veradermics, Incorporated",
-    "date": "2026-11-10",
-    "time": "2026-11-10T16:57:37-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": -0.62,
-    "epsReported": -0.5,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "SRRK",
     "name": "Scholar Rock Holding Corporation",
     "date": "2026-11-10",
@@ -311,6 +297,20 @@
     "revReported": 570000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "MANE",
+    "name": "Veradermics, Incorporated",
+    "date": "2026-11-10",
+    "time": "2026-11-10T16:57:37-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": -0.62,
+    "epsReported": -0.5,
+    "revExpected": 0.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "LQDA",
@@ -369,20 +369,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "QBTS",
-    "name": "D-Wave Quantum Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T07:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": -0.1,
-    "epsReported": -0.13,
-    "revExpected": 4337120.0,
-    "revReported": 4513000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "REZI",
     "name": "Resideo Technologies, Inc.",
     "date": "2026-11-10",
@@ -397,18 +383,18 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "LEGN",
-    "name": "Legend Biotech Corporation",
+    "symbol": "QBTS",
+    "name": "D-Wave Quantum Inc.",
     "date": "2026-11-10",
-    "time": "2026-11-10T07:11:37-05:00",
+    "time": "2026-11-10T07:00:00-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": 0.01,
-    "epsReported": 0.28,
-    "revExpected": 359911560.0,
-    "revReported": 359500000.0,
+    "epsExpected": -0.1,
+    "epsReported": -0.13,
+    "revExpected": 4337120.0,
+    "revReported": 4513000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "RGTI",
@@ -421,6 +407,20 @@
     "epsReported": -0.06,
     "revExpected": 3675950.0,
     "revReported": 1411000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "LEGN",
+    "name": "Legend Biotech Corporation",
+    "date": "2026-11-10",
+    "time": "2026-11-10T07:11:37-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.01,
+    "epsReported": 0.28,
+    "revExpected": 359911560.0,
+    "revReported": 359500000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    }
@@ -469,20 +469,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "DGII",
-    "name": "Digi International Inc.",
-    "date": "2026-11-11",
-    "time": "2026-11-11T16:07:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.76,
-    "epsReported": 0.78,
-    "revExpected": 140266800.0,
-    "revReported": 143319000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "RUM",
     "name": "RUM Group Inc.",
     "date": "2026-11-11",
@@ -493,6 +479,20 @@
     "epsReported": -0.18,
     "revExpected": 88670000.0,
     "revReported": 96578000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "DGII",
+    "name": "Digi International Inc.",
+    "date": "2026-11-11",
+    "time": "2026-11-11T16:07:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.76,
+    "epsReported": 0.78,
+    "revExpected": 140266800.0,
+    "revReported": 143319000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    }
@@ -536,7 +536,7 @@
     "epsExpected": -0.14,
     "epsReported": 0.12,
     "revExpected": 214702940.0,
-    "revReported": 230870000.0,
+    "revReported": 230873000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -550,9 +550,9 @@
     "epsExpected": 0.14,
     "epsReported": 0.13,
     "revExpected": 4825383730.0,
-    "revReported": null,
+    "revReported": 4895000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "TTEK",
@@ -578,9 +578,9 @@
     "epsExpected": 8.05,
     "epsReported": 8.38,
     "revExpected": 1478781620.0,
-    "revReported": null,
+    "revReported": 1503300000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "MBGL",
@@ -606,7 +606,7 @@
     "epsExpected": -0.2,
     "epsReported": -0.32,
     "revExpected": 123581720.0,
-    "revReported": 126640000.0,
+    "revReported": 126644000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -681,20 +681,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "FPS",
-    "name": "Forgent Power Solutions, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T06:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.2,
-    "epsReported": 0.24,
-    "revExpected": 460786950.0,
-    "revReported": 478566000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "MWH",
     "name": "SOLV Energy, Inc.",
     "date": "2026-11-12",
@@ -707,6 +693,20 @@
     "revReported": 1241793000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "FPS",
+    "name": "Forgent Power Solutions, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T06:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.2,
+    "epsReported": 0.24,
+    "revExpected": 460786950.0,
+    "revReported": 478566000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-11-13": [
@@ -736,7 +736,7 @@
     "epsExpected": 0.61,
     "epsReported": 0.61,
     "revExpected": 14096286810.0,
-    "revReported": 14585000000.0,
+    "revReported": 13536000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -750,7 +750,7 @@
     "epsExpected": 0.75,
     "epsReported": 0.71,
     "revExpected": 5291126200.0,
-    "revReported": 5293210000.0,
+    "revReported": 5293209000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -1097,20 +1097,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "WSM",
-    "name": "Williams-Sonoma, Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 1.87,
-    "epsReported": null,
-    "revExpected": 1996725530.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "CPRT",
     "name": "Copart, Inc.",
     "date": "2026-11-19",
@@ -1120,6 +1106,20 @@
     "epsExpected": 0.4,
     "epsReported": null,
     "revExpected": 1188881000.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "WSM",
+    "name": "Williams-Sonoma, Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 1.87,
+    "epsReported": null,
+    "revExpected": 1996725530.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1495,20 +1495,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "HPQ",
-    "name": "HP Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 0.75,
-    "epsReported": null,
-    "revExpected": 15301797640.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "DLTR",
     "name": "Dollar Tree, Inc.",
     "date": "2026-11-24",
@@ -1518,6 +1504,20 @@
     "epsExpected": 1.08,
     "epsReported": null,
     "revExpected": 5037752130.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "HPQ",
+    "name": "HP Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 0.75,
+    "epsReported": null,
+    "revExpected": 15301797640.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
