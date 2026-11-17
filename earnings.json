@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:06:44.199967-05:00",
+ "updated": "2026-11-17T18:08:45.097263-05:00",
  "days": {
   "2026-11-10": [
    {
@@ -559,20 +559,6 @@
   ],
   "2026-11-17": [
    {
-    "symbol": "NVDA",
-    "name": "NVIDIA Corporation",
-    "date": "2026-11-17",
-    "time": "2026-11-17T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 2.47,
-    "epsReported": null,
-    "revExpected": 108976833310.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "HD",
     "name": "The Home Depot, Inc.",
     "date": "2026-11-17",
@@ -599,20 +585,6 @@
     "revReported": 25947000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "DLB",
-    "name": "Dolby Laboratories, Inc.",
-    "date": "2026-11-17",
-    "time": "2026-11-17T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 1.2,
-    "epsReported": null,
-    "revExpected": 372759500.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    },
    {
     "symbol": "SR",
@@ -2227,6 +2199,20 @@
   "CBRS": true
  },
  "saved": [
+  {
+   "symbol": "NVDA",
+   "date": "2026-11-17",
+   "revExpected": 108976833310.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.47
+  },
+  {
+   "symbol": "DLB",
+   "date": "2026-11-17",
+   "revExpected": 372759500.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.2
+  },
   {
    "symbol": "BRC",
    "date": "2026-11-17",
