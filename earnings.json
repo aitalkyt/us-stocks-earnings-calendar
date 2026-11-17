@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:30:22.731491-05:00",
+ "updated": "2026-11-16T22:03:34.149626-05:00",
  "days": {
   "2026-11-09": [
    {
@@ -308,9 +308,9 @@
     "epsExpected": -0.62,
     "epsReported": -0.5,
     "revExpected": 0.0,
-    "revReported": null,
+    "revReported": 0.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "LQDA",
@@ -436,9 +436,9 @@
     "epsExpected": -0.52,
     "epsReported": -0.42,
     "revExpected": 918057450.0,
-    "revReported": 938000000.0,
+    "revReported": 2458000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "CTVA",
@@ -536,9 +536,9 @@
     "epsExpected": -0.14,
     "epsReported": 0.12,
     "revExpected": 214702940.0,
-    "revReported": 230873000.0,
+    "revReported": 210809000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "QXO",
@@ -552,7 +552,7 @@
     "revExpected": 4825383730.0,
     "revReported": 4895000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "TTEK",
@@ -664,7 +664,7 @@
     "revExpected": 404220200.0,
     "revReported": 415322000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FIGR",
@@ -692,7 +692,7 @@
     "revExpected": 1198276580.0,
     "revReported": 1241793000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "FPS",
@@ -753,6 +753,34 @@
     "revReported": 5293209000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "ACM",
+    "name": "AECOM",
+    "date": "2026-11-16",
+    "time": "2026-11-16T16:11:03-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 1.59,
+    "epsReported": 1.63,
+    "revExpected": 4098003760.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "POWL",
+    "name": "Powell Industries, Inc.",
+    "date": "2026-11-16",
+    "time": "2026-11-16T16:24:24-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 1.56,
+    "epsReported": 2.23,
+    "revExpected": 331394800.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-17": [
@@ -847,7 +875,7 @@
     "time": "2026-11-17T08:30:00-05:00",
     "session": "bmo",
     "period": "Q1 2027",
-    "epsExpected": 1.51,
+    "epsExpected": 1.44,
     "epsReported": null,
     "revExpected": 713756000.0,
     "revReported": null,
@@ -891,7 +919,7 @@
     "time": "2026-11-18T08:30:00-05:00",
     "session": "bmo",
     "period": "Q3 2027",
-    "epsExpected": 1.33,
+    "epsExpected": 1.34,
     "epsReported": null,
     "revExpected": 15876334550.0,
     "revReported": null,
@@ -1003,7 +1031,7 @@
     "time": "2026-11-18T16:00:00-05:00",
     "session": "amc",
     "period": "Q4 2026",
-    "epsExpected": 0.26,
+    "epsExpected": 0.23,
     "epsReported": null,
     "revExpected": 1075127590.0,
     "revReported": null,
@@ -1353,20 +1381,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "FRHC",
-    "name": "Freedom Holdings Corp.",
-    "date": "2026-11-23",
-    "time": "2026-11-23T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q2 2027",
-    "epsExpected": null,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "SMTC",
     "name": "Semtech Corporation",
     "date": "2026-11-23",
@@ -1431,7 +1445,7 @@
     "time": "2026-11-24T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2027",
-    "epsExpected": 6.55,
+    "epsExpected": 6.59,
     "epsReported": null,
     "revExpected": 49175023750.0,
     "revReported": null,
@@ -1501,7 +1515,7 @@
     "time": "2026-11-24T16:00:00-05:00",
     "session": "amc",
     "period": "Q4 2026",
-    "epsExpected": 0.75,
+    "epsExpected": 0.74,
     "epsReported": null,
     "revExpected": 15301797640.0,
     "revReported": null,
@@ -1646,20 +1660,6 @@
     "epsExpected": 4.06,
     "epsReported": null,
     "revExpected": 10354114330.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "CENTA",
-    "name": "Central Garden & Pet Company",
-    "date": "2026-11-25",
-    "time": "2026-11-25T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": -0.06,
-    "epsReported": null,
-    "revExpected": 607300000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2294,22 +2294,24 @@
   "BRK-A": true,
   "TTWO": true,
   "KKR": true,
-  "OXY": true
+  "OXY": true,
+  "VYLR": true,
+  "CBRS": true
  },
  "saved": [
   {
-   "symbol": "ACM",
-   "date": "2026-11-16",
-   "revExpected": 4098003760.0,
+   "symbol": "FRHC",
+   "date": "2026-11-23",
+   "revExpected": 0.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 1.59
+   "epsExpected": null
   },
   {
-   "symbol": "POWL",
-   "date": "2026-11-16",
-   "revExpected": 331394800.0,
+   "symbol": "CENTA",
+   "date": "2026-11-25",
+   "revExpected": 607300000.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 1.56
+   "epsExpected": -0.06
   },
   {
    "symbol": "CENT",
