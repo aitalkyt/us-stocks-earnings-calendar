@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:08:19.267964-05:00",
+ "updated": "2026-11-17T12:20:18.290120-05:00",
  "days": {
   "2026-11-10": [
    {
@@ -171,20 +171,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "QBTS",
-    "name": "D-Wave Quantum Inc.",
-    "date": "2026-11-10",
-    "time": "2026-11-10T07:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": -0.1,
-    "epsReported": -0.13,
-    "revExpected": 4337120.0,
-    "revReported": 4513000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "LEGN",
     "name": "Legend Biotech Corporation",
     "date": "2026-11-10",
@@ -197,6 +183,20 @@
     "revReported": 359500000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "QBTS",
+    "name": "D-Wave Quantum Inc.",
+    "date": "2026-11-10",
+    "time": "2026-11-10T07:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": -0.1,
+    "epsReported": -0.13,
+    "revExpected": 4337120.0,
+    "revReported": 4513000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "RGTI",
@@ -255,6 +255,20 @@
     "revReported": 949902000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "DGII",
+    "name": "Digi International Inc.",
+    "date": "2026-11-11",
+    "time": "2026-11-11T16:07:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.76,
+    "epsReported": 0.78,
+    "revExpected": 140266800.0,
+    "revReported": 143319000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-12": [
@@ -343,20 +357,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "MBGL",
-    "name": "Mobility Global, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T07:03:24-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.38,
-    "epsReported": 0.4,
-    "revExpected": 475062440.0,
-    "revReported": 478000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "TWST",
     "name": "Twist Bioscience Corporation",
     "date": "2026-11-12",
@@ -367,6 +367,20 @@
     "epsReported": -0.32,
     "revExpected": 123581720.0,
     "revReported": 126644000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "MBGL",
+    "name": "Mobility Global, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T07:03:24-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.38,
+    "epsReported": 0.4,
+    "revExpected": 475062440.0,
+    "revReported": 478000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -413,20 +427,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "FPS",
-    "name": "Forgent Power Solutions, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T06:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.2,
-    "epsReported": 0.24,
-    "revExpected": 460786950.0,
-    "revReported": 478566000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "FIGR",
     "name": "Figure Technology Solutions, Inc.",
     "date": "2026-11-12",
@@ -439,6 +439,20 @@
     "revReported": 287122000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "FPS",
+    "name": "Forgent Power Solutions, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T06:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.2,
+    "epsReported": 0.24,
+    "revExpected": 460786950.0,
+    "revReported": 478566000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MWH",
@@ -2233,13 +2247,6 @@
    "revExpected": 88670000.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.12
-  },
-  {
-   "symbol": "DGII",
-   "date": "2026-11-11",
-   "revExpected": 140266800.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.76
   },
   {
    "symbol": "CPRT",
