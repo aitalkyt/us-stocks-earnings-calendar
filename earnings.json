@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:08:59.592377-05:00",
+ "updated": "2026-11-18T18:05:51.655181-05:00",
  "days": {
   "2026-11-11": [
    {
@@ -461,20 +461,6 @@
   ],
   "2026-11-18": [
    {
-    "symbol": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "date": "2026-11-18",
-    "time": "2026-11-18T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q1 2027",
-    "epsExpected": 0.97,
-    "epsReported": null,
-    "revExpected": 3307502950.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "TJX",
     "name": "The TJX Companies, Inc.",
     "date": "2026-11-18",
@@ -517,34 +503,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "P",
-    "name": "Everpure, Inc.",
-    "date": "2026-11-18",
-    "time": "2026-11-18T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 0.78,
-    "epsReported": null,
-    "revExpected": 1330392850.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "WWD",
-    "name": "Woodward, Inc.",
-    "date": "2026-11-18",
-    "time": "2026-11-18T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 2.52,
-    "epsReported": null,
-    "revExpected": 1142602490.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "UGI",
     "name": "UGI Corporation",
     "date": "2026-11-18",
@@ -559,20 +517,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "SNEX",
-    "name": "StoneX Group Inc.",
-    "date": "2026-11-18",
-    "time": "2026-11-18T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 0.92,
-    "epsReported": null,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "NJR",
     "name": "New Jersey Resources Corporation",
     "date": "2026-11-18",
@@ -582,20 +526,6 @@
     "epsExpected": 0.13,
     "epsReported": null,
     "revExpected": 330166670.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "HP",
-    "name": "Helmerich & Payne, Inc.",
-    "date": "2026-11-18",
-    "time": "2026-11-18T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 0.23,
-    "epsReported": null,
-    "revExpected": 1075127590.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1359,20 +1289,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "AEO",
-    "name": "American Eagle Outfitters, Inc.",
-    "date": "2026-12-01",
-    "time": "2026-12-01T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.43,
-    "epsReported": null,
-    "revExpected": 1449802610.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "NCNO",
     "name": "nCino, Inc.",
     "date": "2026-12-01",
@@ -1524,6 +1440,20 @@
     "epsExpected": 2.54,
     "epsReported": null,
     "revExpected": 2260028250.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "AEO",
+    "name": "American Eagle Outfitters, Inc.",
+    "date": "2026-12-02",
+    "time": "2026-12-02T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2026",
+    "epsExpected": 0.43,
+    "epsReported": null,
+    "revExpected": 1449802610.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2172,6 +2102,48 @@
   "TSN": true
  },
  "saved": [
+  {
+   "symbol": "PANW",
+   "date": "2026-11-18",
+   "revExpected": 3307502950.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.97
+  },
+  {
+   "symbol": "P",
+   "date": "2026-11-18",
+   "revExpected": 1330392850.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.78
+  },
+  {
+   "symbol": "WWD",
+   "date": "2026-11-18",
+   "revExpected": 1142602490.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.52
+  },
+  {
+   "symbol": "SNEX",
+   "date": "2026-11-18",
+   "revExpected": 0.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.92
+  },
+  {
+   "symbol": "HP",
+   "date": "2026-11-18",
+   "revExpected": 1075127590.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.23
+  },
+  {
+   "symbol": "AEO",
+   "date": "2026-12-01",
+   "revExpected": 1449802610.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.43
+  },
   {
    "symbol": "MMS",
    "date": "2026-11-20",
