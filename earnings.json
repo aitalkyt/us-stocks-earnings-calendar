@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:19:36.629085-05:00",
+ "updated": "2026-11-18T06:17:25.317418-05:00",
  "days": {
   "2026-11-11": [
    {
@@ -427,6 +427,20 @@
     "epsReported": 1.61,
     "revExpected": 481788810.0,
     "revReported": 490890000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "GBDC",
+    "name": "Golub Capital BDC, Inc.",
+    "date": "2026-11-17",
+    "time": "2026-11-17T16:05:46-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.33,
+    "epsReported": 0.32,
+    "revExpected": 187626670.0,
+    "revReported": 186780000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    }
@@ -2241,13 +2255,6 @@
    "revExpected": 3675950.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.05
-  },
-  {
-   "symbol": "GBDC",
-   "date": "2026-11-17",
-   "revExpected": 187626670.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.33
   },
   {
    "symbol": "BRC",
