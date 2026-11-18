@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:08:45.097263-05:00",
+ "updated": "2026-11-17T20:33:48.584601-05:00",
  "days": {
   "2026-11-10": [
    {
@@ -510,9 +510,9 @@
     "epsExpected": 0.61,
     "epsReported": 0.61,
     "revExpected": 14096286810.0,
-    "revReported": 13536000000.0,
+    "revReported": 14585000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ARMK",
@@ -2196,7 +2196,8 @@
   "KKR": true,
   "OXY": true,
   "VYLR": true,
-  "CBRS": true
+  "CBRS": true,
+  "TSN": true
  },
  "saved": [
   {
