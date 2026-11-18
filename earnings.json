@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:13:32.323198-05:00",
+ "updated": "2026-11-18T12:20:47.099361-05:00",
  "days": {
   "2026-11-11": [
    {
@@ -173,20 +173,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "KOD",
-    "name": "Kodiak Sciences Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T16:00:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": -1.01,
-    "epsReported": -1.05,
-    "revExpected": 0.0,
-    "revReported": 0.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "BLTE",
     "name": "Belite Bio, Inc",
     "date": "2026-11-12",
@@ -195,6 +181,20 @@
     "period": "",
     "epsExpected": -0.77,
     "epsReported": -0.75,
+    "revExpected": 0.0,
+    "revReported": 0.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "KOD",
+    "name": "Kodiak Sciences Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T16:00:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": -1.01,
+    "epsReported": -1.05,
     "revExpected": 0.0,
     "revReported": 0.0,
     "revExpSrc": "yahoo",
@@ -441,6 +441,20 @@
     "epsReported": 0.32,
     "revExpected": 187626670.0,
     "revReported": 186780000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "MFP",
+    "name": "Midera Food Processing, Inc.",
+    "date": "2026-11-17",
+    "time": "2026-11-17T07:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.51,
+    "epsReported": 0.54,
+    "revExpected": 219940000.0,
+    "revReported": 228900000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    }
@@ -1029,20 +1043,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "HPQ",
-    "name": "HP Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 0.74,
-    "epsReported": null,
-    "revExpected": 15301797640.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "DLTR",
     "name": "Dollar Tree, Inc.",
     "date": "2026-11-24",
@@ -1052,6 +1052,20 @@
     "epsExpected": 1.08,
     "epsReported": null,
     "revExpected": 5037752130.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "HPQ",
+    "name": "HP Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 0.74,
+    "epsReported": null,
+    "revExpected": 15301797640.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1071,20 +1085,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "NTNX",
-    "name": "Nutanix, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q1 2027",
-    "epsExpected": 0.61,
-    "epsReported": null,
-    "revExpected": 762384590.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "BURL",
     "name": "Burlington Stores, Inc.",
     "date": "2026-11-24",
@@ -1094,6 +1094,20 @@
     "epsExpected": 1.64,
     "epsReported": null,
     "revExpected": 2990259730.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "NTNX",
+    "name": "Nutanix, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q1 2027",
+    "epsExpected": 0.61,
+    "epsReported": null,
+    "revExpected": 762384590.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2430,13 +2444,6 @@
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.89
-  },
-  {
-   "symbol": "MFP",
-   "date": "2026-11-17",
-   "revExpected": 219940000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.51
   },
   {
    "symbol": "RDNT",
