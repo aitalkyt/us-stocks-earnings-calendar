@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:30:45.271489-05:00",
+ "updated": "2026-11-18T22:07:02.037395-05:00",
  "days": {
   "2026-11-11": [
    {
@@ -72,7 +72,7 @@
     "revExpected": 18115769170.0,
     "revReported": 18517000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "AMAT",
@@ -126,9 +126,9 @@
     "epsExpected": 0.47,
     "epsReported": 0.49,
     "revExpected": 1150748330.0,
-    "revReported": null,
+    "revReported": 1337363000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "DDS",
@@ -326,9 +326,9 @@
     "epsExpected": 1.59,
     "epsReported": 1.63,
     "revExpected": 4098003760.0,
-    "revReported": null,
+    "revReported": 3878326000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "POWL",
@@ -340,9 +340,9 @@
     "epsExpected": 1.56,
     "epsReported": 2.23,
     "revExpected": 331394800.0,
-    "revReported": null,
+    "revReported": 396707000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-11-17": [
@@ -386,7 +386,7 @@
     "revExpected": 25154598640.0,
     "revReported": 25947000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "DLB",
@@ -398,9 +398,9 @@
     "epsExpected": 1.2,
     "epsReported": 1.25,
     "revExpected": 372759500.0,
-    "revReported": 373540000.0,
+    "revReported": 373536000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "SR",
@@ -412,9 +412,9 @@
     "epsExpected": -1.02,
     "epsReported": -0.99,
     "revExpected": 297060730.0,
-    "revReported": null,
+    "revReported": 339400000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "GFF",
@@ -440,9 +440,9 @@
     "epsExpected": 0.33,
     "epsReported": 0.32,
     "revExpected": 187626670.0,
-    "revReported": 186780000.0,
+    "revReported": 28277000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MFP",
@@ -460,6 +460,20 @@
    }
   ],
   "2026-11-18": [
+   {
+    "symbol": "PANW",
+    "name": "Palo Alto Networks, Inc.",
+    "date": "2026-11-18",
+    "time": "2026-11-18T16:37:04-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.97,
+    "epsReported": 1.05,
+    "revExpected": 3307502950.0,
+    "revReported": 3445000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
    {
     "symbol": "TJX",
     "name": "The TJX Companies, Inc.",
@@ -503,15 +517,57 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "UGI",
-    "name": "UGI Corporation",
+    "symbol": "P",
+    "name": "Everpure, Inc.",
+    "date": "2026-11-18",
+    "time": "2026-11-18T16:06:52-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.78,
+    "epsReported": 0.86,
+    "revExpected": 1330392850.0,
+    "revReported": 1459790000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "WWD",
+    "name": "Woodward, Inc.",
     "date": "2026-11-18",
     "time": "2026-11-18T16:00:00-05:00",
     "session": "amc",
-    "period": "Q4 2026",
+    "period": "",
+    "epsExpected": 2.52,
+    "epsReported": 2.83,
+    "revExpected": 1142602490.0,
+    "revReported": 1160200000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "UGI",
+    "name": "UGI Corporation",
+    "date": "2026-11-18",
+    "time": "2026-11-18T18:00:00-05:00",
+    "session": "amc",
+    "period": "",
     "epsExpected": -0.91,
-    "epsReported": null,
+    "epsReported": -0.17,
     "revExpected": 1393000000.0,
+    "revReported": 1157000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "SNEX",
+    "name": "StoneX Group Inc.",
+    "date": "2026-11-18",
+    "time": "2026-11-18T16:25:37-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.92,
+    "epsReported": 0.68,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -520,12 +576,26 @@
     "symbol": "NJR",
     "name": "New Jersey Resources Corporation",
     "date": "2026-11-18",
-    "time": "2026-11-18T16:00:00-05:00",
+    "time": "2026-11-18T17:07:34-05:00",
     "session": "amc",
-    "period": "Q4 2026",
+    "period": "",
     "epsExpected": 0.13,
-    "epsReported": null,
+    "epsReported": 0.11,
     "revExpected": 330166670.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "HP",
+    "name": "Helmerich & Payne, Inc.",
+    "date": "2026-11-18",
+    "time": "2026-11-18T16:15:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.23,
+    "epsReported": 0.36,
+    "revExpected": 1075127590.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2099,7 +2169,9 @@
   "OXY": true,
   "VYLR": true,
   "CBRS": true,
-  "TSN": true
+  "TSN": true,
+  "ACM": true,
+  "GBDC": true
  },
  "saved": [
   {
@@ -2108,41 +2180,6 @@
    "revExpected": 1122050000.0,
    "revExpSrc": "yahoo",
    "epsExpected": null
-  },
-  {
-   "symbol": "PANW",
-   "date": "2026-11-18",
-   "revExpected": 3307502950.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.97
-  },
-  {
-   "symbol": "P",
-   "date": "2026-11-18",
-   "revExpected": 1330392850.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.78
-  },
-  {
-   "symbol": "WWD",
-   "date": "2026-11-18",
-   "revExpected": 1142602490.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.52
-  },
-  {
-   "symbol": "SNEX",
-   "date": "2026-11-18",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.92
-  },
-  {
-   "symbol": "HP",
-   "date": "2026-11-18",
-   "revExpected": 1075127590.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.23
   },
   {
    "symbol": "AEO",
