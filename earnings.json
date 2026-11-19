@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:34:52.407262-05:00",
+ "updated": "2026-11-19T10:14:41.407480-05:00",
  "days": {
   "2026-11-12": [
    {
@@ -501,20 +501,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "SNEX",
-    "name": "StoneX Group Inc.",
-    "date": "2026-11-18",
-    "time": "2026-11-18T16:25:37-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.92,
-    "epsReported": 0.68,
-    "revExpected": 0.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "NJR",
     "name": "New Jersey Resources Corporation",
     "date": "2026-11-18",
@@ -524,6 +510,20 @@
     "epsExpected": 0.13,
     "epsReported": 0.11,
     "revExpected": 330166670.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "SNEX",
+    "name": "StoneX Group Inc.",
+    "date": "2026-11-18",
+    "time": "2026-11-18T16:25:37-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.92,
+    "epsReported": 0.68,
+    "revExpected": 0.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -548,15 +548,15 @@
     "symbol": "WMT",
     "name": "Walmart Inc.",
     "date": "2026-11-19",
-    "time": "2026-11-19T08:30:00-05:00",
+    "time": "2026-11-19T06:58:52-05:00",
     "session": "bmo",
-    "period": "Q3 2027",
+    "period": "",
     "epsExpected": 0.64,
-    "epsReported": null,
+    "epsReported": 0.65,
     "revExpected": 187191825390.0,
-    "revReported": null,
+    "revReported": 188835000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "INTU",
@@ -604,11 +604,11 @@
     "symbol": "WSM",
     "name": "Williams-Sonoma, Inc.",
     "date": "2026-11-19",
-    "time": "2026-11-19T08:30:00-05:00",
+    "time": "2026-11-19T08:00:00-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 1.87,
-    "epsReported": null,
+    "period": "",
+    "epsExpected": 2.21,
+    "epsReported": 2.38,
     "revExpected": 1996725530.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -618,15 +618,15 @@
     "symbol": "WMG",
     "name": "Warner Music Group Corp.",
     "date": "2026-11-19",
-    "time": "2026-11-19T08:30:00-05:00",
+    "time": "2026-11-19T07:30:00-05:00",
     "session": "bmo",
-    "period": "Q4 2026",
+    "period": "",
     "epsExpected": 0.43,
-    "epsReported": null,
+    "epsReported": 0.55,
     "revExpected": 1903871060.0,
-    "revReported": null,
+    "revReported": 2001000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "GAP",
@@ -657,42 +657,42 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ROAD",
-    "name": "Construction Partners, Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q4 2026",
-    "epsExpected": 1.03,
-    "epsReported": null,
-    "revExpected": 1090926080.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "VVV",
     "name": "Valvoline Inc.",
     "date": "2026-11-19",
-    "time": "2026-11-19T08:30:00-05:00",
+    "time": "2026-11-19T07:00:00-05:00",
     "session": "bmo",
-    "period": "Q4 2026",
+    "period": "",
     "epsExpected": 0.42,
-    "epsReported": null,
+    "epsReported": 0.42,
     "revExpected": 568265250.0,
-    "revReported": null,
+    "revReported": 554100000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "ROAD",
+    "name": "Construction Partners, Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T07:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.03,
+    "epsReported": 1.01,
+    "revExpected": 1090926080.0,
+    "revReported": 1096030000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "BBWI",
     "name": "Bath & Body Works, Inc.",
     "date": "2026-11-19",
-    "time": "2026-11-19T08:30:00-05:00",
+    "time": "2026-11-19T06:55:00-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.4,
-    "epsReported": null,
+    "period": "",
+    "epsExpected": 0.12,
+    "epsReported": 0.26,
     "revExpected": 1548268410.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -716,15 +716,15 @@
     "symbol": "MMS",
     "name": "Maximus, Inc.",
     "date": "2026-11-19",
-    "time": "2026-11-19T08:30:00-05:00",
+    "time": "2026-11-19T06:30:00-05:00",
     "session": "bmo",
-    "period": "Q4 2026",
+    "period": "",
     "epsExpected": 1.85,
-    "epsReported": null,
+    "epsReported": 2.11,
     "revExpected": 1296672500.0,
-    "revReported": null,
+    "revReported": 1300810000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "ATKR",
@@ -1387,20 +1387,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "DCI",
-    "name": "Donaldson Company, Inc.",
-    "date": "2026-12-02",
-    "time": "2026-12-02T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q1 2027",
-    "epsExpected": 0.97,
-    "epsReported": null,
-    "revExpected": 1015806200.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "NTSK",
     "name": "Netskope, Inc.",
     "date": "2026-12-02",
@@ -1410,6 +1396,20 @@
     "epsExpected": -0.03,
     "epsReported": null,
     "revExpected": 228297060.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "DCI",
+    "name": "Donaldson Company, Inc.",
+    "date": "2026-12-02",
+    "time": "2026-12-02T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": 0.97,
+    "epsReported": null,
+    "revExpected": 1015806200.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1438,20 +1438,6 @@
     "epsExpected": 0.42,
     "epsReported": null,
     "revExpected": 510431840.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "PVH",
-    "name": "PVH Corp.",
-    "date": "2026-12-02",
-    "time": "2026-12-02T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 2.54,
-    "epsReported": null,
-    "revExpected": 2260028250.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1543,20 +1529,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "BF-A",
-    "name": "Brown-Forman Corporation",
-    "date": "2026-12-03",
-    "time": "2026-12-03T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q2 2027",
-    "epsExpected": null,
-    "epsReported": null,
-    "revExpected": 1042173880.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "DOCU",
     "name": "DocuSign, Inc.",
     "date": "2026-12-03",
@@ -1566,6 +1538,20 @@
     "epsExpected": 1.18,
     "epsReported": null,
     "revExpected": 888814890.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "BF-A",
+    "name": "Brown-Forman Corporation",
+    "date": "2026-12-03",
+    "time": "2026-12-03T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q2 2027",
+    "epsExpected": null,
+    "epsReported": null,
+    "revExpected": 1042173880.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1655,20 +1641,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "SAIC",
-    "name": "Science Applications International Corporation",
-    "date": "2026-12-03",
-    "time": "2026-12-03T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2027",
-    "epsExpected": 2.35,
-    "epsReported": null,
-    "revExpected": 1817700000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "PATH",
     "name": "UiPath, Inc.",
     "date": "2026-12-03",
@@ -1678,6 +1650,20 @@
     "epsExpected": 0.19,
     "epsReported": null,
     "revExpected": 443019490.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "SAIC",
+    "name": "Science Applications International Corporation",
+    "date": "2026-12-03",
+    "time": "2026-12-03T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2027",
+    "epsExpected": 2.35,
+    "epsReported": null,
+    "revExpected": 1817700000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2345,6 +2331,13 @@
   "GBDC": true
  },
  "saved": [
+  {
+   "symbol": "PVH",
+   "date": "2026-12-02",
+   "revExpected": 2260028250.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.54
+  },
   {
    "symbol": "VYLR",
    "date": "2026-11-11",
