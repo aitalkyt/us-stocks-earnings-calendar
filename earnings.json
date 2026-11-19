@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:06:01.098334-05:00",
+ "updated": "2026-11-19T18:01:43.534465-05:00",
  "days": {
   "2026-11-12": [
    {
@@ -544,43 +544,15 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "INTU",
-    "name": "Intuit Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q1 2027",
-    "epsExpected": 2.64,
-    "epsReported": null,
-    "revExpected": 4306921550.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "ROST",
     "name": "Ross Stores, Inc.",
     "date": "2026-11-19",
-    "time": "2026-11-19T16:00:00-05:00",
+    "time": "2026-11-19T16:01:00-05:00",
     "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 1.42,
-    "epsReported": null,
+    "period": "",
+    "epsExpected": 1.87,
+    "epsReported": 1.91,
     "revExpected": 6217163720.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "KEYS",
-    "name": "Keysight Technologies, Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 3.38,
-    "epsReported": null,
-    "revExpected": 1949522980.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -612,34 +584,6 @@
     "revReported": 2001000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "GAP",
-    "name": "The Gap, Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.59,
-    "epsReported": null,
-    "revExpected": 4009247110.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "ESE",
-    "name": "ESCO Technologies Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 2.6,
-    "epsReported": null,
-    "revExpected": 375604600.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    },
    {
     "symbol": "VVV",
@@ -684,20 +628,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "POST",
-    "name": "Post Holdings, Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 1.77,
-    "epsReported": null,
-    "revExpected": 1999948330.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MMS",
     "name": "Maximus, Inc.",
     "date": "2026-11-19",
@@ -721,20 +651,6 @@
     "epsExpected": 1.73,
     "epsReported": null,
     "revExpected": 783784320.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "BULL",
-    "name": "Webull Corporation",
-    "date": "2026-11-19",
-    "time": "2026-11-19T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2026",
-    "epsExpected": 0.07,
-    "epsReported": null,
-    "revExpected": 215588670.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2316,6 +2232,48 @@
   "GBDC": true
  },
  "saved": [
+  {
+   "symbol": "INTU",
+   "date": "2026-11-19",
+   "revExpected": 4306921550.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.64
+  },
+  {
+   "symbol": "KEYS",
+   "date": "2026-11-19",
+   "revExpected": 1949522980.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 3.38
+  },
+  {
+   "symbol": "GAP",
+   "date": "2026-11-19",
+   "revExpected": 4009247110.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.59
+  },
+  {
+   "symbol": "ESE",
+   "date": "2026-11-19",
+   "revExpected": 375604600.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.6
+  },
+  {
+   "symbol": "POST",
+   "date": "2026-11-19",
+   "revExpected": 1999948330.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.77
+  },
+  {
+   "symbol": "BULL",
+   "date": "2026-11-19",
+   "revExpected": 215588670.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.07
+  },
   {
    "symbol": "MOG-A",
    "date": "2026-11-20",
