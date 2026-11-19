@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:19:26.549816-05:00",
+ "updated": "2026-11-19T14:16:26.840137-05:00",
  "days": {
   "2026-11-12": [
    {
@@ -157,20 +157,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "FIGR",
-    "name": "Figure Technology Solutions, Inc.",
-    "date": "2026-11-12",
-    "time": "2026-11-12T06:45:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.37,
-    "epsReported": 0.49,
-    "revExpected": 254531330.0,
-    "revReported": 288342000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "FPS",
     "name": "Forgent Power Solutions, Inc.",
     "date": "2026-11-12",
@@ -181,6 +167,20 @@
     "epsReported": 0.24,
     "revExpected": 460786950.0,
     "revReported": 478566000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "FIGR",
+    "name": "Figure Technology Solutions, Inc.",
+    "date": "2026-11-12",
+    "time": "2026-11-12T06:45:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.37,
+    "epsReported": 0.49,
+    "revExpected": 254531330.0,
+    "revReported": 288342000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
    },
@@ -1514,20 +1514,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "DOCU",
-    "name": "DocuSign, Inc.",
-    "date": "2026-12-03",
-    "time": "2026-12-03T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 1.18,
-    "epsReported": null,
-    "revExpected": 888814890.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "BF-A",
     "name": "Brown-Forman Corporation",
     "date": "2026-12-03",
@@ -1537,6 +1523,20 @@
     "epsExpected": null,
     "epsReported": null,
     "revExpected": 1042173880.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "DOCU",
+    "name": "DocuSign, Inc.",
+    "date": "2026-12-03",
+    "time": "2026-12-03T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2027",
+    "epsExpected": 1.18,
+    "epsReported": null,
+    "revExpected": 888814890.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1626,20 +1626,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "PATH",
-    "name": "UiPath, Inc.",
-    "date": "2026-12-03",
-    "time": "2026-12-03T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 0.19,
-    "epsReported": null,
-    "revExpected": 443019490.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "SAIC",
     "name": "Science Applications International Corporation",
     "date": "2026-12-03",
@@ -1649,6 +1635,20 @@
     "epsExpected": 2.35,
     "epsReported": null,
     "revExpected": 1817700000.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "PATH",
+    "name": "UiPath, Inc.",
+    "date": "2026-12-03",
+    "time": "2026-12-03T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2027",
+    "epsExpected": 0.19,
+    "epsReported": null,
+    "revExpected": 443019490.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
