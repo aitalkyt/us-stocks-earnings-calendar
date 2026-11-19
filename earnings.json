@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:05:51.655181-05:00",
+ "updated": "2026-11-18T20:30:45.271489-05:00",
  "days": {
   "2026-11-11": [
    {
@@ -173,20 +173,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "BLTE",
-    "name": "Belite Bio, Inc",
-    "date": "2026-11-12",
-    "time": "2026-11-12T06:05:21-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": -0.77,
-    "epsReported": -0.75,
-    "revExpected": 0.0,
-    "revReported": 0.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "KOD",
     "name": "Kodiak Sciences Inc.",
     "date": "2026-11-12",
@@ -195,6 +181,20 @@
     "period": "",
     "epsExpected": -1.01,
     "epsReported": -1.05,
+    "revExpected": 0.0,
+    "revReported": 0.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "BLTE",
+    "name": "Belite Bio, Inc",
+    "date": "2026-11-12",
+    "time": "2026-11-12T06:05:21-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": -0.77,
+    "epsReported": -0.75,
     "revExpected": 0.0,
     "revReported": 0.0,
     "revExpSrc": "yahoo",
@@ -759,13 +759,13 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MOG-B",
+    "symbol": "MOG-A",
     "name": "Moog Inc.",
     "date": "2026-11-20",
     "time": "2026-11-20T08:30:00-05:00",
     "session": "bmo",
     "period": "Q4 2026",
-    "epsExpected": null,
+    "epsExpected": 2.68,
     "epsReported": null,
     "revExpected": 1122050000.0,
     "revReported": null,
@@ -1015,20 +1015,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "BURL",
-    "name": "Burlington Stores, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 1.64,
-    "epsReported": null,
-    "revExpected": 2990259730.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "NTNX",
     "name": "Nutanix, Inc.",
     "date": "2026-11-24",
@@ -1038,6 +1024,20 @@
     "epsExpected": 0.61,
     "epsReported": null,
     "revExpected": 762384590.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "BURL",
+    "name": "Burlington Stores, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 1.64,
+    "epsReported": null,
+    "revExpected": 2990259730.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1191,20 +1191,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "NTAP",
-    "name": "NetApp, Inc.",
-    "date": "2026-12-01",
-    "time": "2026-12-01T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q2 2027",
-    "epsExpected": 2.6,
-    "epsReported": null,
-    "revExpected": 2106108910.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "OKTA",
     "name": "Okta, Inc.",
     "date": "2026-12-01",
@@ -1214,6 +1200,20 @@
     "epsExpected": 0.93,
     "epsReported": null,
     "revExpected": 816171110.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "NTAP",
+    "name": "NetApp, Inc.",
+    "date": "2026-12-01",
+    "time": "2026-12-01T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q2 2027",
+    "epsExpected": 2.6,
+    "epsReported": null,
+    "revExpected": 2106108910.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2103,6 +2103,13 @@
  },
  "saved": [
   {
+   "symbol": "MOG-B",
+   "date": "2026-11-20",
+   "revExpected": 1122050000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": null
+  },
+  {
    "symbol": "PANW",
    "date": "2026-11-18",
    "revExpected": 3307502950.0,
@@ -2521,13 +2528,6 @@
    "revExpected": 3436440520.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.16
-  },
-  {
-   "symbol": "MOG-A",
-   "date": "2026-11-20",
-   "revExpected": 1122050000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.68
   },
   {
    "symbol": "SSMR",
