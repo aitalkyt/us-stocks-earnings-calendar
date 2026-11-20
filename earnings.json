@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:18:02.136013-05:00",
+ "updated": "2026-11-20T02:35:06.721902-05:00",
  "days": {
   "2026-11-13": [],
   "2026-11-16": [
@@ -472,6 +472,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "POST",
+    "name": "Post Holdings, Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T16:18:25-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 1.77,
+    "epsReported": 1.84,
+    "revExpected": 1999948330.0,
+    "revReported": 1954500000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "MMS",
     "name": "Maximus, Inc.",
     "date": "2026-11-19",
@@ -495,6 +509,20 @@
     "epsExpected": 1.73,
     "epsReported": null,
     "revExpected": 783784320.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "BULL",
+    "name": "Webull Corporation",
+    "date": "2026-11-19",
+    "time": "2026-11-19T16:30:37-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.07,
+    "epsReported": 0.11,
+    "revExpected": 215588670.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2181,20 +2209,6 @@
    "revExpected": 1198276580.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.56
-  },
-  {
-   "symbol": "POST",
-   "date": "2026-11-19",
-   "revExpected": 1999948330.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.77
-  },
-  {
-   "symbol": "BULL",
-   "date": "2026-11-19",
-   "revExpected": 215588670.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.07
   },
   {
    "symbol": "MOG-A",
