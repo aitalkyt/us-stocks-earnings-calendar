@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:19:03.343969-05:00",
+ "updated": "2026-11-20T16:04:00.328285-05:00",
  "days": {
   "2026-11-13": [],
   "2026-11-16": [
@@ -158,20 +158,6 @@
     "revReported": 28277000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "MFP",
-    "name": "Midera Food Processing, Inc.",
-    "date": "2026-11-17",
-    "time": "2026-11-17T07:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.51,
-    "epsReported": 0.54,
-    "revExpected": 219940000.0,
-    "revReported": 228900000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-18": [
@@ -848,7 +834,7 @@
     "time": "2026-11-24T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2027",
-    "epsExpected": 1.52,
+    "epsExpected": 1.53,
     "epsReported": null,
     "revExpected": 1665793510.0,
     "revReported": null,
@@ -2091,6 +2077,13 @@
   "GBDC": true
  },
  "saved": [
+  {
+   "symbol": "MFP",
+   "date": "2026-11-17",
+   "revExpected": 219940000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.51
+  },
   {
    "symbol": "MOG-B",
    "date": "2026-11-20",
