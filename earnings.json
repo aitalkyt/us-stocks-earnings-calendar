@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:12:13.916074-05:00",
+ "updated": "2026-11-20T12:14:34.905523-05:00",
  "days": {
   "2026-11-13": [],
   "2026-11-16": [
@@ -539,6 +539,20 @@
     "epsExpected": 1.26,
     "epsReported": 1.74,
     "revExpected": 5932073000.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MOG-A",
+    "name": "Moog Inc.",
+    "date": "2026-11-20",
+    "time": "2026-11-20T07:55:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 2.68,
+    "epsReported": 3.37,
+    "revExpected": 1122050000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1316,20 +1330,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "COO",
-    "name": "The Cooper Companies, Inc.",
-    "date": "2026-12-03",
-    "time": "2026-12-03T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 1.07,
-    "epsReported": null,
-    "revExpected": 1067935900.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "GWRE",
     "name": "Guidewire Software, Inc.",
     "date": "2026-12-03",
@@ -1339,6 +1339,20 @@
     "epsExpected": 0.72,
     "epsReported": null,
     "revExpected": 376242050.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "COO",
+    "name": "The Cooper Companies, Inc.",
+    "date": "2026-12-03",
+    "time": "2026-12-03T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 1.07,
+    "epsReported": null,
+    "revExpected": 1067935900.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1358,20 +1372,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "VSXY",
-    "name": "Victoria's Secret & Co.",
-    "date": "2026-12-03",
-    "time": "2026-12-03T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.59,
-    "epsReported": null,
-    "revExpected": 1606189350.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "TTAN",
     "name": "ServiceTitan, Inc.",
     "date": "2026-12-03",
@@ -1381,6 +1381,20 @@
     "epsExpected": 0.26,
     "epsReported": null,
     "revExpected": 286548370.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "VSXY",
+    "name": "Victoria's Secret & Co.",
+    "date": "2026-12-03",
+    "time": "2026-12-03T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": -0.59,
+    "epsReported": null,
+    "revExpected": 1606189350.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2195,13 +2209,6 @@
    "revExpected": 1198276580.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.56
-  },
-  {
-   "symbol": "MOG-A",
-   "date": "2026-11-20",
-   "revExpected": 1122050000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.68
   },
   {
    "symbol": "PPTA",
