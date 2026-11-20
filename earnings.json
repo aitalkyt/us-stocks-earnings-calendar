@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:26:47.423607-05:00",
+ "updated": "2026-11-19T22:01:13.802338-05:00",
  "days": {
   "2026-11-12": [
    {
@@ -520,7 +520,7 @@
     "time": "2026-11-18T16:15:00-05:00",
     "session": "amc",
     "period": "",
-    "epsExpected": 0.23,
+    "epsExpected": 0.24,
     "epsReported": 0.36,
     "revExpected": 1075127590.0,
     "revReported": null,
@@ -544,6 +544,20 @@
     "revRepSrc": "finnhub"
    },
    {
+    "symbol": "INTU",
+    "name": "Intuit Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T16:00:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 2.64,
+    "epsReported": 2.91,
+    "revExpected": 4306921550.0,
+    "revReported": 4354000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "ROST",
     "name": "Ross Stores, Inc.",
     "date": "2026-11-19",
@@ -556,6 +570,20 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "KEYS",
+    "name": "Keysight Technologies, Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T16:09:24-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 3.38,
+    "epsReported": 3.61,
+    "revExpected": 1949522980.0,
+    "revReported": 1994000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "WSM",
@@ -582,6 +610,34 @@
     "epsReported": 0.55,
     "revExpected": 1903871060.0,
     "revReported": 2001000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "GAP",
+    "name": "The Gap, Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T16:17:14-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.78,
+    "epsReported": 0.82,
+    "revExpected": 4009247110.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ESE",
+    "name": "ESCO Technologies Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T16:15:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 2.6,
+    "epsReported": 2.67,
+    "revExpected": 375604600.0,
+    "revReported": 383990000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -836,7 +892,7 @@
     "time": "2026-11-24T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2027",
-    "epsExpected": 6.59,
+    "epsExpected": 6.55,
     "epsReported": null,
     "revExpected": 49175023750.0,
     "revReported": null,
@@ -1124,7 +1180,7 @@
     "time": "2026-12-01T16:00:00-05:00",
     "session": "amc",
     "period": "Q2 2027",
-    "epsExpected": 2.6,
+    "epsExpected": 2.61,
     "epsReported": null,
     "revExpected": 2106108910.0,
     "revReported": null,
@@ -2232,34 +2288,6 @@
   "GBDC": true
  },
  "saved": [
-  {
-   "symbol": "INTU",
-   "date": "2026-11-19",
-   "revExpected": 4306921550.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.64
-  },
-  {
-   "symbol": "KEYS",
-   "date": "2026-11-19",
-   "revExpected": 1949522980.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 3.38
-  },
-  {
-   "symbol": "GAP",
-   "date": "2026-11-19",
-   "revExpected": 4009247110.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.59
-  },
-  {
-   "symbol": "ESE",
-   "date": "2026-11-19",
-   "revExpected": 375604600.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.6
-  },
   {
    "symbol": "POST",
    "date": "2026-11-19",
