@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:11:15.357608-05:00",
+ "updated": "2026-11-21T02:28:36.221413-05:00",
  "days": {
   "2026-11-16": [
    {
@@ -426,7 +426,7 @@
     "revExpected": 568265250.0,
     "revReported": 554100000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ROAD",
@@ -468,7 +468,7 @@
     "revExpected": 1999948330.0,
     "revReported": 1954500000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "MMS",
