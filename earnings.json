@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:30:22.392120-05:00",
+ "updated": "2026-11-20T22:01:11.861052-05:00",
  "days": {
   "2026-11-13": [],
   "2026-11-16": [
@@ -257,7 +257,7 @@
     "revExpected": 1393000000.0,
     "revReported": 1157000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "NJR",
@@ -269,9 +269,9 @@
     "epsExpected": 0.13,
     "epsReported": 0.11,
     "revExpected": 330166670.0,
-    "revReported": null,
+    "revReported": 374365000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "SNEX",
@@ -481,9 +481,9 @@
     "epsExpected": 1.85,
     "epsReported": 2.11,
     "revExpected": 1296672500.0,
-    "revReported": 1300810000.0,
+    "revReported": 1300808000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ATKR",
