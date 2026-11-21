@@ -1,7 +1,6 @@
 {
- "updated": "2026-11-20T22:01:11.861052-05:00",
+ "updated": "2026-11-21T00:11:15.357608-05:00",
  "days": {
-  "2026-11-13": [],
   "2026-11-16": [
    {
     "symbol": "TSN",
@@ -173,7 +172,7 @@
     "revExpected": 3307502950.0,
     "revReported": 3445000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "TJX",
@@ -329,7 +328,7 @@
     "revExpected": 4306921550.0,
     "revReported": 4354000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "ROST",
@@ -385,7 +384,7 @@
     "revExpected": 1903871060.0,
     "revReported": 2001000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "GAP",
@@ -2260,104 +2259,6 @@
    "epsExpected": 1.85
   },
   {
-   "symbol": "TDG",
-   "date": "2026-11-10",
-   "revExpected": 2945467370.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 12.21
-  },
-  {
-   "symbol": "VG",
-   "date": "2026-11-10",
-   "revExpected": 4677165670.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.53
-  },
-  {
-   "symbol": "CRWV",
-   "date": "2026-11-10",
-   "revExpected": 3540875520.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -1.55
-  },
-  {
-   "symbol": "SLAB",
-   "date": "2026-11-10",
-   "revExpected": 242015690.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.85
-  },
-  {
-   "symbol": "SRRK",
-   "date": "2026-11-10",
-   "revExpected": 283670.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.84
-  },
-  {
-   "symbol": "MANE",
-   "date": "2026-11-10",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.62
-  },
-  {
-   "symbol": "LQDA",
-   "date": "2026-11-10",
-   "revExpected": 214149140.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.98
-  },
-  {
-   "symbol": "MRCY",
-   "date": "2026-11-10",
-   "revExpected": 245002330.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.3
-  },
-  {
-   "symbol": "ALH",
-   "date": "2026-11-10",
-   "revExpected": 460972670.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.32
-  },
-  {
-   "symbol": "FLY",
-   "date": "2026-11-10",
-   "revExpected": 103150620.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.5
-  },
-  {
-   "symbol": "REZI",
-   "date": "2026-11-10",
-   "revExpected": 714000000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.4
-  },
-  {
-   "symbol": "LEGN",
-   "date": "2026-11-10",
-   "revExpected": 359911560.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.01
-  },
-  {
-   "symbol": "QBTS",
-   "date": "2026-11-10",
-   "revExpected": 4337120.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.1
-  },
-  {
-   "symbol": "RGTI",
-   "date": "2026-11-10",
-   "revExpected": 3675950.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.05
-  },
-  {
    "symbol": "BRC",
    "date": "2026-11-17",
    "revExpected": 713756000.0,
@@ -2554,39 +2455,11 @@
    "epsExpected": 0.92
   },
   {
-   "symbol": "ATRO",
-   "date": "2026-11-10",
-   "revExpected": 268068400.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.72
-  },
-  {
    "symbol": "BMNR",
    "date": "2026-11-20",
    "revExpected": 59850000.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.2
-  },
-  {
-   "symbol": "NLST",
-   "date": "2026-11-10",
-   "revExpected": 308600000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.6
-  },
-  {
-   "symbol": "STUB",
-   "date": "2026-11-10",
-   "revExpected": 514555230.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.14
-  },
-  {
-   "symbol": "ALM",
-   "date": "2026-11-10",
-   "revExpected": 70010510.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.04
   },
   {
    "symbol": "GFF",
@@ -2603,46 +2476,11 @@
    "epsExpected": -0.62
   },
   {
-   "symbol": "IMNM",
-   "date": "2026-11-10",
-   "revExpected": 133330.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.6
-  },
-  {
    "symbol": "ORKA",
    "date": "2026-11-11",
    "revExpected": 0.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.62
-  },
-  {
-   "symbol": "ATROB",
-   "date": "2026-11-10",
-   "revExpected": 268068400.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": null
-  },
-  {
-   "symbol": "COAG",
-   "date": "2026-11-10",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.52
-  },
-  {
-   "symbol": "TNGX",
-   "date": "2026-11-10",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.35
-  },
-  {
-   "symbol": "ASST",
-   "date": "2026-11-10",
-   "revExpected": 3000250.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.15
   },
   {
    "symbol": "ELVN",
@@ -2671,20 +2509,6 @@
    "revExpected": 148039400.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.09
-  },
-  {
-   "symbol": "NN",
-   "date": "2026-11-10",
-   "revExpected": 986500.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.11
-  },
-  {
-   "symbol": "SONO",
-   "date": "2026-11-10",
-   "revExpected": 340328000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.05
   },
   {
    "symbol": "SLS",
