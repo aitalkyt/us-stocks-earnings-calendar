@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:03:40.659971-05:00",
+ "updated": "2026-11-22T00:13:24.350377-05:00",
  "days": {
   "2026-11-16": [
    {
@@ -2217,34 +2217,6 @@
    "epsExpected": 2.54
   },
   {
-   "symbol": "VYLR",
-   "date": "2026-11-11",
-   "revExpected": 918057450.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.52
-  },
-  {
-   "symbol": "CTVA",
-   "date": "2026-11-11",
-   "revExpected": 1767904850.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.1
-  },
-  {
-   "symbol": "ENS",
-   "date": "2026-11-11",
-   "revExpected": 966605000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 3.18
-  },
-  {
-   "symbol": "DGII",
-   "date": "2026-11-11",
-   "revExpected": 140266800.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.76
-  },
-  {
    "symbol": "AEO",
    "date": "2026-12-01",
    "revExpected": 1449802610.0,
@@ -2264,13 +2236,6 @@
    "revExpected": 713756000.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.44
-  },
-  {
-   "symbol": "RUM",
-   "date": "2026-11-11",
-   "revExpected": 88670000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.12
   },
   {
    "symbol": "CPRT",
@@ -2413,39 +2378,11 @@
    "epsExpected": -0.16
   },
   {
-   "symbol": "SSMR",
-   "date": "2026-11-11",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.07
-  },
-  {
-   "symbol": "BLTE",
-   "date": "2026-11-11",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.77
-  },
-  {
-   "symbol": "ERAS",
-   "date": "2026-11-11",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.13
-  },
-  {
    "symbol": "AZO",
    "date": "2026-11-21",
    "revExpected": 4948250640.0,
    "revExpSrc": "yahoo",
    "epsExpected": 35.39
-  },
-  {
-   "symbol": "TTEK",
-   "date": "2026-11-11",
-   "revExpected": 1150748330.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.47
   },
   {
    "symbol": "SNEX",
@@ -2476,20 +2413,6 @@
    "epsExpected": -0.62
   },
   {
-   "symbol": "ORKA",
-   "date": "2026-11-11",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.62
-  },
-  {
-   "symbol": "ELVN",
-   "date": "2026-11-11",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.45
-  },
-  {
    "symbol": "MMED",
    "date": "2026-11-16",
    "revExpected": 824436050.0,
@@ -2509,34 +2432,6 @@
    "revExpected": 148039400.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.09
-  },
-  {
-   "symbol": "SLS",
-   "date": "2026-11-11",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.05
-  },
-  {
-   "symbol": "AADX",
-   "date": "2026-11-11",
-   "revExpected": 170381500.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.12
-  },
-  {
-   "symbol": "CELC",
-   "date": "2026-11-11",
-   "revExpected": 1206600.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -1.51
-  },
-  {
-   "symbol": "PVLA",
-   "date": "2026-11-11",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -1.74
   }
  ]
 }
