@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T04:01:53.708594-05:00",
+ "updated": "2026-11-22T06:00:21.969222-05:00",
  "days": {
   "2026-11-16": [
    {
@@ -593,7 +593,7 @@
     "time": "2026-11-23T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2027",
-    "epsExpected": 1.49,
+    "epsExpected": 1.5,
     "epsReported": null,
     "revExpected": 1279065040.0,
     "revReported": null,
