@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:13:04.439702-05:00",
+ "updated": "2026-11-23T00:33:12.667264-05:00",
  "days": {
   "2026-11-16": [
    {
@@ -1413,7 +1413,23 @@
     "revRepSrc": null
    }
   ],
-  "2026-12-04": []
+  "2026-12-04": [],
+  "2026-12-07": [
+   {
+    "symbol": "TOL",
+    "name": "Toll Brothers, Inc.",
+    "date": "2026-12-07",
+    "time": "2026-12-07T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 4.87,
+    "epsReported": null,
+    "revExpected": 3517146600.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   }
+  ]
  },
  "companies": {
   "PG": true,
@@ -2042,7 +2058,8 @@
   "VSXY": true,
   "TTAN": true,
   "SAIC": true,
-  "PATH": true
+  "PATH": true,
+  "TOL": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -2096,111 +2113,6 @@
    "revExpected": 1148000000.0,
    "revExpSrc": "yahoo",
    "epsExpected": 2.81
-  },
-  {
-   "symbol": "CSCO",
-   "date": "2026-11-12",
-   "revExpected": 18115769170.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.33
-  },
-  {
-   "symbol": "AMAT",
-   "date": "2026-11-12",
-   "revExpected": 10299491080.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 4.05
-  },
-  {
-   "symbol": "CBRS",
-   "date": "2026-11-12",
-   "revExpected": 214702940.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.14
-  },
-  {
-   "symbol": "QXO",
-   "date": "2026-11-12",
-   "revExpected": 4825383730.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.14
-  },
-  {
-   "symbol": "TTEK",
-   "date": "2026-11-12",
-   "revExpected": 1150748330.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.47
-  },
-  {
-   "symbol": "DDS",
-   "date": "2026-11-12",
-   "revExpected": 1478781620.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 8.05
-  },
-  {
-   "symbol": "TWST",
-   "date": "2026-11-12",
-   "revExpected": 123581720.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.2
-  },
-  {
-   "symbol": "MBGL",
-   "date": "2026-11-12",
-   "revExpected": 475062440.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.38
-  },
-  {
-   "symbol": "KOD",
-   "date": "2026-11-12",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -1.01
-  },
-  {
-   "symbol": "ARWR",
-   "date": "2026-11-12",
-   "revExpected": 60438090.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -1.5
-  },
-  {
-   "symbol": "BLTE",
-   "date": "2026-11-12",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.77
-  },
-  {
-   "symbol": "FIGR",
-   "date": "2026-11-12",
-   "revExpected": 254531330.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.37
-  },
-  {
-   "symbol": "FPS",
-   "date": "2026-11-12",
-   "revExpected": 460786950.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.2
-  },
-  {
-   "symbol": "OCTV",
-   "date": "2026-11-12",
-   "revExpected": 404220200.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.3
-  },
-  {
-   "symbol": "MWH",
-   "date": "2026-11-12",
-   "revExpected": 1198276580.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.56
   },
   {
    "symbol": "PPTA",
@@ -2280,20 +2192,6 @@
    "epsExpected": -0.89
   },
   {
-   "symbol": "ERAS",
-   "date": "2026-11-12",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.13
-  },
-  {
-   "symbol": "HTFL",
-   "date": "2026-11-12",
-   "revExpected": 65195110.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.1
-  },
-  {
    "symbol": "AMBA",
    "date": "2026-11-24",
    "revExpected": 119795800.0,
@@ -2308,13 +2206,6 @@
    "epsExpected": 4.53
   },
   {
-   "symbol": "XE",
-   "date": "2026-11-12",
-   "revExpected": 62335790.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.12
-  },
-  {
    "symbol": "WSM",
    "date": "2026-11-18",
    "revExpected": 1996725530.0,
@@ -2322,39 +2213,11 @@
    "epsExpected": 1.87
   },
   {
-   "symbol": "PBLS",
-   "date": "2026-11-12",
-   "revExpected": 500000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.38
-  },
-  {
-   "symbol": "ATAI",
-   "date": "2026-11-12",
-   "revExpected": 218180.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.12
-  },
-  {
-   "symbol": "PPTA",
-   "date": "2026-11-12",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.89
-  },
-  {
    "symbol": "ALM",
    "date": "2026-11-13",
    "revExpected": 70010510.0,
    "revExpSrc": "yahoo",
    "epsExpected": 0.04
-  },
-  {
-   "symbol": "LFTO",
-   "date": "2026-11-12",
-   "revExpected": 221921270.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.2
   },
   {
    "symbol": "VEEV",
@@ -2406,13 +2269,6 @@
    "epsExpected": 1.59
   },
   {
-   "symbol": "MANE",
-   "date": "2026-11-12",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.62
-  },
-  {
    "symbol": "MMED",
    "date": "2026-11-16",
    "revExpected": 824436050.0,
@@ -2425,13 +2281,6 @@
    "revExpected": 331394800.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.56
-  },
-  {
-   "symbol": "ONDS",
-   "date": "2026-11-12",
-   "revExpected": 148039400.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.09
   }
  ]
 }
