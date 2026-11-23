@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:38:55.327815-05:00",
+ "updated": "2026-11-23T10:23:58.344644-05:00",
  "days": {
   "2026-11-16": [
    {
@@ -157,6 +157,20 @@
     "revReported": 28277000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "MFP",
+    "name": "Midera Food Processing, Inc.",
+    "date": "2026-11-17",
+    "time": "2026-11-17T07:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.51,
+    "epsReported": 0.54,
+    "revExpected": 219940000.0,
+    "revReported": 228900000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-18": [
@@ -757,20 +771,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "DLTR",
-    "name": "Dollar Tree, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 1.08,
-    "epsReported": null,
-    "revExpected": 5037752130.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "HPQ",
     "name": "HP Inc.",
     "date": "2026-11-24",
@@ -780,6 +780,20 @@
     "epsExpected": 0.74,
     "epsReported": null,
     "revExpected": 15301797640.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 1.08,
+    "epsReported": null,
+    "revExpected": 5037752130.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -799,20 +813,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "BURL",
-    "name": "Burlington Stores, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 1.64,
-    "epsReported": null,
-    "revExpected": 2990259730.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "NTNX",
     "name": "Nutanix, Inc.",
     "date": "2026-11-24",
@@ -822,6 +822,20 @@
     "epsExpected": 0.61,
     "epsReported": null,
     "revExpected": 762384590.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "BURL",
+    "name": "Burlington Stores, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 1.64,
+    "epsReported": null,
+    "revExpected": 2990259730.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1273,20 +1287,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "BF-A",
-    "name": "Brown-Forman Corporation",
-    "date": "2026-12-03",
-    "time": "2026-12-03T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q2 2027",
-    "epsExpected": null,
-    "epsReported": null,
-    "revExpected": 1042173880.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "DOCU",
     "name": "DocuSign, Inc.",
     "date": "2026-12-03",
@@ -1296,6 +1296,20 @@
     "epsExpected": 1.18,
     "epsReported": null,
     "revExpected": 888814890.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "BF-A",
+    "name": "Brown-Forman Corporation",
+    "date": "2026-12-03",
+    "time": "2026-12-03T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q2 2027",
+    "epsExpected": null,
+    "epsReported": null,
+    "revExpected": 1042173880.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1315,20 +1329,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "COO",
-    "name": "The Cooper Companies, Inc.",
-    "date": "2026-12-03",
-    "time": "2026-12-03T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 1.07,
-    "epsReported": null,
-    "revExpected": 1067935900.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "GWRE",
     "name": "Guidewire Software, Inc.",
     "date": "2026-12-03",
@@ -1338,6 +1338,20 @@
     "epsExpected": 0.72,
     "epsReported": null,
     "revExpected": 376242050.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "COO",
+    "name": "The Cooper Companies, Inc.",
+    "date": "2026-12-03",
+    "time": "2026-12-03T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 1.07,
+    "epsReported": null,
+    "revExpected": 1067935900.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1385,20 +1399,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "SAIC",
-    "name": "Science Applications International Corporation",
-    "date": "2026-12-03",
-    "time": "2026-12-03T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2027",
-    "epsExpected": 2.35,
-    "epsReported": null,
-    "revExpected": 1817700000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "PATH",
     "name": "UiPath, Inc.",
     "date": "2026-12-03",
@@ -1408,6 +1408,20 @@
     "epsExpected": 0.19,
     "epsReported": null,
     "revExpected": 443019490.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "SAIC",
+    "name": "Science Applications International Corporation",
+    "date": "2026-12-03",
+    "time": "2026-12-03T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2027",
+    "epsExpected": 2.35,
+    "epsReported": null,
+    "revExpected": 1817700000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2106,13 +2120,6 @@
    "revExpected": 938160410.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.16
-  },
-  {
-   "symbol": "MFP",
-   "date": "2026-11-17",
-   "revExpected": 219940000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.51
   },
   {
    "symbol": "MOG-B",
