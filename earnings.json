@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:18:48.378679-05:00",
+ "updated": "2026-11-23T08:38:55.327815-05:00",
  "days": {
   "2026-11-16": [
    {
@@ -559,6 +559,20 @@
   ],
   "2026-11-23": [
    {
+    "symbol": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "date": "2026-11-23",
+    "time": "2026-11-23T05:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.31,
+    "epsReported": 0.34,
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
+    "revRepSrc": null
+   },
+   {
     "symbol": "HPE",
     "name": "Hewlett Packard Enterprise Company",
     "date": "2026-11-23",
@@ -584,6 +598,20 @@
     "revExpected": 1988948880.0,
     "revReported": null,
     "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ZS",
+    "name": "Zscaler, Inc.",
+    "date": "2026-11-23",
+    "time": "2026-11-23T05:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.16,
+    "epsReported": 1.23,
+    "revExpected": null,
+    "revReported": null,
+    "revExpSrc": null,
     "revRepSrc": null
    },
    {
@@ -919,20 +947,6 @@
   ],
   "2026-12-01": [
    {
-    "symbol": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "date": "2026-12-01",
-    "time": "2026-12-01T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 0.31,
-    "epsReported": null,
-    "revExpected": 1528559430.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MRVL",
     "name": "Marvell Technology, Inc.",
     "date": "2026-12-01",
@@ -1098,20 +1112,6 @@
     "epsExpected": 0.6,
     "epsReported": null,
     "revExpected": 1654183980.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "ZS",
-    "name": "Zscaler, Inc.",
-    "date": "2026-12-02",
-    "time": "2026-12-02T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q1 2027",
-    "epsExpected": 1.16,
-    "epsReported": null,
-    "revExpected": 938160410.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2093,6 +2093,20 @@
   "GBDC": true
  },
  "saved": [
+  {
+   "symbol": "CRWD",
+   "date": "2026-12-01",
+   "revExpected": 1528559430.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.31
+  },
+  {
+   "symbol": "ZS",
+   "date": "2026-12-02",
+   "revExpected": 938160410.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.16
+  },
   {
    "symbol": "MFP",
    "date": "2026-11-17",
