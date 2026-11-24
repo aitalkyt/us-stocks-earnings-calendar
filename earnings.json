@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:20:22.660750-05:00",
+ "updated": "2026-11-24T12:16:38.721717-05:00",
  "days": {
   "2026-11-17": [
    {
@@ -663,7 +663,7 @@
     "time": "2026-11-24T16:00:00-05:00",
     "session": "amc",
     "period": "Q3 2027",
-    "epsExpected": 6.55,
+    "epsExpected": 6.59,
     "epsReported": null,
     "revExpected": 49175023750.0,
     "revReported": null,
@@ -853,18 +853,18 @@
     "revRepSrc": null
    },
    {
-    "symbol": "KSS",
-    "name": "Kohl's Corporation",
+    "symbol": "MMED",
+    "name": "MiniMed Group, Inc.",
     "date": "2026-11-24",
-    "time": "2026-11-24T07:00:10-05:00",
+    "time": "2026-11-24T07:54:11-05:00",
     "session": "bmo",
     "period": "",
-    "epsExpected": -0.16,
-    "epsReported": 1.76,
-    "revExpected": 3436440520.0,
-    "revReported": null,
+    "epsExpected": 0.11,
+    "epsReported": 0.17,
+    "revExpected": 824436050.0,
+    "revReported": 822000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-25": [
@@ -951,7 +951,7 @@
     "time": "2026-12-01T08:30:00-05:00",
     "session": "bmo",
     "period": "Q1 2027",
-    "epsExpected": 0.4,
+    "epsExpected": 0.39,
     "epsReported": null,
     "revExpected": 1190866710.0,
     "revReported": null,
@@ -1313,20 +1313,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "TTAN",
-    "name": "ServiceTitan, Inc.",
-    "date": "2026-12-03",
-    "time": "2026-12-03T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 0.26,
-    "epsReported": null,
-    "revExpected": 286548370.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "VSXY",
     "name": "Victoria's Secret & Co.",
     "date": "2026-12-03",
@@ -1336,6 +1322,20 @@
     "epsExpected": -0.59,
     "epsReported": null,
     "revExpected": 1606189350.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "TTAN",
+    "name": "ServiceTitan, Inc.",
+    "date": "2026-12-03",
+    "time": "2026-12-03T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2027",
+    "epsExpected": 0.26,
+    "epsReported": null,
+    "revExpected": 286548370.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2277,11 +2277,11 @@
  },
  "saved": [
   {
-   "symbol": "MMED",
+   "symbol": "KSS",
    "date": "2026-11-24",
-   "revExpected": 824436050.0,
+   "revExpected": 3436440520.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 0.11
+   "epsExpected": -0.16
   },
   {
    "symbol": "TSN",
