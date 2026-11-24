@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:34:15.218111-05:00",
+ "updated": "2026-11-24T10:20:22.660750-05:00",
  "days": {
   "2026-11-17": [
    {
@@ -674,15 +674,15 @@
     "symbol": "ADI",
     "name": "Analog Devices, Inc.",
     "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
+    "time": "2026-11-24T07:01:00-05:00",
     "session": "bmo",
-    "period": "Q4 2026",
+    "period": "",
     "epsExpected": 3.88,
-    "epsReported": null,
+    "epsReported": 4.06,
     "revExpected": 4320216180.0,
-    "revReported": null,
+    "revReported": 4373420000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "ADSK",
@@ -716,15 +716,15 @@
     "symbol": "DLTR",
     "name": "Dollar Tree, Inc.",
     "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
+    "time": "2026-11-24T06:30:00-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 1.08,
-    "epsReported": null,
+    "period": "",
+    "epsExpected": 0.92,
+    "epsReported": 1.16,
     "revExpected": 5037752130.0,
-    "revReported": null,
+    "revReported": 5073700000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "HPQ",
@@ -744,12 +744,26 @@
     "symbol": "BBY",
     "name": "Best Buy Co., Inc.",
     "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
+    "time": "2026-11-24T07:00:00-05:00",
     "session": "bmo",
-    "period": "Q3 2027",
+    "period": "",
     "epsExpected": 1.49,
-    "epsReported": null,
+    "epsReported": 1.62,
     "revExpected": 9888458320.0,
+    "revReported": 10236000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "BURL",
+    "name": "Burlington Stores, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T06:45:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.72,
+    "epsReported": 1.7,
+    "revExpected": 2990259730.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -769,42 +783,28 @@
     "revRepSrc": null
    },
    {
-    "symbol": "BURL",
-    "name": "Burlington Stores, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 1.64,
-    "epsReported": null,
-    "revExpected": 2990259730.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "SJM",
     "name": "The J. M. Smucker Company",
     "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
+    "time": "2026-11-24T07:00:00-05:00",
     "session": "bmo",
-    "period": "Q2 2027",
+    "period": "",
     "epsExpected": 2.56,
-    "epsReported": null,
+    "epsReported": 3.2,
     "revExpected": 2264442120.0,
-    "revReported": null,
+    "revReported": 2283200000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "DKS",
     "name": "DICK'S Sporting Goods, Inc.",
     "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
+    "time": "2026-11-24T07:02:02-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 2.71,
-    "epsReported": null,
+    "period": "",
+    "epsExpected": 1.41,
+    "epsReported": 1.94,
     "revExpected": 5073049920.0,
     "revReported": null,
     "revExpSrc": "yahoo",
@@ -825,43 +825,43 @@
     "revRepSrc": null
    },
    {
-    "symbol": "DY",
-    "name": "Dycom Industries, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2027",
-    "epsExpected": 4.57,
-    "epsReported": null,
-    "revExpected": 1945294990.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "ANF",
     "name": "Abercrombie & Fitch Co.",
     "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
+    "time": "2026-11-24T07:36:44-05:00",
     "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 2.16,
-    "epsReported": null,
+    "period": "",
+    "epsExpected": 3.15,
+    "epsReported": 3.82,
     "revExpected": 1366555770.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
    },
    {
-    "symbol": "MMED",
-    "name": "MiniMed Group, Inc.",
+    "symbol": "DY",
+    "name": "Dycom Industries, Inc.",
     "date": "2026-11-24",
-    "time": "2026-11-24T08:30:00-05:00",
+    "time": "2026-11-24T07:03:52-05:00",
     "session": "bmo",
-    "period": "Q2 2027",
-    "epsExpected": 0.11,
-    "epsReported": null,
-    "revExpected": 824436050.0,
+    "period": "",
+    "epsExpected": 4.57,
+    "epsReported": 5.23,
+    "revExpected": 1945294990.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "KSS",
+    "name": "Kohl's Corporation",
+    "date": "2026-11-24",
+    "time": "2026-11-24T07:00:10-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": -0.16,
+    "epsReported": 1.76,
+    "revExpected": 3436440520.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1486,6 +1486,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "OLLI",
+    "name": "Ollie's Bargain Outlet Holdings, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.73,
+    "epsReported": null,
+    "revExpected": 677608890.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "BRZE",
     "name": "Braze, Inc.",
     "date": "2026-12-08",
@@ -1514,20 +1528,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "THO",
-    "name": "THOR Industries, Inc.",
-    "date": "2026-12-08",
-    "time": "2026-12-08T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q1 2027",
-    "epsExpected": 0.14,
-    "epsReported": null,
-    "revExpected": 2272235350.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "KFY",
     "name": "Korn Ferry",
     "date": "2026-12-08",
@@ -1537,6 +1537,20 @@
     "epsExpected": 1.37,
     "epsReported": null,
     "revExpected": 870874800.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "THO",
+    "name": "THOR Industries, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": 0.14,
+    "epsReported": null,
+    "revExpected": 2272235350.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2226,7 +2240,9 @@
   "THO": true,
   "KFY": true,
   "UNFI": true,
-  "UEC": true
+  "UEC": true,
+  "LULU": false,
+  "OLLI": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -2260,6 +2276,13 @@
   "GBDC": true
  },
  "saved": [
+  {
+   "symbol": "MMED",
+   "date": "2026-11-24",
+   "revExpected": 824436050.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.11
+  },
   {
    "symbol": "TSN",
    "date": "2026-11-16",
@@ -2420,13 +2443,6 @@
    "revExpected": 11085670.0,
    "revExpSrc": "yahoo",
    "epsExpected": -0.05
-  },
-  {
-   "symbol": "KSS",
-   "date": "2026-11-24",
-   "revExpected": 3436440520.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.16
   },
   {
    "symbol": "AZO",
