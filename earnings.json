@@ -1,64 +1,6 @@
 {
- "updated": "2026-11-23T22:07:39.084971-05:00",
+ "updated": "2026-11-24T00:23:34.697637-05:00",
  "days": {
-  "2026-11-16": [
-   {
-    "symbol": "TSN",
-    "name": "Tyson Foods, Inc.",
-    "date": "2026-11-16",
-    "time": "2026-11-16T07:41:53-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.61,
-    "epsReported": 0.61,
-    "revExpected": 14096286810.0,
-    "revReported": 14585000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "ARMK",
-    "name": "Aramark",
-    "date": "2026-11-16",
-    "time": "2026-11-16T06:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.75,
-    "epsReported": 0.71,
-    "revExpected": 5291126200.0,
-    "revReported": 5293209000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "ACM",
-    "name": "AECOM",
-    "date": "2026-11-16",
-    "time": "2026-11-16T16:11:03-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 1.59,
-    "epsReported": 1.63,
-    "revExpected": 4098003760.0,
-    "revReported": 3878326000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "POWL",
-    "name": "Powell Industries, Inc.",
-    "date": "2026-11-16",
-    "time": "2026-11-16T16:24:24-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 1.56,
-    "epsReported": 2.23,
-    "revExpected": 331394800.0,
-    "revReported": 396707000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   }
-  ],
   "2026-11-17": [
    {
     "symbol": "NVDA",
@@ -1443,6 +1385,204 @@
     "revExpSrc": "yahoo",
     "revRepSrc": null
    }
+  ],
+  "2026-12-08": [
+   {
+    "symbol": "SNPS",
+    "name": "Synopsys, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 4.13,
+    "epsReported": null,
+    "revExpected": 2561772130.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "AZO",
+    "name": "AutoZone, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": 35.39,
+    "epsReported": null,
+    "revExpected": 4947211980.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "SUNB",
+    "name": "Sunbelt Rentals Holdings, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q2 2027",
+    "epsExpected": 1.27,
+    "epsReported": null,
+    "revExpected": 3238455480.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "CASY",
+    "name": "Casey's General Stores, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q2 2027",
+    "epsExpected": 5.81,
+    "epsReported": null,
+    "revExpected": 5550812120.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "GME",
+    "name": "GameStop Corp.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.2,
+    "epsReported": null,
+    "revExpected": 782325000.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "SAIL",
+    "name": "SailPoint, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2027",
+    "epsExpected": 0.08,
+    "epsReported": null,
+    "revExpected": 328419540.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "CNM",
+    "name": "Core & Main, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.71,
+    "epsReported": null,
+    "revExpected": 2127804140.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "BRZE",
+    "name": "Braze, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2027",
+    "epsExpected": 0.14,
+    "epsReported": null,
+    "revExpected": 229878490.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ASO",
+    "name": "Academy Sports and Outdoors, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 1.06,
+    "epsReported": null,
+    "revExpected": 1438593810.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "THO",
+    "name": "THOR Industries, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": 0.14,
+    "epsReported": null,
+    "revExpected": 2272235350.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "KFY",
+    "name": "Korn Ferry",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q2 2027",
+    "epsExpected": 1.37,
+    "epsReported": null,
+    "revExpected": 870874800.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "BRC",
+    "name": "Brady Corporation",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": 1.41,
+    "epsReported": null,
+    "revExpected": 705756000.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "UNFI",
+    "name": "United Natural Foods, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": 0.68,
+    "epsReported": null,
+    "revExpected": 7801405560.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "UEC",
+    "name": "Uranium Energy Corp.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": null,
+    "epsReported": null,
+    "revExpected": 9501500.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   }
   ]
  },
  "companies": {
@@ -2074,7 +2214,19 @@
   "SAIC": true,
   "PATH": true,
   "TOL": true,
-  "ENR": true
+  "ENR": true,
+  "SNPS": true,
+  "SUNB": true,
+  "CASY": true,
+  "GME": true,
+  "SAIL": true,
+  "CNM": true,
+  "BRZE": true,
+  "ASO": true,
+  "THO": true,
+  "KFY": true,
+  "UNFI": true,
+  "UEC": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -2109,6 +2261,34 @@
  },
  "saved": [
   {
+   "symbol": "TSN",
+   "date": "2026-11-16",
+   "revExpected": 14096286810.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.61
+  },
+  {
+   "symbol": "ARMK",
+   "date": "2026-11-16",
+   "revExpected": 5291126200.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.75
+  },
+  {
+   "symbol": "ACM",
+   "date": "2026-11-16",
+   "revExpected": 4098003760.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.59
+  },
+  {
+   "symbol": "POWL",
+   "date": "2026-11-16",
+   "revExpected": 331394800.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.56
+  },
+  {
    "symbol": "CRWD",
    "date": "2026-12-01",
    "revExpected": 1528559430.0,
@@ -2135,13 +2315,6 @@
    "revExpected": 1148000000.0,
    "revExpSrc": "yahoo",
    "epsExpected": 2.81
-  },
-  {
-   "symbol": "PPTA",
-   "date": "2026-11-13",
-   "revExpected": 0.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.89
   },
   {
    "symbol": "PVH",
@@ -2233,13 +2406,6 @@
    "revExpected": 1996725530.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.87
-  },
-  {
-   "symbol": "ALM",
-   "date": "2026-11-13",
-   "revExpected": 70010510.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.04
   },
   {
    "symbol": "VEEV",
