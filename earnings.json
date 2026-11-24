@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:16:38.721717-05:00",
+ "updated": "2026-11-24T14:17:21.244764-05:00",
  "days": {
   "2026-11-17": [
    {
@@ -427,20 +427,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "MMS",
-    "name": "Maximus, Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T06:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.85,
-    "epsReported": 2.11,
-    "revExpected": 1296672500.0,
-    "revReported": 1300808000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
     "symbol": "ATKR",
     "name": "Atkore Inc.",
     "date": "2026-11-19",
@@ -453,6 +439,20 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "MMS",
+    "name": "Maximus, Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T06:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 1.85,
+    "epsReported": 2.11,
+    "revExpected": 1296672500.0,
+    "revReported": 1300808000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BULL",
