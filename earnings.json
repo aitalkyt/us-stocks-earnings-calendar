@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:17:21.244764-05:00",
+ "updated": "2026-11-24T16:09:26.800422-05:00",
  "days": {
   "2026-11-17": [
    {
@@ -1129,20 +1129,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "AVAV",
-    "name": "AeroVironment, Inc.",
-    "date": "2026-12-02",
-    "time": "2026-12-02T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q2 2027",
-    "epsExpected": 0.42,
-    "epsReported": null,
-    "revExpected": 510431840.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "AEO",
     "name": "American Eagle Outfitters, Inc.",
     "date": "2026-12-02",
@@ -1514,6 +1500,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "AVAV",
+    "name": "AeroVironment, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q2 2027",
+    "epsExpected": 0.42,
+    "epsReported": null,
+    "revExpected": 509570250.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "ASO",
     "name": "Academy Sports and Outdoors, Inc.",
     "date": "2026-12-08",
@@ -1528,20 +1528,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "KFY",
-    "name": "Korn Ferry",
-    "date": "2026-12-08",
-    "time": "2026-12-08T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q2 2027",
-    "epsExpected": 1.37,
-    "epsReported": null,
-    "revExpected": 870874800.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "THO",
     "name": "THOR Industries, Inc.",
     "date": "2026-12-08",
@@ -1551,6 +1537,20 @@
     "epsExpected": 0.14,
     "epsReported": null,
     "revExpected": 2272235350.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "KFY",
+    "name": "Korn Ferry",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q2 2027",
+    "epsExpected": 1.37,
+    "epsReported": null,
+    "revExpected": 870874800.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1579,20 +1579,6 @@
     "epsExpected": 0.68,
     "epsReported": null,
     "revExpected": 7801405560.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "UEC",
-    "name": "Uranium Energy Corp.",
-    "date": "2026-12-08",
-    "time": "2026-12-08T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q1 2027",
-    "epsExpected": null,
-    "epsReported": null,
-    "revExpected": 9501500.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2276,6 +2262,20 @@
   "GBDC": true
  },
  "saved": [
+  {
+   "symbol": "AVAV",
+   "date": "2026-12-02",
+   "revExpected": 510431840.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.42
+  },
+  {
+   "symbol": "UEC",
+   "date": "2026-12-08",
+   "revExpected": 9501500.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": null
+  },
   {
    "symbol": "KSS",
    "date": "2026-11-24",
