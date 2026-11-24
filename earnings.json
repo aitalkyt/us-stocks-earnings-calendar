@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:09:26.800422-05:00",
+ "updated": "2026-11-24T18:11:55.946893-05:00",
  "days": {
   "2026-11-17": [
    {
@@ -660,15 +660,15 @@
     "symbol": "DELL",
     "name": "Dell Technologies Inc.",
     "date": "2026-11-24",
-    "time": "2026-11-24T16:00:00-05:00",
+    "time": "2026-11-24T16:05:00-05:00",
     "session": "amc",
-    "period": "Q3 2027",
+    "period": "",
     "epsExpected": 6.59,
-    "epsReported": null,
+    "epsReported": 9.45,
     "revExpected": 49175023750.0,
-    "revReported": null,
+    "revReported": 54937000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "ADI",
@@ -685,32 +685,18 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "ADSK",
-    "name": "Autodesk, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 3.07,
-    "epsReported": null,
-    "revExpected": 2132410570.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "WDAY",
     "name": "Workday, Inc.",
     "date": "2026-11-24",
-    "time": "2026-11-24T16:00:00-05:00",
+    "time": "2026-11-24T16:01:00-05:00",
     "session": "amc",
-    "period": "Q3 2027",
+    "period": "",
     "epsExpected": 2.74,
-    "epsReported": null,
+    "epsReported": 2.82,
     "revExpected": 2691535090.0,
-    "revReported": null,
+    "revReported": 2705000000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "DLTR",
@@ -725,20 +711,6 @@
     "revReported": 5073700000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "HPQ",
-    "name": "HP Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q4 2026",
-    "epsExpected": 0.74,
-    "epsReported": null,
-    "revExpected": 15301797640.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    },
    {
     "symbol": "BBY",
@@ -769,20 +741,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "NTNX",
-    "name": "Nutanix, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q1 2027",
-    "epsExpected": 0.61,
-    "epsReported": null,
-    "revExpected": 762384590.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "SJM",
     "name": "The J. M. Smucker Company",
     "date": "2026-11-24",
@@ -806,20 +764,6 @@
     "epsExpected": 1.41,
     "epsReported": 1.94,
     "revExpected": 5073049920.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "URBN",
-    "name": "Urban Outfitters, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 1.53,
-    "epsReported": null,
-    "revExpected": 1665793510.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -865,6 +809,20 @@
     "revReported": 822000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "KSS",
+    "name": "Kohl's Corporation",
+    "date": "2026-11-24",
+    "time": "2026-11-24T07:00:10-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": -0.16,
+    "epsReported": 1.76,
+    "revExpected": 3436440520.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-25": [
@@ -1472,6 +1430,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "NAVN",
+    "name": "Navan, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2027",
+    "epsExpected": 0.12,
+    "epsReported": null,
+    "revExpected": 254373360.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
     "symbol": "OLLI",
     "name": "Ollie's Bargain Outlet Holdings, Inc.",
     "date": "2026-12-08",
@@ -1565,20 +1537,6 @@
     "epsExpected": 1.41,
     "epsReported": null,
     "revExpected": 705756000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "UNFI",
-    "name": "United Natural Foods, Inc.",
-    "date": "2026-12-08",
-    "time": "2026-12-08T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q1 2027",
-    "epsExpected": 0.68,
-    "epsReported": null,
-    "revExpected": 7801405560.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -2228,7 +2186,8 @@
   "UNFI": true,
   "UEC": true,
   "LULU": false,
-  "OLLI": true
+  "OLLI": true,
+  "NAVN": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -2263,6 +2222,41 @@
  },
  "saved": [
   {
+   "symbol": "ADSK",
+   "date": "2026-11-24",
+   "revExpected": 2132410570.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 3.07
+  },
+  {
+   "symbol": "HPQ",
+   "date": "2026-11-24",
+   "revExpected": 15301797640.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.74
+  },
+  {
+   "symbol": "NTNX",
+   "date": "2026-11-24",
+   "revExpected": 762384590.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.61
+  },
+  {
+   "symbol": "URBN",
+   "date": "2026-11-24",
+   "revExpected": 1665793510.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.53
+  },
+  {
+   "symbol": "UNFI",
+   "date": "2026-12-08",
+   "revExpected": 7801405560.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.68
+  },
+  {
    "symbol": "AVAV",
    "date": "2026-12-02",
    "revExpected": 510431840.0,
@@ -2275,13 +2269,6 @@
    "revExpected": 9501500.0,
    "revExpSrc": "yahoo",
    "epsExpected": null
-  },
-  {
-   "symbol": "KSS",
-   "date": "2026-11-24",
-   "revExpected": 3436440520.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -0.16
   },
   {
    "symbol": "TSN",
