@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:08:54.341931-05:00",
+ "updated": "2026-11-23T20:30:51.767763-05:00",
  "days": {
   "2026-11-16": [
    {
@@ -254,9 +254,9 @@
     "epsExpected": 2.52,
     "epsReported": 2.83,
     "revExpected": 1142602490.0,
-    "revReported": 1160000000.0,
+    "revReported": 1160198000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "UGI",
@@ -310,9 +310,9 @@
     "epsExpected": 0.24,
     "epsReported": 0.36,
     "revExpected": 1075127590.0,
-    "revReported": null,
+    "revReported": 1091829000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    }
   ],
   "2026-11-19": [
@@ -552,9 +552,9 @@
     "epsExpected": 2.68,
     "epsReported": 3.37,
     "revExpected": 1122050000.0,
-    "revReported": null,
+    "revReported": 1254101000.0,
     "revExpSrc": "yahoo",
-    "revRepSrc": null
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "BKE",
