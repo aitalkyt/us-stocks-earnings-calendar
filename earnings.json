@@ -1,120 +1,6 @@
 {
- "updated": "2026-11-24T22:15:57.700533-05:00",
+ "updated": "2026-11-25T00:25:32.703692-05:00",
  "days": {
-  "2026-11-17": [
-   {
-    "symbol": "NVDA",
-    "name": "NVIDIA Corporation",
-    "date": "2026-11-17",
-    "time": "2026-11-17T16:20:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 2.47,
-    "epsReported": 2.68,
-    "revExpected": 108976833310.0,
-    "revReported": 115844000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "HD",
-    "name": "The Home Depot, Inc.",
-    "date": "2026-11-17",
-    "time": "2026-11-17T06:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 3.84,
-    "epsReported": 3.86,
-    "revExpected": 42738800990.0,
-    "revReported": 43398000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "DIS",
-    "name": "The Walt Disney Company",
-    "date": "2026-11-17",
-    "time": "2026-11-17T06:30:22-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.68,
-    "epsReported": 1.77,
-    "revExpected": 25154598640.0,
-    "revReported": 25947000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "DLB",
-    "name": "Dolby Laboratories, Inc.",
-    "date": "2026-11-17",
-    "time": "2026-11-17T16:15:23-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 1.2,
-    "epsReported": 1.25,
-    "revExpected": 372759500.0,
-    "revReported": 373536000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "SR",
-    "name": "Spire Inc.",
-    "date": "2026-11-17",
-    "time": "2026-11-17T07:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": -1.02,
-    "epsReported": -0.99,
-    "revExpected": 297060730.0,
-    "revReported": 339400000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "GFF",
-    "name": "Griffon Corporation",
-    "date": "2026-11-17",
-    "time": "2026-11-17T07:34:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.59,
-    "epsReported": 1.61,
-    "revExpected": 481788810.0,
-    "revReported": 490888000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "GBDC",
-    "name": "Golub Capital BDC, Inc.",
-    "date": "2026-11-17",
-    "time": "2026-11-17T16:05:46-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.33,
-    "epsReported": 0.32,
-    "revExpected": 187626670.0,
-    "revReported": 28277000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "MFP",
-    "name": "Midera Food Processing, Inc.",
-    "date": "2026-11-17",
-    "time": "2026-11-17T07:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.51,
-    "epsReported": 0.54,
-    "revExpected": 219940000.0,
-    "revReported": 228900000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   }
-  ],
   "2026-11-18": [
    {
     "symbol": "PANW",
@@ -1583,6 +1469,78 @@
     "revExpSrc": "yahoo",
     "revRepSrc": null
    }
+  ],
+  "2026-12-09": [
+   {
+    "symbol": "AVGO",
+    "name": "Broadcom Inc.",
+    "date": "2026-12-09",
+    "time": "2026-12-09T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 3.83,
+    "epsReported": null,
+    "revExpected": 34903482540.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ADBE",
+    "name": "Adobe Inc.",
+    "date": "2026-12-09",
+    "time": "2026-12-09T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q4 2026",
+    "epsExpected": 6.33,
+    "epsReported": null,
+    "revExpected": 6830578620.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "CHWY",
+    "name": "Chewy, Inc.",
+    "date": "2026-12-09",
+    "time": "2026-12-09T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.3,
+    "epsReported": null,
+    "revExpected": 3341447770.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "CPB",
+    "name": "The Campbell's Company",
+    "date": "2026-12-09",
+    "time": "2026-12-09T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q1 2027",
+    "epsExpected": 0.41,
+    "epsReported": null,
+    "revExpected": 2558863330.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "MTN",
+    "name": "Vail Resorts, Inc.",
+    "date": "2026-12-09",
+    "time": "2026-12-09T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q1 2027",
+    "epsExpected": -5.57,
+    "epsReported": null,
+    "revExpected": 275503460.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   }
   ]
  },
  "companies": {
@@ -2229,7 +2187,12 @@
   "UEC": true,
   "LULU": false,
   "OLLI": true,
-  "NAVN": true
+  "NAVN": true,
+  "AVGO": true,
+  "ADBE": true,
+  "CHWY": true,
+  "CPB": true,
+  "MTN": true
  },
  "revenueMismatch": {
   "NDAQ": true,
@@ -2263,6 +2226,62 @@
   "GBDC": true
  },
  "saved": [
+  {
+   "symbol": "NVDA",
+   "date": "2026-11-17",
+   "revExpected": 108976833310.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.47
+  },
+  {
+   "symbol": "HD",
+   "date": "2026-11-17",
+   "revExpected": 42738800990.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 3.84
+  },
+  {
+   "symbol": "DIS",
+   "date": "2026-11-17",
+   "revExpected": 25154598640.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.68
+  },
+  {
+   "symbol": "DLB",
+   "date": "2026-11-17",
+   "revExpected": 372759500.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.2
+  },
+  {
+   "symbol": "SR",
+   "date": "2026-11-17",
+   "revExpected": 297060730.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": -1.02
+  },
+  {
+   "symbol": "GFF",
+   "date": "2026-11-17",
+   "revExpected": 481788810.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.59
+  },
+  {
+   "symbol": "GBDC",
+   "date": "2026-11-17",
+   "revExpected": 187626670.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.33
+  },
+  {
+   "symbol": "MFP",
+   "date": "2026-11-17",
+   "revExpected": 219940000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.51
+  },
   {
    "symbol": "KSS",
    "date": "2026-11-24",
