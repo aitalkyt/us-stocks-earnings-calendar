@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:18:38.446682-05:00",
+ "updated": "2026-11-25T14:12:31.148031-05:00",
  "days": {
   "2026-11-18": [
    {
@@ -599,20 +599,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "DLTR",
-    "name": "Dollar Tree, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T06:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.92,
-    "epsReported": 1.16,
-    "revExpected": 5037752130.0,
-    "revReported": 5073700000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "HPQ",
     "name": "HP Inc.",
     "date": "2026-11-24",
@@ -623,6 +609,20 @@
     "epsReported": 0.83,
     "revExpected": 15301797640.0,
     "revReported": 16004000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T06:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.92,
+    "epsReported": 1.16,
+    "revExpected": 5037752130.0,
+    "revReported": 5073700000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -1185,20 +1185,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "VSXY",
-    "name": "Victoria's Secret & Co.",
-    "date": "2026-12-03",
-    "time": "2026-12-03T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": -0.59,
-    "epsReported": null,
-    "revExpected": 1606189350.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "TTAN",
     "name": "ServiceTitan, Inc.",
     "date": "2026-12-03",
@@ -1208,6 +1194,20 @@
     "epsExpected": 0.26,
     "epsReported": null,
     "revExpected": 286548370.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "VSXY",
+    "name": "Victoria's Secret & Co.",
+    "date": "2026-12-03",
+    "time": "2026-12-03T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": -0.59,
+    "epsReported": null,
+    "revExpected": 1606189350.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1400,20 +1400,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ASO",
-    "name": "Academy Sports and Outdoors, Inc.",
-    "date": "2026-12-08",
-    "time": "2026-12-08T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 1.06,
-    "epsReported": null,
-    "revExpected": 1438593810.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "AVAV",
     "name": "AeroVironment, Inc.",
     "date": "2026-12-08",
@@ -1423,6 +1409,20 @@
     "epsExpected": 0.42,
     "epsReported": null,
     "revExpected": 509570250.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ASO",
+    "name": "Academy Sports and Outdoors, Inc.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 1.06,
+    "epsReported": null,
+    "revExpected": 1438593810.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
