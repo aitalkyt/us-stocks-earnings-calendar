@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:36:15.887802-05:00",
+ "updated": "2026-11-24T22:15:57.700533-05:00",
  "days": {
   "2026-11-17": [
    {
@@ -685,6 +685,20 @@
     "revRepSrc": "finnhub"
    },
    {
+    "symbol": "ADSK",
+    "name": "Autodesk, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T16:05:29-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 3.07,
+    "epsReported": 3.2,
+    "revExpected": 2132410570.0,
+    "revReported": 2160000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "WDAY",
     "name": "Workday, Inc.",
     "date": "2026-11-24",
@@ -709,6 +723,20 @@
     "epsReported": 1.16,
     "revExpected": 5037752130.0,
     "revReported": 5073700000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "HPQ",
+    "name": "HP Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T16:17:57-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.74,
+    "epsReported": 0.83,
+    "revExpected": 15301797640.0,
+    "revReported": 16004000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -741,6 +769,20 @@
     "revRepSrc": null
    },
    {
+    "symbol": "NTNX",
+    "name": "Nutanix, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T16:01:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.61,
+    "epsReported": 0.73,
+    "revExpected": 762384590.0,
+    "revReported": 772400000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
     "symbol": "SJM",
     "name": "The J. M. Smucker Company",
     "date": "2026-11-24",
@@ -764,6 +806,20 @@
     "epsExpected": 1.41,
     "epsReported": 1.94,
     "revExpected": 5073049920.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "URBN",
+    "name": "Urban Outfitters, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T16:05:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 1.53,
+    "epsReported": 1.54,
+    "revExpected": 1665793510.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -809,20 +865,6 @@
     "revReported": 822000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
-   },
-   {
-    "symbol": "KSS",
-    "name": "Kohl's Corporation",
-    "date": "2026-11-24",
-    "time": "2026-11-24T07:00:10-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": -0.16,
-    "epsReported": 1.76,
-    "revExpected": 3436440520.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
    }
   ],
   "2026-11-25": [
@@ -2222,32 +2264,11 @@
  },
  "saved": [
   {
-   "symbol": "ADSK",
+   "symbol": "KSS",
    "date": "2026-11-24",
-   "revExpected": 2132410570.0,
+   "revExpected": 3436440520.0,
    "revExpSrc": "yahoo",
-   "epsExpected": 3.07
-  },
-  {
-   "symbol": "HPQ",
-   "date": "2026-11-24",
-   "revExpected": 15301797640.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.74
-  },
-  {
-   "symbol": "NTNX",
-   "date": "2026-11-24",
-   "revExpected": 762384590.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.61
-  },
-  {
-   "symbol": "URBN",
-   "date": "2026-11-24",
-   "revExpected": 1665793510.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.53
+   "epsExpected": -0.16
   },
   {
    "symbol": "UNFI",
