@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:24:26.874454-05:00",
+ "updated": "2026-11-25T12:18:38.446682-05:00",
  "days": {
   "2026-11-18": [
    {
@@ -655,20 +655,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "SJM",
-    "name": "The J. M. Smucker Company",
-    "date": "2026-11-24",
-    "time": "2026-11-24T07:00:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 2.56,
-    "epsReported": 3.2,
-    "revExpected": 2264442120.0,
-    "revReported": 2283200000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "DKS",
     "name": "DICK'S Sporting Goods, Inc.",
     "date": "2026-11-24",
@@ -681,6 +667,20 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "SJM",
+    "name": "The J. M. Smucker Company",
+    "date": "2026-11-24",
+    "time": "2026-11-24T07:00:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 2.56,
+    "epsReported": 3.2,
+    "revExpected": 2264442120.0,
+    "revReported": 2283200000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    },
    {
     "symbol": "NTNX",
@@ -1213,20 +1213,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "SAIC",
-    "name": "Science Applications International Corporation",
-    "date": "2026-12-03",
-    "time": "2026-12-03T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2027",
-    "epsExpected": 2.35,
-    "epsReported": null,
-    "revExpected": 1817700000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "PATH",
     "name": "UiPath, Inc.",
     "date": "2026-12-03",
@@ -1236,6 +1222,20 @@
     "epsExpected": 0.19,
     "epsReported": null,
     "revExpected": 443019490.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "SAIC",
+    "name": "Science Applications International Corporation",
+    "date": "2026-12-03",
+    "time": "2026-12-03T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2027",
+    "epsExpected": 2.35,
+    "epsReported": null,
+    "revExpected": 1817700000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1280,7 +1280,7 @@
     "time": "2026-12-08T08:30:00-05:00",
     "session": "bmo",
     "period": "Q1 2027",
-    "epsExpected": 35.39,
+    "epsExpected": 35.42,
     "epsReported": null,
     "revExpected": 4947211980.0,
     "revReported": null,
