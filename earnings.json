@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:14:01.203545-05:00",
+ "updated": "2026-11-25T08:40:32.944863-05:00",
  "days": {
   "2026-11-18": [
    {
@@ -753,22 +753,7 @@
     "revRepSrc": "finnhub"
    }
   ],
-  "2026-11-25": [
-   {
-    "symbol": "DE",
-    "name": "Deere & Company",
-    "date": "2026-11-25",
-    "time": "2026-11-25T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q4 2026",
-    "epsExpected": 4.06,
-    "epsReported": null,
-    "revExpected": 10354114330.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   }
-  ],
+  "2026-11-25": [],
   "2026-11-26": [],
   "2026-11-27": [],
   "2026-11-30": [
@@ -2226,6 +2211,13 @@
   "GBDC": true
  },
  "saved": [
+  {
+   "symbol": "DE",
+   "date": "2026-11-25",
+   "revExpected": 10354114330.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 4.06
+  },
   {
    "symbol": "NVDA",
    "date": "2026-11-17",
