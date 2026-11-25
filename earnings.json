@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:12:31.148031-05:00",
+ "updated": "2026-11-25T16:13:51.690167-05:00",
  "days": {
   "2026-11-18": [
    {
@@ -313,20 +313,6 @@
     "revRepSrc": "yahoo"
    },
    {
-    "symbol": "ATKR",
-    "name": "Atkore Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T07:30:00-05:00",
-    "session": "bmo",
-    "period": "Q4 2026",
-    "epsExpected": 1.73,
-    "epsReported": null,
-    "revExpected": 783784320.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MMS",
     "name": "Maximus, Inc.",
     "date": "2026-11-19",
@@ -339,6 +325,20 @@
     "revReported": 1300808000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "ATKR",
+    "name": "Atkore Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T07:30:00-05:00",
+    "session": "bmo",
+    "period": "Q4 2026",
+    "epsExpected": 1.73,
+    "epsReported": null,
+    "revExpected": 783784320.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "BULL",
@@ -599,20 +599,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "HPQ",
-    "name": "HP Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T16:17:57-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 0.74,
-    "epsReported": 0.83,
-    "revExpected": 15301797640.0,
-    "revReported": 16004000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "DLTR",
     "name": "Dollar Tree, Inc.",
     "date": "2026-11-24",
@@ -623,6 +609,20 @@
     "epsReported": 1.16,
     "revExpected": 5037752130.0,
     "revReported": 5073700000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "HPQ",
+    "name": "HP Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T16:17:57-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 0.74,
+    "epsReported": 0.83,
+    "revExpected": 15301797640.0,
+    "revReported": 16004000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -725,20 +725,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "MMED",
-    "name": "MiniMed Group, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T07:54:11-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.11,
-    "epsReported": 0.17,
-    "revExpected": 824436050.0,
-    "revReported": 822000000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "DY",
     "name": "Dycom Industries, Inc.",
     "date": "2026-11-24",
@@ -751,6 +737,20 @@
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
+   },
+   {
+    "symbol": "MMED",
+    "name": "MiniMed Group, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T07:54:11-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.11,
+    "epsReported": 0.17,
+    "revExpected": 824436050.0,
+    "revReported": 822000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
    }
   ],
   "2026-11-25": [
