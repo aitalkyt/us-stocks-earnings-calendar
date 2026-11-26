@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:39:47.493373-05:00",
+ "updated": "2026-11-26T10:20:33.835897-05:00",
  "days": {
   "2026-11-19": [
    {
@@ -583,20 +583,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "DY",
-    "name": "Dycom Industries, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T07:03:52-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 4.57,
-    "epsReported": 5.23,
-    "revExpected": 1945294990.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "MMED",
     "name": "MiniMed Group, Inc.",
     "date": "2026-11-24",
@@ -609,6 +595,20 @@
     "revReported": 822000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "DY",
+    "name": "Dycom Industries, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T07:03:52-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 4.57,
+    "epsReported": 5.23,
+    "revExpected": 1945294990.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    }
   ],
   "2026-11-25": [
