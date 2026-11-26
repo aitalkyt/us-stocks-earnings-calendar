@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:20:33.835897-05:00",
+ "updated": "2026-11-26T12:23:15.645646-05:00",
  "days": {
   "2026-11-19": [
    {
@@ -355,6 +355,20 @@
     "revReported": 423000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "IESC",
+    "name": "IES Holdings, Inc.",
+    "date": "2026-11-23",
+    "time": "2026-11-23T15:38:55-05:00",
+    "session": "dmh",
+    "period": "",
+    "epsExpected": 2.81,
+    "epsReported": 4.5,
+    "revExpected": 1148000000.0,
+    "revReported": 1389976000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "yahoo"
    },
    {
     "symbol": "AMTM",
