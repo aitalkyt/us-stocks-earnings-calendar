@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:34:44.828022-05:00",
+ "updated": "2026-11-27T10:14:55.207736-05:00",
  "days": {
   "2026-11-20": [
    {
@@ -259,20 +259,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "DLTR",
-    "name": "Dollar Tree, Inc.",
-    "date": "2026-11-24",
-    "time": "2026-11-24T06:30:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.92,
-    "epsReported": 1.16,
-    "revExpected": 5037752130.0,
-    "revReported": 5073700000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   },
-   {
     "symbol": "HPQ",
     "name": "HP Inc.",
     "date": "2026-11-24",
@@ -283,6 +269,20 @@
     "epsReported": 0.83,
     "revExpected": 15301797640.0,
     "revReported": 16004000000.0,
+    "revExpSrc": "yahoo",
+    "revRepSrc": "finnhub"
+   },
+   {
+    "symbol": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "date": "2026-11-24",
+    "time": "2026-11-24T06:30:00-05:00",
+    "session": "bmo",
+    "period": "",
+    "epsExpected": 0.92,
+    "epsReported": 1.16,
+    "revExpected": 5037752130.0,
+    "revReported": 5073700000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "finnhub"
    },
@@ -429,7 +429,6 @@
     "revRepSrc": null
    }
   ],
-  "2026-11-27": [],
   "2026-11-30": [
    {
     "symbol": "RBRK",
@@ -560,20 +559,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "NCNO",
-    "name": "nCino, Inc.",
-    "date": "2026-12-01",
-    "time": "2026-12-01T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 0.33,
-    "epsReported": null,
-    "revExpected": 162604360.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "ASAN",
     "name": "Asana, Inc.",
     "date": "2026-12-01",
@@ -583,6 +568,20 @@
     "epsExpected": 0.08,
     "epsReported": null,
     "revExpected": 218117600.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "NCNO",
+    "name": "nCino, Inc.",
+    "date": "2026-12-01",
+    "time": "2026-12-01T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2027",
+    "epsExpected": 0.33,
+    "epsReported": null,
+    "revExpected": 162604360.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -975,20 +974,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "GME",
-    "name": "GameStop Corp.",
-    "date": "2026-12-08",
-    "time": "2026-12-08T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q3 2026",
-    "epsExpected": 0.2,
-    "epsReported": null,
-    "revExpected": 782325000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "SAIL",
     "name": "SailPoint, Inc.",
     "date": "2026-12-08",
@@ -998,6 +983,20 @@
     "epsExpected": 0.08,
     "epsReported": null,
     "revExpected": 328419540.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "GME",
+    "name": "GameStop Corp.",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q3 2026",
+    "epsExpected": 0.2,
+    "epsReported": null,
+    "revExpected": 782325000.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
