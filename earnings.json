@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:14:55.207736-05:00",
+ "updated": "2026-11-27T12:23:32.090444-05:00",
  "days": {
   "2026-11-20": [
    {
@@ -559,20 +559,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "ASAN",
-    "name": "Asana, Inc.",
-    "date": "2026-12-01",
-    "time": "2026-12-01T16:00:00-05:00",
-    "session": "amc",
-    "period": "Q3 2027",
-    "epsExpected": 0.08,
-    "epsReported": null,
-    "revExpected": 218117600.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "NCNO",
     "name": "nCino, Inc.",
     "date": "2026-12-01",
@@ -582,6 +568,20 @@
     "epsExpected": 0.33,
     "epsReported": null,
     "revExpected": 162604360.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "ASAN",
+    "name": "Asana, Inc.",
+    "date": "2026-12-01",
+    "time": "2026-12-01T16:00:00-05:00",
+    "session": "amc",
+    "period": "Q3 2027",
+    "epsExpected": 0.08,
+    "epsReported": null,
+    "revExpected": 218117600.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -787,20 +787,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "HRL",
-    "name": "Hormel Foods Corporation",
-    "date": "2026-12-03",
-    "time": "2026-12-03T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q4 2026",
-    "epsExpected": 0.37,
-    "epsReported": null,
-    "revExpected": 3141094950.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "GWRE",
     "name": "Guidewire Software, Inc.",
     "date": "2026-12-03",
@@ -810,6 +796,20 @@
     "epsExpected": 0.72,
     "epsReported": null,
     "revExpected": 376242050.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "HRL",
+    "name": "Hormel Foods Corporation",
+    "date": "2026-12-03",
+    "time": "2026-12-03T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q4 2026",
+    "epsExpected": 0.37,
+    "epsReported": null,
+    "revExpected": 3141094950.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
@@ -1086,20 +1086,6 @@
     "revRepSrc": null
    },
    {
-    "symbol": "KFY",
-    "name": "Korn Ferry",
-    "date": "2026-12-08",
-    "time": "2026-12-08T08:30:00-05:00",
-    "session": "bmo",
-    "period": "Q2 2027",
-    "epsExpected": 1.37,
-    "epsReported": null,
-    "revExpected": 870874800.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "THO",
     "name": "THOR Industries, Inc.",
     "date": "2026-12-08",
@@ -1109,6 +1095,20 @@
     "epsExpected": 0.14,
     "epsReported": null,
     "revExpected": 2272235350.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
+   },
+   {
+    "symbol": "KFY",
+    "name": "Korn Ferry",
+    "date": "2026-12-08",
+    "time": "2026-12-08T08:30:00-05:00",
+    "session": "bmo",
+    "period": "Q2 2027",
+    "epsExpected": 1.37,
+    "epsReported": null,
+    "revExpected": 870874800.0,
     "revReported": null,
     "revExpSrc": "yahoo",
     "revRepSrc": null
