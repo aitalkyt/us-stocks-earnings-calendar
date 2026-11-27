@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:39:30.107804-05:00",
+ "updated": "2026-11-26T22:16:10.703170-05:00",
  "days": {
   "2026-11-19": [
    {
@@ -17,20 +17,6 @@
     "revRepSrc": "finnhub"
    },
    {
-    "symbol": "ROST",
-    "name": "Ross Stores, Inc.",
-    "date": "2026-11-19",
-    "time": "2026-11-19T16:01:00-05:00",
-    "session": "amc",
-    "period": "",
-    "epsExpected": 1.87,
-    "epsReported": 1.91,
-    "revExpected": 6217163720.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
     "symbol": "INTU",
     "name": "Intuit Inc.",
     "date": "2026-11-19",
@@ -43,6 +29,20 @@
     "revReported": 4354000000.0,
     "revExpSrc": "yahoo",
     "revRepSrc": "yahoo"
+   },
+   {
+    "symbol": "ROST",
+    "name": "Ross Stores, Inc.",
+    "date": "2026-11-19",
+    "time": "2026-11-19T16:01:00-05:00",
+    "session": "amc",
+    "period": "",
+    "epsExpected": 1.87,
+    "epsReported": 1.91,
+    "revExpected": 6217163720.0,
+    "revReported": null,
+    "revExpSrc": "yahoo",
+    "revRepSrc": null
    },
    {
     "symbol": "KEYS",
