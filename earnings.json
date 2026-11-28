@@ -1,50 +1,6 @@
 {
- "updated": "2026-11-27T22:09:17.745161-05:00",
+ "updated": "2026-11-28T00:18:24.043519-05:00",
  "days": {
-  "2026-11-20": [
-   {
-    "symbol": "BJ",
-    "name": "BJ's Wholesale Club Holdings, Inc.",
-    "date": "2026-11-20",
-    "time": "2026-11-20T06:45:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 1.26,
-    "epsReported": 1.74,
-    "revExpected": 5932073000.0,
-    "revReported": null,
-    "revExpSrc": "yahoo",
-    "revRepSrc": null
-   },
-   {
-    "symbol": "MOG-A",
-    "name": "Moog Inc.",
-    "date": "2026-11-20",
-    "time": "2026-11-20T07:55:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 2.68,
-    "epsReported": 3.37,
-    "revExpected": 1122050000.0,
-    "revReported": 1254101000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "yahoo"
-   },
-   {
-    "symbol": "BKE",
-    "name": "The Buckle, Inc.",
-    "date": "2026-11-20",
-    "time": "2026-11-20T06:50:00-05:00",
-    "session": "bmo",
-    "period": "",
-    "epsExpected": 0.84,
-    "epsReported": 0.94,
-    "revExpected": 337148030.0,
-    "revReported": 329202000.0,
-    "revExpSrc": "yahoo",
-    "revRepSrc": "finnhub"
-   }
-  ],
   "2026-11-23": [
    {
     "symbol": "CRWD",
@@ -1964,6 +1920,27 @@
  },
  "saved": [
   {
+   "symbol": "BJ",
+   "date": "2026-11-20",
+   "revExpected": 5932073000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 1.26
+  },
+  {
+   "symbol": "MOG-A",
+   "date": "2026-11-20",
+   "revExpected": 1122050000.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 2.68
+  },
+  {
+   "symbol": "BKE",
+   "date": "2026-11-20",
+   "revExpected": 337148030.0,
+   "revExpSrc": "yahoo",
+   "epsExpected": 0.84
+  },
+  {
    "symbol": "WMT",
    "date": "2026-11-19",
    "revExpected": 187191825390.0,
@@ -2139,62 +2116,6 @@
    "epsExpected": 0.24
   },
   {
-   "symbol": "NVDA",
-   "date": "2026-11-17",
-   "revExpected": 108976833310.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 2.47
-  },
-  {
-   "symbol": "HD",
-   "date": "2026-11-17",
-   "revExpected": 42738800990.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 3.84
-  },
-  {
-   "symbol": "DIS",
-   "date": "2026-11-17",
-   "revExpected": 25154598640.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.68
-  },
-  {
-   "symbol": "DLB",
-   "date": "2026-11-17",
-   "revExpected": 372759500.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.2
-  },
-  {
-   "symbol": "SR",
-   "date": "2026-11-17",
-   "revExpected": 297060730.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": -1.02
-  },
-  {
-   "symbol": "GFF",
-   "date": "2026-11-17",
-   "revExpected": 481788810.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.59
-  },
-  {
-   "symbol": "GBDC",
-   "date": "2026-11-17",
-   "revExpected": 187626670.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.33
-  },
-  {
-   "symbol": "MFP",
-   "date": "2026-11-17",
-   "revExpected": 219940000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 0.51
-  },
-  {
    "symbol": "KSS",
    "date": "2026-11-24",
    "revExpected": 3436440520.0,
@@ -2270,13 +2191,6 @@
    "revExpected": 1296672500.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.85
-  },
-  {
-   "symbol": "BRC",
-   "date": "2026-11-17",
-   "revExpected": 713756000.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.44
   },
   {
    "symbol": "CPRT",
@@ -2361,13 +2275,6 @@
    "revExpected": 481788810.0,
    "revExpSrc": "yahoo",
    "epsExpected": 1.59
-  },
-  {
-   "symbol": "POWL",
-   "date": "2026-11-17",
-   "revExpected": 331394800.0,
-   "revExpSrc": "yahoo",
-   "epsExpected": 1.56
   }
  ]
 }
